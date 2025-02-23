@@ -2,8 +2,11 @@ name: Update Plex Data
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # Runs every 30 minutes
-  workflow_dispatch:  # Allows manual triggering
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-data:
@@ -16,7 +19,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          persist-credentials: true
       
       - name: Setup PHP
         uses: shivammathur/setup-php@v2
@@ -30,11 +33,11 @@ jobs:
         run: php update_plex.php
         
       - name: Commit and Push Changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add docs/data/recent.json
           git commit -m "Update Plex data" || echo "No changes to commit"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
