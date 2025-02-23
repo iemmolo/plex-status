@@ -14,10 +14,16 @@ try {
     }
 
     $plex = new PlexApi($plexToken, $plexUrl);
-    $writer = new DataWriter('docs/data/recent.json');
 
+    // TODO: Fix this please.
     $data = $plex->getRecentlyAdded();
+    $writer = new DataWriter('docs/data/recent.json');
     $writer->write($data);
+
+    $data = $plex->getSeverStatus();
+    $writer = new DataWriter('docs/data/status.json');
+    $writer->write($data);
+
 
     echo "Data successfully saved to docs/data/recent.json\n";
 } catch (\Exception $e) {

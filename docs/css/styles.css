@@ -1,0 +1,14 @@
+body {
+    background-color: #c0c0c0;
+}
+
+.hidden {
+    display: none;
+}
+tr:has(input[type="radio"]:checked) {
+    background-color: #000080 !important;
+    color: white !important;
+}
+table.interactive tbody tr {
+    cursor: pointer;
+}

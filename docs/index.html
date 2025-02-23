@@ -1,22 +1,40 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Plex Status</title>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="css/98.css" />
+    <link rel="stylesheet" href="css/styles.css" />
+    <style>
+        /* .media-item {
+            padding: 10px;
+            margin: 5px;
+            border: 1px solid;
+        }
+        .title {
+            font-weight: bold;
+        }
+        .details {
+            font-size: 0.9em;
+            color: #666;
+        }
+        .error {
+            color: red;
+            padding: 10px;
+        } */
+    </style>
 </head>
 <body>
-    <h1>Recently Added Media</h1>
-    <div id="content"></div>
-
-    <script>
-        fetch('data/recent.json')
-            .then(response => response.json())
-            .then(data => {
-                const content = document.getElementById('content');
-                content.innerHTML = `<pre>${JSON.stringify(data, null, 2)}</pre>`;
-            })
-            .catch(error => console.error('Error:', error));
-    </script>
+    <div class="window" style="margin: 32px;">
+        <div class="title-bar">
+            <div class="title-bar-text">
+                Plex Recently Added
+            </div>
+        </div>
+        <div class="window-body">
+            <div id="content"></div>
+        </div>
+    </div>
+    <script src="js/app.js"></script>
 </body>
 </html>

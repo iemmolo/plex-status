@@ -32,4 +32,14 @@ class PlexApi
             throw new \RuntimeException("Failed to fetch recently added: " . $e->getMessage());
         }
     }
+
+    public function getSeverStatus(): array
+    {
+        try {
+            $response = $this->client->request('GET', $this->baseUrl . '/servers');
+            return json_decode($response->getBody(), true);
+        } catch (GuzzleException $e) {
+            throw new \RuntimeException("Failed to get sever status: " . $e->getMessage());
+        }
+    }
 }
