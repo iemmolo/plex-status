@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plex Status</title>
+</head>
+<body>
+    <h1>Recently Added Media</h1>
+    <div id="content"></div>
+
+    <script>
+        fetch('data/recent.json')
+            .then(response => response.json())
+            .then(data => {
+                const content = document.getElementById('content');
+                content.innerHTML = `<pre>${JSON.stringify(data, null, 2)}</pre>`;
+            })
+            .catch(error => console.error('Error:', error));
+    </script>
+</body>
+</html>

@@ -1,0 +1,36 @@
+name: Update Plex Data
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'  # Runs every 30 minutes
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    
+    env:
+      PLEX_TOKEN: ${{ secrets.PLEX_TOKEN }}
+      PLEX_URL: ${{ secrets.PLEX_URL }}
+    
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.2'
+          
+      - name: Install Dependencies
+        run: composer install
+        
+      - name: Update Plex Data
+        run: php update_plex.php
+        
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name 'GitHub Action'
+          git config --global user.email 'action@github.com'
+          git add docs/data/recent.json
+          git commit -m "Update Plex data" || echo "No changes to commit"
+          git push
