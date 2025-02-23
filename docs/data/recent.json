@@ -1701,6 +1701,8 @@
                 "contentRating": "au/MA 15+",
                 "summary": "This is an amazing story about one of the most famous pop artists of the nineties and 2000s. Robbie Williams is not just a talented singer, he is a charismatic and scandalous star who, in his youth, set himself the goal of breaking through and becoming famous throughout the world. The film tells how Robbie felt wild as a child, and to prove to everyone that he was capable of achieving a lot, he immersed himself in music.",
                 "audienceRating": 7.6,
+                "viewOffset": 2487272,
+                "lastViewedAt": 1740308890,
                 "year": 2024,
                 "tagline": "Fame makes monkeys of us all.",
                 "thumb": "/library/metadata/13/thumb/1740247227",
@@ -3516,25 +3518,24 @@
                 "librarySectionUUID": "684c2eea-3e49-4c03-b348-5b8833a9eda4",
                 "ratingKey": "28",
                 "key": "/library/metadata/28",
-                "guid": "plex://movie/5d776bdffb0d55001f575d08",
-                "slug": "the-companion-2016",
-                "studio": "Aret\u00e9 Audiovisual",
+                "guid": "plex://movie/63dea40e87acb8e35866d4e6",
+                "slug": "companion-2025",
+                "studio": "BoulderLight Pictures",
                 "type": "movie",
-                "title": "The Companion",
-                "titleSort": "Companion",
-                "originalTitle": "El acompa\u00f1ante",
-                "contentRating": "TV-MA",
-                "summary": "At the height of the 1980s AIDS epidemic, Cuban boxing champion Horacio's punishment for failing a drug test is to watch over the brash, combative Daniel, a patient in a sanatorium where HIV patients are compulsorily confined. The two collide as Daniel yearns for freedom while Horacio dreams of returning to the ring.",
-                "audienceRating": 7.4,
-                "year": 2016,
-                "tagline": "In the 80's, when fear spread faster than HIV, Cuba confined the epidemic behind a wall",
-                "thumb": "/library/metadata/28/thumb/1740212505",
-                "art": "/library/metadata/28/art/1740212505",
+                "title": "Companion",
+                "contentRating": "au/MA 15+",
+                "summary": "During a weekend getaway at a secluded lakeside estate, a group of friends finds themselves entangled in a web of secrets, deception, and advanced technology. As tensions rise and loyalties are tested, they uncover unsettling truths about themselves and the world around them.",
+                "audienceRating": 7.2,
+                "year": 2025,
+                "tagline": "Find someone made just for you.",
+                "thumb": "/library/metadata/28/thumb/1740308339",
+                "art": "/library/metadata/28/art/1740308339",
                 "duration": 5824832,
-                "originallyAvailableAt": "2016-08-17",
+                "originallyAvailableAt": "2025-01-28",
                 "addedAt": 1740056356,
-                "updatedAt": 1740212505,
+                "updatedAt": 1740308339,
                 "audienceRatingImage": "imdb://image.rating",
+                "hasPremiumPrimaryExtra": "1",
                 "Media": [
                     {
                         "id": 62,
@@ -3565,14 +3566,19 @@
                 ],
                 "Image": [
                     {
-                        "alt": "The Companion",
+                        "alt": "Companion",
                         "type": "coverPoster",
-                        "url": "/library/metadata/28/thumb/1740212505"
+                        "url": "/library/metadata/28/thumb/1740308339"
                     },
                     {
-                        "alt": "The Companion",
+                        "alt": "Companion",
                         "type": "background",
-                        "url": "/library/metadata/28/art/1740212505"
+                        "url": "/library/metadata/28/art/1740308339"
+                    },
+                    {
+                        "alt": "Companion",
+                        "type": "clearLogo",
+                        "url": "/library/metadata/28/clearLogo/1740308339"
                     }
                 ],
                 "UltraBlurColors": {
@@ -3583,36 +3589,36 @@
                 },
                 "Genre": [
                     {
-                        "tag": "Drama"
+                        "tag": "Science Fiction"
+                    },
+                    {
+                        "tag": "Thriller"
                     }
                 ],
                 "Country": [
                     {
-                        "tag": "Panama"
-                    },
-                    {
-                        "tag": "Cuba"
+                        "tag": "United States of America"
                     }
                 ],
                 "Director": [
                     {
-                        "tag": "Pavel Giroud"
+                        "tag": "Drew Hancock"
                     }
                 ],
                 "Writer": [
                     {
-                        "tag": "Pavel Giroud"
+                        "tag": "Drew Hancock"
                     }
                 ],
                 "Role": [
                     {
-                        "tag": "Yotuel Romero"
+                        "tag": "Sophie Thatcher"
                     },
                     {
-                        "tag": "Armando Miguel G\u00f3mez"
+                        "tag": "Jack Quaid"
                     },
                     {
-                        "tag": "Yailene Sierra"
+                        "tag": "Lukas Gage"
                     }
                 ]
             },
@@ -3727,24 +3733,26 @@
                 "librarySectionUUID": "684c2eea-3e49-4c03-b348-5b8833a9eda4",
                 "ratingKey": "92",
                 "key": "/library/metadata/92",
-                "guid": "plex://movie/5d776ad17a53e9001e71087b",
-                "slug": "chuy-el-hombre-lobo",
-                "studio": "Dark Night Pictures",
+                "guid": "plex://movie/5d776c1efb0d55001f57d76f",
+                "slug": "wolf-man-2025",
+                "studio": "Universal Pictures",
                 "type": "movie",
-                "title": "Chuy, El hombre lobo",
-                "originalTitle": "Chuy, el hombre lobo",
-                "summary": "Jesus 'Chuy' Aceves and a dozen living members of his extended family suffer from the very rare condition of congenital hypertrichosis, meaning they were born with excessive hair on their faces and bodies. Due to their appearance, they suffer from discrimination in all areas of their lives: the children are made fun of at school and abandoned by their 'non-hairy' parents, and the adults cannot find work unless they choose to exhibit themselves as freaks in circuses. This moving and visually arresting documentary is a portrait of Chuy and his family members. It examines their day-to-day lives and their struggle to find love, acceptance and employment.",
-                "audienceRating": 8,
+                "title": "Wolf Man",
+                "contentRating": "au/MA 15+",
+                "summary": "With his marriage fraying, Blake persuades his wife Charlotte to take a break from the city and visit his remote childhood home in rural Oregon. As they arrive at the farmhouse in the dead of night, they're attacked by an unseen animal and barricade themselves inside the home as the creature prowls the perimeter. But as the night stretches on, Blake begins to behave strangely, transforming into something unrecognizable.",
+                "audienceRating": 5.7,
                 "viewCount": 1,
                 "lastViewedAt": 1740053581,
-                "year": 2014,
-                "thumb": "/library/metadata/92/thumb/1740212515",
-                "art": "/library/metadata/92/art/1740212515",
+                "year": 2025,
+                "tagline": "Protect your own.",
+                "thumb": "/library/metadata/92/thumb/1740308286",
+                "art": "/library/metadata/92/art/1740308286",
                 "duration": 6170976,
-                "originallyAvailableAt": "2014-10-20",
+                "originallyAvailableAt": "2025-01-15",
                 "addedAt": 1738937724,
-                "updatedAt": 1740212515,
+                "updatedAt": 1740308286,
                 "audienceRatingImage": "imdb://image.rating",
+                "hasPremiumPrimaryExtra": "1",
                 "Media": [
                     {
                         "id": 190,
@@ -3775,14 +3783,19 @@
                 ],
                 "Image": [
                     {
-                        "alt": "Chuy, El hombre lobo",
+                        "alt": "Wolf Man",
                         "type": "coverPoster",
-                        "url": "/library/metadata/92/thumb/1740212515"
+                        "url": "/library/metadata/92/thumb/1740308286"
                     },
                     {
-                        "alt": "Chuy, El hombre lobo",
+                        "alt": "Wolf Man",
                         "type": "background",
-                        "url": "/library/metadata/92/art/1740212515"
+                        "url": "/library/metadata/92/art/1740308286"
+                    },
+                    {
+                        "alt": "Wolf Man",
+                        "type": "clearLogo",
+                        "url": "/library/metadata/92/clearLogo/1740308286"
                     }
                 ],
                 "UltraBlurColors": {
@@ -3793,36 +3806,39 @@
                 },
                 "Genre": [
                     {
-                        "tag": "Documentary"
+                        "tag": "Horror"
                     },
                     {
-                        "tag": "Biography"
+                        "tag": "Thriller"
                     }
                 ],
                 "Country": [
                     {
-                        "tag": "Mexico"
+                        "tag": "United States of America"
                     }
                 ],
                 "Director": [
                     {
-                        "tag": "Eva Aridjis"
+                        "tag": "Leigh Whannell"
                     }
                 ],
                 "Writer": [
                     {
-                        "tag": "Eva Aridjis"
+                        "tag": "Curt Siodmak"
+                    },
+                    {
+                        "tag": "Leigh Whannell"
                     }
                 ],
                 "Role": [
                     {
-                        "tag": "Jes\u00fas Aceves"
+                        "tag": "Christopher Abbott"
                     },
                     {
-                        "tag": "Mar\u00eda Victoria Pe\u00f1a Flores"
+                        "tag": "Julia Garner"
                     },
                     {
-                        "tag": "Mar\u00eda Araceli Fajardo Pe\u00f1a"
+                        "tag": "Matilda Firth"
                     }
                 ]
             },

@@ -30,7 +30,7 @@ jobs:
         run: composer install
         
       - name: Update Plex Data
-        run: php update_plex.php
+        run: php fetchData.php
         
       - name: Commit and Push Changes
         env:
