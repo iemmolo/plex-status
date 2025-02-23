@@ -3,20 +3,22 @@ require 'vendor/autoload.php';
 
 use GuzzleHttp\Client;
 
-// Check for required environment variables
-if (!getenv('PLEX_TOKEN') || !getenv('PLEX_URL')) {
-    die("Error: PLEX_TOKEN and PLEX_URL environment variables are required\n");
-}
+// Load config file
+$config = require 'config.php';
+
+// Try environment variables first, fall back to config file
+$plexToken = getenv('PLEX_TOKEN') ?: $config['plex']['token'];
+$plexUrl = getenv('PLEX_URL') ?: $config['plex']['base_url'];
 
 try {
     $client = new GuzzleHttp\Client([
         'headers' => [
             'Accept' => 'application/json',
-            'X-Plex-Token' => getenv('PLEX_TOKEN')
+            'X-Plex-Token' => $plexToken
         ]
     ]);
     
-    $response = $client->request('GET', getenv('PLEX_URL') . '/library/recentlyAdded');
+    $response = $client->request('GET', $plexUrl . '/library/recentlyAdded');
     
     $data = json_decode($response->getBody(), true);
     
