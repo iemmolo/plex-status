@@ -2845,12 +2845,12 @@
                 "audienceRating": 6.8,
                 "year": 2025,
                 "tagline": "She's starting a new chapter. Just as she is.",
-                "thumb": "/library/metadata/15/thumb/1740248994",
-                "art": "/library/metadata/15/art/1740248994",
+                "thumb": "/library/metadata/15/thumb/1740340028",
+                "art": "/library/metadata/15/art/1740340028",
                 "duration": 7492234,
                 "originallyAvailableAt": "2025-02-12",
                 "addedAt": 1740059764,
-                "updatedAt": 1740248994,
+                "updatedAt": 1740340028,
                 "audienceRatingImage": "imdb://image.rating",
                 "hasPremiumPrimaryExtra": "1",
                 "Media": [
@@ -2887,17 +2887,17 @@
                     {
                         "alt": "Bridget Jones: Mad About the Boy",
                         "type": "coverPoster",
-                        "url": "/library/metadata/15/thumb/1740248994"
+                        "url": "/library/metadata/15/thumb/1740340028"
                     },
                     {
                         "alt": "Bridget Jones: Mad About the Boy",
                         "type": "background",
-                        "url": "/library/metadata/15/art/1740248994"
+                        "url": "/library/metadata/15/art/1740340028"
                     },
                     {
                         "alt": "Bridget Jones: Mad About the Boy",
                         "type": "clearLogo",
-                        "url": "/library/metadata/15/clearLogo/1740248994"
+                        "url": "/library/metadata/15/clearLogo/1740340028"
                     }
                 ],
                 "UltraBlurColors": {
@@ -2932,7 +2932,7 @@
                         "tag": "Helen Fielding"
                     },
                     {
-                        "tag": "Dan Mazer"
+                        "tag": "Abi Morgan"
                     }
                 ],
                 "Role": [
@@ -3083,12 +3083,12 @@
                 "lastRatedAt": 1740236875,
                 "year": 2025,
                 "tagline": "The world's most dangerous secret lies between them.",
-                "thumb": "/library/metadata/76/thumb/1740248994",
-                "art": "/library/metadata/76/art/1740248994",
+                "thumb": "/library/metadata/76/thumb/1740340028",
+                "art": "/library/metadata/76/art/1740340028",
                 "duration": 7667552,
                 "originallyAvailableAt": "2025-02-14",
                 "addedAt": 1740059100,
-                "updatedAt": 1740248994,
+                "updatedAt": 1740340028,
                 "audienceRatingImage": "imdb://image.rating",
                 "chapterSource": "media",
                 "hasPremiumPrimaryExtra": "1",
@@ -3124,17 +3124,17 @@
                     {
                         "alt": "The Gorge",
                         "type": "coverPoster",
-                        "url": "/library/metadata/76/thumb/1740248994"
+                        "url": "/library/metadata/76/thumb/1740340028"
                     },
                     {
                         "alt": "The Gorge",
                         "type": "background",
-                        "url": "/library/metadata/76/art/1740248994"
+                        "url": "/library/metadata/76/art/1740340028"
                     },
                     {
                         "alt": "The Gorge",
                         "type": "clearLogo",
-                        "url": "/library/metadata/76/clearLogo/1740248994"
+                        "url": "/library/metadata/76/clearLogo/1740340028"
                     }
                 ],
                 "UltraBlurColors": {
