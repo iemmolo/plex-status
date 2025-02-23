@@ -3,18 +3,21 @@ require 'vendor/autoload.php';
 
 use GuzzleHttp\Client;
 
-$dotenv = Dotenv\Dotenv::createImmutable(__DIR__);
-$dotenv->load();
+// Check for required environment variables
+if (!getenv('PLEX_TOKEN') || !getenv('PLEX_URL')) {
+    die("Error: PLEX_TOKEN and PLEX_URL environment variables are required\n");
+}
 
 try {
     $client = new GuzzleHttp\Client([
         'headers' => [
             'Accept' => 'application/json',
-            'X-Plex-Token' => $_ENV['PLEX_TOKEN']
+            'X-Plex-Token' => getenv('PLEX_TOKEN')
         ]
     ]);
     
-    $response = $client->request('GET', $_ENV['PLEX_URL'] . '/library/recentlyAdded');    
+    $response = $client->request('GET', getenv('PLEX_URL') . '/library/recentlyAdded');
+    
     $data = json_decode($response->getBody(), true);
     
     if (!file_exists('docs/data')) {
