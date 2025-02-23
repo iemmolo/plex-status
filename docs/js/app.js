@@ -1,34 +1,52 @@
 class PlexDisplay {
     constructor() {
         this.contentElement = document.getElementById('content');
+        this.serverContent = document.getElementById('server-status');
     }
 
     async loadData() {
         try {
-            const response = await fetch('data/recent.json');
-            const data = await response.json();
-            this.displayMedia(data);
+            const statusResponse = await fetch('data/status.json');
+            const statusData = await statusResponse.json();
+            this.displayServerStatus(statusData, true);
+
+            const mediaResponse = await fetch('data/recent.json');
+            const mediaData = await mediaResponse.json();
+            this.displayMedia(mediaData);
             this.setupRowClicks();
         } catch (error) {
             console.error('Error loading data:', error);
+            this.displayServerStatus(null, false);
             this.showError();
         }
+    }
+
+    displayServerStatus(data, isOnline) {
+        let serverName = 'Unknown';
+        let version = '';
+
+        if (data && data.MediaContainer && data.MediaContainer.Server) {
+            const server = data.MediaContainer.Server[0];
+            serverName = server.name;
+            version = server.version;
+        }
+
+        const statusHtml = `
+            <blockquote>
+                The Server is <span class="status-text ${isOnline ? 'status-online' : 'status-offline'}">${isOnline ? 'Online' : 'Offline'}</span>
+                <footer>
+                    — ${serverName}${version ? ` (v${version})` : ''}
+                </footer>
+            </blockquote>
+        `;
+        this.serverContent.innerHTML = statusHtml;
     }
 
     displayMedia(data) {
         const items = data.MediaContainer.Metadata || [];
         
         const html = `
-            <style>
-                tr.highlighted {
-                    background-color: #000080 !important;
-                    color: white !important;
-                }
-                table.interactive tbody tr {
-                    cursor: pointer;
-                }
-            </style>
-            <div class="sunken-panel" style="height: 120px; width: 100%;">
+            <div class="sunken-panel" style="height: auto; width: 100%;">
                 <table class="interactive">
                     <thead>
                         <tr>

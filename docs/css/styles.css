@@ -12,3 +12,35 @@ tr:has(input[type="radio"]:checked) {
 table.interactive tbody tr {
     cursor: pointer;
 }
+
+.status-text {
+    font-weight: bold;
+}
+
+.status-online {
+    color: #008000;  /* Windows 98 green */
+}
+
+.status-offline {
+    color: #FF0000;  /* Windows 98 red */
+}
+
+blockquote {
+    margin: 16px;
+    padding: 8px;
+    background: #ffffff;
+    border: 1px solid #848584;
+}
+
+blockquote footer {
+    margin-top: 8px;
+    color: #424242;
+}
+
+tr.highlighted {
+    background-color: #000080 !important;
+    color: white !important;
+}
+table.interactive tbody tr {
+    cursor: pointer;
+}
