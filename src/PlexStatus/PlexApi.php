@@ -33,13 +33,17 @@ class PlexApi
         }
     }
 
-    public function getSeverStatus(): array
+    public function getServerStatus(): array
     {
         try {
-            $response = $this->client->request('GET', $this->baseUrl . '/servers');
-            return json_decode($response->getBody(), true);
+            $this->client->request('GET', $this->baseUrl . '/servers');
+            return ['status' => 'Online', 'timestamp' => time()];
         } catch (GuzzleException $e) {
-            throw new \RuntimeException("Failed to get sever status: " . $e->getMessage());
+            return [
+                'status' => 'Offline',
+                'error' => $e->getMessage(),
+                'timestamp' => time()
+            ];
         }
     }
 }

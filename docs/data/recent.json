@@ -1,22 +1,794 @@
 {
     "MediaContainer": {
-        "size": 45,
-        "allowSync": false,
-        "identifier": "com.plexapp.plugins.library",
-        "mediaTagPrefix": "/system/bundle/media/flags/",
-        "mediaTagVersion": 1738830130,
-        "mixedParents": true,
         "Metadata": [
             {
-                "allowSync": true,
-                "librarySectionID": 2,
-                "librarySectionTitle": "JacksTvs",
-                "librarySectionUUID": "ef319db3-9dbc-4456-9f39-d072f5e05a88",
+                "ratingKey": "323",
+                "parentRatingKey": "284",
+                "parentSlug": "happy-endings",
+                "parentStudio": "ABC Studios",
+                "type": "season",
+                "title": "Season 2",
+                "parentKey": "/library/metadata/284",
+                "parentTitle": "Happy Endings",
+                "parentSummary": "This Chicago-set sitcom follows the intertwined lives of six young urbanites trying to learn the ropes of adulthood. Through breakups and whatever other curve-balls life throws them, the pals stick together.",
+                "summary": "The second season of Happy Endings, an American television series. ABC officially renewed Happy Endings for a second season on May 13, 2011. It was later announced it would move to a new time-slot on Wednesdays at 9:30pm, as a lead-in to new series, Revenge. It premiered on September 28, 2011.\n\nOn November 3, 2011, ABC picked up the show for a full 22-episode second season. However the 21st episode to air was labeled as the season finale by ABC as they \"needed\" to premiere Don't Trust the B---- in Apartment 23 on April 11, 2012. Despite the episode officially being held back for the third season, the 22nd episode aired on E4 in the UK on May 17, 2012, and other international markets, as part of the second season.\n\nAlthough the season was not officially released on DVD until October 23, 2012, the DVD was included in a release that contains the first two seasons of the show that was released on August 14, 2012.",
+                "index": 2,
+                "parentIndex": 1,
+                "parentYear": 2011,
+                "thumb": "/library/metadata/323/thumb/1740353860",
+                "art": "/library/metadata/284/art/1740353859",
+                "parentThumb": "/library/metadata/284/thumb/1740353859",
+                "parentTheme": "/library/metadata/284/theme/1740353859",
+                "leafCount": 22,
+                "viewedLeafCount": 0,
+                "addedAt": 1740353858,
+                "updatedAt": 1740353860,
+                "Image": [
+                    {
+                        "alt": "Season 2",
+                        "type": "coverPoster",
+                        "url": "/library/metadata/323/thumb/1740353860"
+                    },
+                    {
+                        "alt": "Season 2",
+                        "type": "background",
+                        "url": "/library/metadata/284/art/1740353859"
+                    },
+                    {
+                        "alt": "Season 2",
+                        "type": "clearLogo",
+                        "url": "/library/metadata/284/clearLogo/1740353859"
+                    }
+                ],
+                "UltraBlurColors": {
+                    "topLeft": "1c1e71",
+                    "topRight": "2d54a6",
+                    "bottomRight": "345e96",
+                    "bottomLeft": "3b5b9d"
+                }
+            },
+            {
+                "ratingKey": "309",
+                "parentRatingKey": "284",
+                "parentSlug": "happy-endings",
+                "parentStudio": "ABC Studios",
+                "type": "season",
+                "title": "Season 1",
+                "parentKey": "/library/metadata/284",
+                "parentTitle": "Happy Endings",
+                "parentSummary": "This Chicago-set sitcom follows the intertwined lives of six young urbanites trying to learn the ropes of adulthood. Through breakups and whatever other curve-balls life throws them, the pals stick together.",
+                "summary": "The first season of Happy Endings, an American television series, premiered on April 13, 2011 and concluded on August 24 of the same year. ABC officially picked up the show on May 18, 2010, where it premiered on April as a midseason replacement, with a one-hour premiere of two back-to-back episodes starting at 9:30 pm ET/PT. In the weeks that followed, the show continued to air back-to-back episodes that began airing at 10:00 pm ET/PT.",
+                "index": 1,
+                "parentIndex": 1,
+                "viewCount": 1,
+                "lastViewedAt": 1740401746,
+                "parentYear": 2011,
+                "thumb": "/library/metadata/309/thumb/1740353861",
+                "art": "/library/metadata/284/art/1740353859",
+                "parentThumb": "/library/metadata/284/thumb/1740353859",
+                "parentTheme": "/library/metadata/284/theme/1740353859",
+                "leafCount": 13,
+                "viewedLeafCount": 3,
+                "addedAt": 1740353858,
+                "updatedAt": 1740353861,
+                "Image": [
+                    {
+                        "alt": "Season 1",
+                        "type": "coverPoster",
+                        "url": "/library/metadata/309/thumb/1740353861"
+                    },
+                    {
+                        "alt": "Season 1",
+                        "type": "background",
+                        "url": "/library/metadata/284/art/1740353859"
+                    },
+                    {
+                        "alt": "Season 1",
+                        "type": "clearLogo",
+                        "url": "/library/metadata/284/clearLogo/1740353859"
+                    }
+                ],
+                "UltraBlurColors": {
+                    "topLeft": "12295f",
+                    "topRight": "0a529a",
+                    "bottomRight": "2e6386",
+                    "bottomLeft": "1f6294"
+                }
+            },
+            {
+                "ratingKey": "285",
+                "parentRatingKey": "284",
+                "parentSlug": "happy-endings",
+                "parentStudio": "ABC Studios",
+                "type": "season",
+                "title": "Season 3",
+                "parentKey": "/library/metadata/284",
+                "parentTitle": "Happy Endings",
+                "parentSummary": "This Chicago-set sitcom follows the intertwined lives of six young urbanites trying to learn the ropes of adulthood. Through breakups and whatever other curve-balls life throws them, the pals stick together.",
+                "summary": "The third and final season of Happy Endings, an American television series. ABC officially renewed Happy Endings for a third and final season on May 11, 2012. It was also announced it would move to a new time-slot on Tuesdays at 9:00pm, as a lead-in to Don't Trust the B---- in Apartment 23. The season premiered on October 23, 2012. On February 13, 2013, ABC announced that, starting March 29, 2013, the series would move to Fridays at 8:00-9:00 p.m ET/PT with back-to-back original episodes. The series finale aired on May 3, 2013.\n\nABC's scheduling of Happy Endings's third and final season was labeled the \"Worst TV Strategy\" of the 2012-13 television season.",
+                "index": 3,
+                "parentIndex": 1,
+                "parentYear": 2011,
+                "thumb": "/library/metadata/285/thumb/1740353861",
+                "art": "/library/metadata/284/art/1740353859",
+                "parentThumb": "/library/metadata/284/thumb/1740353859",
+                "parentTheme": "/library/metadata/284/theme/1740353859",
+                "leafCount": 23,
+                "viewedLeafCount": 0,
+                "addedAt": 1740353857,
+                "updatedAt": 1740353861,
+                "Image": [
+                    {
+                        "alt": "Season 3",
+                        "type": "coverPoster",
+                        "url": "/library/metadata/285/thumb/1740353861"
+                    },
+                    {
+                        "alt": "Season 3",
+                        "type": "background",
+                        "url": "/library/metadata/284/art/1740353859"
+                    },
+                    {
+                        "alt": "Season 3",
+                        "type": "clearLogo",
+                        "url": "/library/metadata/284/clearLogo/1740353859"
+                    }
+                ],
+                "UltraBlurColors": {
+                    "topLeft": "152e4d",
+                    "topRight": "2c628c",
+                    "bottomRight": "894a2e",
+                    "bottomLeft": "254e75"
+                }
+            },
+            {
+                "ratingKey": "276",
+                "slug": "ne-zha",
+                "studio": "Beijing Enlight Pictures",
+                "type": "movie",
+                "title": "Ne Zha",
+                "originalTitle": "\u54ea\u5412\u4e4b\u9b54\u7ae5\u964d\u4e16",
+                "contentRating": "au/PG",
+                "summary": "The Primus extracts a Mixed Yuan Bead into a spirit bead and a demon bead. The spirit bead can be reincarnated in human to help King Zhou establish a new dynasty, the demon bead will create a devil and harm human. Ne Zha is the one who should be spirit bead hero but he becomes a devil incarnate, because the spirit bead and the demon bead is switched.",
+                "audienceRating": 7.4,
+                "year": 2019,
+                "tagline": "I am the destiny (Australia/New Zealand/UK/Ireland)",
+                "thumb": "/library/metadata/276/thumb/1740353838",
+                "art": "/library/metadata/276/art/1740353838",
+                "duration": 6607520,
+                "originallyAvailableAt": "2019-07-26",
+                "addedAt": 1740353837,
+                "updatedAt": 1740353838,
+                "audienceRatingImage": "imdb://image.rating",
+                "chapterSource": "media",
+                "hasPremiumPrimaryExtra": "1",
+                "Media": [
+                    {
+                        "id": 397,
+                        "duration": 6607520,
+                        "bitrate": 1824,
+                        "width": 1920,
+                        "height": 800,
+                        "aspectRatio": 2.35,
+                        "audioChannels": 6,
+                        "audioCodec": "ac3",
+                        "videoCodec": "h264",
+                        "videoResolution": "1080",
+                        "container": "mkv",
+                        "videoFrameRate": "24p",
+                        "videoProfile": "high",
+                        "Part": [
+                            {
+                                "id": 398,
+                                "key": "/library/parts/398/1740308275/file.mkv",
+                                "duration": 6607520,
+                                "container": "mkv",
+                                "videoProfile": "high"
+                            }
+                        ]
+                    }
+                ],
+                "Image": [
+                    {
+                        "alt": "Ne Zha",
+                        "type": "coverPoster",
+                        "url": "/library/metadata/276/thumb/1740353838"
+                    },
+                    {
+                        "alt": "Ne Zha",
+                        "type": "background",
+                        "url": "/library/metadata/276/art/1740353838"
+                    },
+                    {
+                        "alt": "Ne Zha",
+                        "type": "clearLogo",
+                        "url": "/library/metadata/276/clearLogo/1740353838"
+                    }
+                ],
+                "UltraBlurColors": {
+                    "topLeft": "491223",
+                    "topRight": "651f27",
+                    "bottomRight": "702120",
+                    "bottomLeft": "66161a"
+                },
+                "Genre": [
+                    {
+                        "tag": "Animation"
+                    },
+                    {
+                        "tag": "Fantasy"
+                    }
+                ],
+                "Country": [
+                    {
+                        "tag": "China"
+                    }
+                ],
+                "Director": [
+                    {
+                        "tag": "Yang Yu"
+                    }
+                ],
+                "Writer": [
+                    {
+                        "tag": "Yang Yu"
+                    },
+                    {
+                        "tag": "Yi Qiao"
+                    }
+                ],
+                "Role": [
+                    {
+                        "tag": "L\u00fc Yanting"
+                    },
+                    {
+                        "tag": "Joseph"
+                    },
+                    {
+                        "tag": "Han Mo"
+                    }
+                ]
+            },
+            {
+                "ratingKey": "277",
+                "slug": "beetlejuice",
+                "studio": "Warner Bros. Pictures",
+                "type": "movie",
+                "title": "Beetlejuice",
+                "contentRating": "au/M",
+                "summary": "Adam and Barbara are a normal couple...who happen to be dead. They have given their precious time to decorate their house and make it their own, but unfortunately a family is moving in, and not quietly. Adam and Barbara try to scare them out, but end up becoming the main attraction to the money making family. They call upon Beetlejuice to help, but Beetlejuice has more in mind than just helping.",
+                "audienceRating": 7.5,
+                "year": 1988,
+                "tagline": "In this house, if you've seen one ghost...you haven't seen them all.",
+                "thumb": "/library/metadata/277/thumb/1740353839",
+                "art": "/library/metadata/277/art/1740353839",
+                "duration": 5525442,
+                "originallyAvailableAt": "1988-03-30",
+                "addedAt": 1740353837,
+                "updatedAt": 1740353839,
+                "audienceRatingImage": "imdb://image.rating",
+                "chapterSource": "media",
+                "hasPremiumPrimaryExtra": "1",
+                "Media": [
+                    {
+                        "id": 398,
+                        "duration": 5525442,
+                        "bitrate": 4344,
+                        "width": 1920,
+                        "height": 1038,
+                        "aspectRatio": 1.85,
+                        "audioChannels": 6,
+                        "audioCodec": "eac3",
+                        "videoCodec": "hevc",
+                        "videoResolution": "1080",
+                        "container": "mkv",
+                        "videoFrameRate": "24p",
+                        "videoProfile": "main 10",
+                        "Part": [
+                            {
+                                "id": 399,
+                                "key": "/library/parts/399/1740286688/file.mkv",
+                                "duration": 5525442,
+                                "container": "mkv",
+                                "videoProfile": "main 10"
+                            }
+                        ]
+                    }
+                ],
+                "Image": [
+                    {
+                        "alt": "Beetlejuice",
+                        "type": "coverPoster",
+                        "url": "/library/metadata/277/thumb/1740353839"
+                    },
+                    {
+                        "alt": "Beetlejuice",
+                        "type": "background",
+                        "url": "/library/metadata/277/art/1740353839"
+                    },
+                    {
+                        "alt": "Beetlejuice",
+                        "type": "clearLogo",
+                        "url": "/library/metadata/277/clearLogo/1740353839"
+                    }
+                ],
+                "UltraBlurColors": {
+                    "topLeft": "060423",
+                    "topRight": "491875",
+                    "bottomRight": "402b8a",
+                    "bottomLeft": "142f1a"
+                },
+                "Genre": [
+                    {
+                        "tag": "Comedy"
+                    },
+                    {
+                        "tag": "Fantasy"
+                    }
+                ],
+                "Country": [
+                    {
+                        "tag": "United States of America"
+                    }
+                ],
+                "Director": [
+                    {
+                        "tag": "Tim Burton"
+                    }
+                ],
+                "Writer": [
+                    {
+                        "tag": "Michael McDowell"
+                    },
+                    {
+                        "tag": "Larry Wilson"
+                    }
+                ],
+                "Role": [
+                    {
+                        "tag": "Alec Baldwin"
+                    },
+                    {
+                        "tag": "Geena Davis"
+                    },
+                    {
+                        "tag": "Winona Ryder"
+                    }
+                ]
+            },
+            {
+                "ratingKey": "273",
+                "slug": "the-apprentice-2024",
+                "studio": "Gidden Media",
+                "type": "movie",
+                "title": "The Apprentice",
+                "titleSort": "Apprentice",
+                "contentRating": "au/MA 15+",
+                "summary": "A young man took over his father's real-estate business in 1970s and '80s New York, and got the helping hand of an infamous closeted gay lawyer who helped him turn this young man into a notorious legend. Based on true events.",
+                "audienceRating": 7.1,
+                "year": 2024,
+                "tagline": "An American horror story.",
+                "thumb": "/library/metadata/273/thumb/1740353839",
+                "art": "/library/metadata/273/art/1740353839",
+                "duration": 7342173,
+                "originallyAvailableAt": "2024-10-09",
+                "addedAt": 1740353836,
+                "updatedAt": 1740353839,
+                "audienceRatingImage": "imdb://image.rating",
+                "chapterSource": "media",
+                "hasPremiumPrimaryExtra": "1",
+                "Media": [
+                    {
+                        "id": 390,
+                        "duration": 7342173,
+                        "bitrate": 1642,
+                        "width": 1314,
+                        "height": 1080,
+                        "aspectRatio": 1.33,
+                        "audioChannels": 6,
+                        "audioCodec": "ac3",
+                        "videoCodec": "h264",
+                        "videoResolution": "1080",
+                        "container": "mkv",
+                        "videoFrameRate": "24p",
+                        "videoProfile": "high",
+                        "Part": [
+                            {
+                                "id": 391,
+                                "key": "/library/parts/391/1740328552/file.mkv",
+                                "duration": 7342173,
+                                "container": "mkv",
+                                "videoProfile": "high"
+                            }
+                        ]
+                    }
+                ],
+                "Image": [
+                    {
+                        "alt": "The Apprentice",
+                        "type": "coverPoster",
+                        "url": "/library/metadata/273/thumb/1740353839"
+                    },
+                    {
+                        "alt": "The Apprentice",
+                        "type": "background",
+                        "url": "/library/metadata/273/art/1740353839"
+                    },
+                    {
+                        "alt": "The Apprentice",
+                        "type": "clearLogo",
+                        "url": "/library/metadata/273/clearLogo/1740353839"
+                    }
+                ],
+                "UltraBlurColors": {
+                    "topLeft": "452312",
+                    "topRight": "7e532a",
+                    "bottomRight": "6e451f",
+                    "bottomLeft": "7e531f"
+                },
+                "Genre": [
+                    {
+                        "tag": "Biography"
+                    },
+                    {
+                        "tag": "Drama"
+                    }
+                ],
+                "Country": [
+                    {
+                        "tag": "Canada"
+                    },
+                    {
+                        "tag": "Denmark"
+                    }
+                ],
+                "Director": [
+                    {
+                        "tag": "Ali Abbasi"
+                    }
+                ],
+                "Writer": [
+                    {
+                        "tag": "Gabriel Sherman"
+                    }
+                ],
+                "Role": [
+                    {
+                        "tag": "Sebastian Stan"
+                    },
+                    {
+                        "tag": "Jeremy Strong"
+                    },
+                    {
+                        "tag": "Maria Bakalova"
+                    }
+                ]
+            },
+            {
+                "ratingKey": "272",
+                "slug": "slingshot-2024",
+                "studio": "Astral Pictures",
+                "type": "movie",
+                "title": "Slingshot",
+                "contentRating": "au/MA 15+",
+                "summary": "An elite trio of astronauts aboard a years-long, possibly compromised mission to Saturn's moon Titan, gears up for a highly dangerous slingshot manoeuvre that will either catapult them to Titan or into deep space.",
+                "audienceRating": 5.7,
+                "year": 2024,
+                "tagline": "Some fears are darker than space.",
+                "thumb": "/library/metadata/272/thumb/1740353837",
+                "art": "/library/metadata/272/art/1740353837",
+                "duration": 6475099,
+                "originallyAvailableAt": "2024-08-30",
+                "addedAt": 1740353836,
+                "updatedAt": 1740353837,
+                "audienceRatingImage": "imdb://image.rating",
+                "chapterSource": "media",
+                "hasPremiumPrimaryExtra": "1",
+                "Media": [
+                    {
+                        "id": 389,
+                        "duration": 6475099,
+                        "bitrate": 2234,
+                        "width": 1920,
+                        "height": 1040,
+                        "aspectRatio": 1.85,
+                        "audioChannels": 6,
+                        "audioCodec": "eac3",
+                        "videoCodec": "hevc",
+                        "videoResolution": "1080",
+                        "container": "mkv",
+                        "videoFrameRate": "24p",
+                        "videoProfile": "main 10",
+                        "Part": [
+                            {
+                                "id": 390,
+                                "key": "/library/parts/390/1740329628/file.mkv",
+                                "duration": 6475099,
+                                "container": "mkv",
+                                "videoProfile": "main 10"
+                            }
+                        ]
+                    }
+                ],
+                "Image": [
+                    {
+                        "alt": "Slingshot",
+                        "type": "coverPoster",
+                        "url": "/library/metadata/272/thumb/1740353837"
+                    },
+                    {
+                        "alt": "Slingshot",
+                        "type": "background",
+                        "url": "/library/metadata/272/art/1740353837"
+                    },
+                    {
+                        "alt": "Slingshot",
+                        "type": "clearLogo",
+                        "url": "/library/metadata/272/clearLogo/1740353837"
+                    }
+                ],
+                "UltraBlurColors": {
+                    "topLeft": "133146",
+                    "topRight": "1b4850",
+                    "bottomRight": "116668",
+                    "bottomLeft": "1f6390"
+                },
+                "Genre": [
+                    {
+                        "tag": "Science Fiction"
+                    },
+                    {
+                        "tag": "Thriller"
+                    }
+                ],
+                "Country": [
+                    {
+                        "tag": "Hungary"
+                    },
+                    {
+                        "tag": "United States of America"
+                    }
+                ],
+                "Director": [
+                    {
+                        "tag": "Mikael H\u00e5fstr\u00f6m"
+                    }
+                ],
+                "Writer": [
+                    {
+                        "tag": "R. Scott Adams"
+                    }
+                ],
+                "Role": [
+                    {
+                        "tag": "Casey Affleck"
+                    },
+                    {
+                        "tag": "Laurence Fishburne"
+                    },
+                    {
+                        "tag": "Emily Beecham"
+                    }
+                ]
+            },
+            {
+                "ratingKey": "271",
+                "slug": "the-430-movie-2024",
+                "studio": "Destro Films",
+                "type": "movie",
+                "title": "The 4:30 Movie",
+                "titleSort": "4:30 Movie",
+                "contentRating": "au/M",
+                "summary": "In the summer of 1986, three sixteen year old friends spend their Saturdays sneaking into movies at the local multiplex. But when one of the guys also invites the girl of his dreams to see the latest comedy, each of the teens learn more about life and love.",
+                "audienceRating": 6,
+                "year": 2024,
+                "tagline": "When real life sucks, REEL life rules!",
+                "thumb": "/library/metadata/271/thumb/1740353837",
+                "art": "/library/metadata/271/art/1740353837",
+                "duration": 5273152,
+                "originallyAvailableAt": "2024-10-01",
+                "addedAt": 1740353836,
+                "updatedAt": 1740353837,
+                "audienceRatingImage": "imdb://image.rating",
+                "hasPremiumPrimaryExtra": "1",
+                "Media": [
+                    {
+                        "id": 388,
+                        "duration": 5273152,
+                        "bitrate": 2285,
+                        "width": 1920,
+                        "height": 1036,
+                        "aspectRatio": 1.85,
+                        "audioChannels": 6,
+                        "audioCodec": "ac3",
+                        "videoCodec": "h264",
+                        "videoResolution": "1080",
+                        "container": "mkv",
+                        "videoFrameRate": "24p",
+                        "videoProfile": "high",
+                        "Part": [
+                            {
+                                "id": 389,
+                                "key": "/library/parts/389/1740329794/file.mkv",
+                                "duration": 5273152,
+                                "container": "mkv",
+                                "videoProfile": "high"
+                            }
+                        ]
+                    }
+                ],
+                "Image": [
+                    {
+                        "alt": "The 4:30 Movie",
+                        "type": "coverPoster",
+                        "url": "/library/metadata/271/thumb/1740353837"
+                    },
+                    {
+                        "alt": "The 4:30 Movie",
+                        "type": "background",
+                        "url": "/library/metadata/271/art/1740353837"
+                    },
+                    {
+                        "alt": "The 4:30 Movie",
+                        "type": "clearLogo",
+                        "url": "/library/metadata/271/clearLogo/1740353837"
+                    }
+                ],
+                "UltraBlurColors": {
+                    "topLeft": "482205",
+                    "topRight": "64260f",
+                    "bottomRight": "a52a25",
+                    "bottomLeft": "452612"
+                },
+                "Genre": [
+                    {
+                        "tag": "Comedy"
+                    },
+                    {
+                        "tag": "Romance"
+                    }
+                ],
+                "Country": [
+                    {
+                        "tag": "United States of America"
+                    }
+                ],
+                "Director": [
+                    {
+                        "tag": "Kevin Smith"
+                    }
+                ],
+                "Writer": [
+                    {
+                        "tag": "Kevin Smith"
+                    }
+                ],
+                "Role": [
+                    {
+                        "tag": "Siena Agudong"
+                    },
+                    {
+                        "tag": "Austin Zajur"
+                    },
+                    {
+                        "tag": "Nicholas Cirillo"
+                    }
+                ]
+            },
+            {
+                "ratingKey": "270",
+                "slug": "sonic-the-hedgehog-3-2024",
+                "studio": "Paramount Pictures",
+                "type": "movie",
+                "title": "Sonic the Hedgehog 3",
+                "contentRating": "au/PG",
+                "summary": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched, Team Sonic must seek out an unlikely alliance.",
+                "audienceRating": 7,
+                "year": 2024,
+                "tagline": "New adventure. New rival.",
+                "thumb": "/library/metadata/270/thumb/1740353837",
+                "art": "/library/metadata/270/art/1740353837",
+                "duration": 6617386,
+                "originallyAvailableAt": "2024-12-20",
+                "addedAt": 1740353835,
+                "updatedAt": 1740353837,
+                "audienceRatingImage": "imdb://image.rating",
+                "hasPremiumPrimaryExtra": "1",
+                "Media": [
+                    {
+                        "id": 387,
+                        "duration": 6617386,
+                        "bitrate": 2321,
+                        "width": 1920,
+                        "height": 800,
+                        "aspectRatio": 2.35,
+                        "audioChannels": 6,
+                        "audioCodec": "aac",
+                        "videoCodec": "hevc",
+                        "videoResolution": "1080",
+                        "container": "mkv",
+                        "videoFrameRate": "24p",
+                        "audioProfile": "lc",
+                        "videoProfile": "main",
+                        "Part": [
+                            {
+                                "id": 388,
+                                "key": "/library/parts/388/1740319078/file.mkv",
+                                "duration": 6617386,
+                                "audioProfile": "lc",
+                                "container": "mkv",
+                                "videoProfile": "main"
+                            }
+                        ]
+                    }
+                ],
+                "Image": [
+                    {
+                        "alt": "Sonic the Hedgehog 3",
+                        "type": "coverPoster",
+                        "url": "/library/metadata/270/thumb/1740353837"
+                    },
+                    {
+                        "alt": "Sonic the Hedgehog 3",
+                        "type": "background",
+                        "url": "/library/metadata/270/art/1740353837"
+                    },
+                    {
+                        "alt": "Sonic the Hedgehog 3",
+                        "type": "clearLogo",
+                        "url": "/library/metadata/270/clearLogo/1740353837"
+                    }
+                ],
+                "UltraBlurColors": {
+                    "topLeft": "071e7a",
+                    "topRight": "2e0d22",
+                    "bottomRight": "27102f",
+                    "bottomLeft": "2a2f97"
+                },
+                "Genre": [
+                    {
+                        "tag": "Action"
+                    },
+                    {
+                        "tag": "Adventure"
+                    }
+                ],
+                "Country": [
+                    {
+                        "tag": "United States of America"
+                    },
+                    {
+                        "tag": "Japan"
+                    }
+                ],
+                "Director": [
+                    {
+                        "tag": "Jeff Fowler"
+                    }
+                ],
+                "Writer": [
+                    {
+                        "tag": "Patrick Casey"
+                    },
+                    {
+                        "tag": "Josh Miller"
+                    }
+                ],
+                "Role": [
+                    {
+                        "tag": "Jim Carrey"
+                    },
+                    {
+                        "tag": "Ben Schwartz"
+                    },
+                    {
+                        "tag": "Keanu Reeves"
+                    }
+                ]
+            },
+            {
                 "ratingKey": "118",
-                "key": "/library/metadata/118/children",
                 "parentRatingKey": "117",
-                "guid": "plex://season/602e5bebc96042002d06efd5",
-                "parentGuid": "plex://show/5d9c080446115600200a6bb4",
                 "parentSlug": "harmonquest",
                 "parentStudio": "Starburns Industries",
                 "type": "season",
@@ -61,15 +833,8 @@
                 }
             },
             {
-                "allowSync": true,
-                "librarySectionID": 2,
-                "librarySectionTitle": "JacksTvs",
-                "librarySectionUUID": "ef319db3-9dbc-4456-9f39-d072f5e05a88",
                 "ratingKey": "129",
-                "key": "/library/metadata/129/children",
                 "parentRatingKey": "117",
-                "guid": "plex://season/602e5becc96042002d06efe3",
-                "parentGuid": "plex://show/5d9c080446115600200a6bb4",
                 "parentSlug": "harmonquest",
                 "parentStudio": "Starburns Industries",
                 "type": "season",
@@ -114,15 +879,8 @@
                 }
             },
             {
-                "allowSync": true,
-                "librarySectionID": 2,
-                "librarySectionTitle": "JacksTvs",
-                "librarySectionUUID": "ef319db3-9dbc-4456-9f39-d072f5e05a88",
                 "ratingKey": "144",
-                "key": "/library/metadata/144/children",
                 "parentRatingKey": "143",
-                "guid": "plex://season/6611825e561e4d14254981cb",
-                "parentGuid": "plex://show/5e1622ea4f2292003e913277",
                 "parentSlug": "invincible-2021",
                 "parentStudio": "Amazon Studios",
                 "type": "season",
@@ -167,13 +925,7 @@
                 }
             },
             {
-                "allowSync": true,
-                "librarySectionID": 1,
-                "librarySectionTitle": "JacksFlicks",
-                "librarySectionUUID": "684c2eea-3e49-4c03-b348-5b8833a9eda4",
                 "ratingKey": "4",
-                "key": "/library/metadata/4",
-                "guid": "plex://movie/60c78098403931002c096005",
                 "slug": "the-lord-of-the-rings-the-war-of-the-rohirrim",
                 "studio": "New Line Cinema",
                 "type": "movie",
@@ -214,8 +966,6 @@
                                 "id": 4,
                                 "key": "/library/parts/4/1740127972/file.mkv",
                                 "duration": 8054432,
-                                "file": "D:\\MediaServer\\Movies\\The.Lord.Of.The.Rings.The.War.Of.The.Rohirrim.2024.720p.AMZN.WEB-DL.DDP5.1.H.264-APEX.mkv",
-                                "size": 2638206838,
                                 "container": "mkv",
                                 "videoProfile": "high"
                             }
@@ -287,15 +1037,8 @@
                 ]
             },
             {
-                "allowSync": true,
-                "librarySectionID": 2,
-                "librarySectionTitle": "JacksTvs",
-                "librarySectionUUID": "ef319db3-9dbc-4456-9f39-d072f5e05a88",
                 "ratingKey": "107",
-                "key": "/library/metadata/107/children",
                 "parentRatingKey": "93",
-                "guid": "plex://season/655e170a18e45f25846247b7",
-                "parentGuid": "plex://show/6369cdab586d5032af4fb800",
                 "parentSlug": "animal-control",
                 "parentStudio": "Roughhouse Productions",
                 "type": "season",
@@ -339,15 +1082,8 @@
                 }
             },
             {
-                "allowSync": true,
-                "librarySectionID": 2,
-                "librarySectionTitle": "JacksTvs",
-                "librarySectionUUID": "ef319db3-9dbc-4456-9f39-d072f5e05a88",
                 "ratingKey": "94",
-                "key": "/library/metadata/94/children",
                 "parentRatingKey": "93",
-                "guid": "plex://season/636d2c6768135faaa610b01a",
-                "parentGuid": "plex://show/6369cdab586d5032af4fb800",
                 "parentSlug": "animal-control",
                 "parentStudio": "Roughhouse Productions",
                 "type": "season",
@@ -393,15 +1129,8 @@
                 }
             },
             {
-                "allowSync": true,
-                "librarySectionID": 2,
-                "librarySectionTitle": "JacksTvs",
-                "librarySectionUUID": "ef319db3-9dbc-4456-9f39-d072f5e05a88",
                 "ratingKey": "166",
-                "key": "/library/metadata/166/children",
                 "parentRatingKey": "165",
-                "guid": "plex://season/66beb6aabc8c64f06ce2b937",
-                "parentGuid": "plex://show/66be4093ed7826199c02d154",
                 "parentSlug": "secret-level",
                 "parentStudio": "Amazon MGM Studios",
                 "type": "season",
@@ -445,15 +1174,8 @@
                 }
             },
             {
-                "allowSync": true,
-                "librarySectionID": 2,
-                "librarySectionTitle": "JacksTvs",
-                "librarySectionUUID": "ef319db3-9dbc-4456-9f39-d072f5e05a88",
                 "ratingKey": "183",
-                "key": "/library/metadata/183/children",
                 "parentRatingKey": "182",
-                "guid": "plex://season/6673078f9776fb4f7432c7ab",
-                "parentGuid": "plex://show/61af329023a999555e3ea541",
                 "parentSlug": "tulsa-king",
                 "parentStudio": "101 Studios",
                 "type": "season",
@@ -498,13 +1220,7 @@
                 }
             },
             {
-                "allowSync": true,
-                "librarySectionID": 1,
-                "librarySectionTitle": "JacksFlicks",
-                "librarySectionUUID": "684c2eea-3e49-4c03-b348-5b8833a9eda4",
                 "ratingKey": "87",
-                "key": "/library/metadata/87",
-                "guid": "plex://movie/5d77683f7e9a3c0020c6eb95",
                 "slug": "the-war-of-the-worlds-live-on-stage",
                 "studio": "Universal Pictures",
                 "type": "movie",
@@ -544,8 +1260,6 @@
                                 "id": 179,
                                 "key": "/library/parts/179/1740102006/file.mp4",
                                 "duration": 3552461,
-                                "file": "D:\\MediaServer\\Movies\\War Of the Worlds Live On Stage 2006\\War Of The Worlds Disk Two.mp4",
-                                "size": 659152351,
                                 "audioProfile": "lc",
                                 "container": "mp4",
                                 "has64bitOffsets": false,
@@ -574,8 +1288,6 @@
                                 "id": 180,
                                 "key": "/library/parts/180/1740069844/file.mkv",
                                 "duration": 6610061,
-                                "file": "D:\\MediaServer\\Movies\\War Of the Worlds Live On Stage 2006\\War Of The Worlds Disk one.mkv",
-                                "size": 1193809983,
                                 "audioProfile": "lc",
                                 "container": "mkv",
                                 "videoProfile": "main 10"
@@ -637,13 +1349,7 @@
                 ]
             },
             {
-                "allowSync": true,
-                "librarySectionID": 1,
-                "librarySectionTitle": "JacksFlicks",
-                "librarySectionUUID": "684c2eea-3e49-4c03-b348-5b8833a9eda4",
                 "ratingKey": "29",
-                "key": "/library/metadata/29",
-                "guid": "plex://movie/5d77682754f42c001f8c2910",
                 "slug": "constantine",
                 "studio": "Village Roadshow Pictures",
                 "type": "movie",
@@ -682,8 +1388,6 @@
                                 "id": 63,
                                 "key": "/library/parts/63/1740069548/file.mkv",
                                 "duration": 7247156,
-                                "file": "D:\\MediaServer\\Movies\\Constantine.2005.UHD.Blu-ray.2160p.HDR.DV.HEVC.TrueHD.Atmos.7.1.x265.E\\Constantine.2005.UHD.Blu-ray.2160p.HDR.DV.HEVC.TrueHD.Atmos.7.1.x265.E.mkv",
-                                "size": 19852415237,
                                 "container": "mkv",
                                 "videoProfile": "main 10"
                             }
@@ -755,13 +1459,7 @@
                 ]
             },
             {
-                "allowSync": true,
-                "librarySectionID": 1,
-                "librarySectionTitle": "JacksFlicks",
-                "librarySectionUUID": "684c2eea-3e49-4c03-b348-5b8833a9eda4",
                 "ratingKey": "39",
-                "key": "/library/metadata/39",
-                "guid": "plex://movie/5d7768352e80df001ebde5e1",
                 "slug": "the-dead-pool",
                 "studio": "Malpaso Productions",
                 "type": "movie",
@@ -801,8 +1499,6 @@
                                 "id": 83,
                                 "key": "/library/parts/83/1740067850/file.mkv",
                                 "duration": 5473161,
-                                "file": "D:\\MediaServer\\Movies\\Dirty Harry Collection 1971-1988 1080p BluRay HEVC x265 5.1 BONE\\The Dead Pool 1988 1080p BluRay HEVC x265 5.1 BONE.mkv",
-                                "size": 1468823774,
                                 "audioProfile": "lc",
                                 "container": "mkv",
                                 "videoProfile": "main"
@@ -872,13 +1568,7 @@
                 ]
             },
             {
-                "allowSync": true,
-                "librarySectionID": 1,
-                "librarySectionTitle": "JacksFlicks",
-                "librarySectionUUID": "684c2eea-3e49-4c03-b348-5b8833a9eda4",
                 "ratingKey": "30",
-                "key": "/library/metadata/30",
-                "guid": "plex://movie/5d776829f54112001f5bc150",
                 "slug": "dirty-harry",
                 "studio": "Warner Bros. Pictures",
                 "type": "movie",
@@ -917,8 +1607,6 @@
                                 "id": 64,
                                 "key": "/library/parts/64/1740067845/file.mkv",
                                 "duration": 6149449,
-                                "file": "D:\\MediaServer\\Movies\\Dirty Harry Collection 1971-1988 1080p BluRay HEVC x265 5.1 BONE\\Dirty Harry 1971 1080p BluRay HEVC x265 5.1 BONE.mkv",
-                                "size": 1634759201,
                                 "audioProfile": "lc",
                                 "container": "mkv",
                                 "videoProfile": "main"
@@ -988,13 +1676,7 @@
                 ]
             },
             {
-                "allowSync": true,
-                "librarySectionID": 1,
-                "librarySectionTitle": "JacksFlicks",
-                "librarySectionUUID": "684c2eea-3e49-4c03-b348-5b8833a9eda4",
                 "ratingKey": "41",
-                "key": "/library/metadata/41",
-                "guid": "plex://movie/5d776d16ad5437001f7ccaae",
                 "slug": "the-enforcer-1976",
                 "studio": "Warner Bros. Pictures",
                 "type": "movie",
@@ -1034,8 +1716,6 @@
                                 "id": 86,
                                 "key": "/library/parts/86/1740067838/file.mkv",
                                 "duration": 5796117,
-                                "file": "D:\\MediaServer\\Movies\\Dirty Harry Collection 1971-1988 1080p BluRay HEVC x265 5.1 BONE\\The Enforcer 1976 1080p BluRay HEVC x265 5.1 BONE.mkv",
-                                "size": 1511909428,
                                 "audioProfile": "lc",
                                 "container": "mkv",
                                 "videoProfile": "main"
@@ -1105,13 +1785,7 @@
                 ]
             },
             {
-                "allowSync": true,
-                "librarySectionID": 1,
-                "librarySectionTitle": "JacksFlicks",
-                "librarySectionUUID": "684c2eea-3e49-4c03-b348-5b8833a9eda4",
                 "ratingKey": "36",
-                "key": "/library/metadata/36",
-                "guid": "plex://movie/5d776835a091de001f2e7ffb",
                 "slug": "sudden-impact",
                 "studio": "Warner Bros. Pictures",
                 "type": "movie",
@@ -1150,8 +1824,6 @@
                                 "id": 78,
                                 "key": "/library/parts/78/1740067837/file.mkv",
                                 "duration": 7029107,
-                                "file": "D:\\MediaServer\\Movies\\Dirty Harry Collection 1971-1988 1080p BluRay HEVC x265 5.1 BONE\\Sudden Impact 1983 1080p BluRay HEVC x265 5.1 BONE.mkv",
-                                "size": 1895554938,
                                 "audioProfile": "lc",
                                 "container": "mkv",
                                 "videoProfile": "main"
@@ -1218,13 +1890,7 @@
                 ]
             },
             {
-                "allowSync": true,
-                "librarySectionID": 1,
-                "librarySectionTitle": "JacksFlicks",
-                "librarySectionUUID": "684c2eea-3e49-4c03-b348-5b8833a9eda4",
                 "ratingKey": "33",
-                "key": "/library/metadata/33",
-                "guid": "plex://movie/5d7768357e9a3c0020c6cdfd",
                 "slug": "magnum-force",
                 "studio": "Warner Bros. Pictures",
                 "type": "movie",
@@ -1263,8 +1929,6 @@
                                 "id": 71,
                                 "key": "/library/parts/71/1740067720/file.mkv",
                                 "duration": 7456560,
-                                "file": "D:\\MediaServer\\Movies\\Dirty Harry Collection 1971-1988 1080p BluRay HEVC x265 5.1 BONE\\Magnum Force 1973 1080p BluRay HEVC x265 5.1 BONE.mkv",
-                                "size": 1942880625,
                                 "audioProfile": "lc",
                                 "container": "mkv",
                                 "videoProfile": "main"
@@ -1334,13 +1998,7 @@
                 ]
             },
             {
-                "allowSync": true,
-                "librarySectionID": 1,
-                "librarySectionTitle": "JacksFlicks",
-                "librarySectionUUID": "684c2eea-3e49-4c03-b348-5b8833a9eda4",
                 "ratingKey": "22",
-                "key": "/library/metadata/22",
-                "guid": "plex://movie/5d776c6afb0d55001f58720b",
                 "slug": "chaos-walking",
                 "studio": "Quadrant Pictures",
                 "type": "movie",
@@ -1381,8 +2039,6 @@
                                 "id": 48,
                                 "key": "/library/parts/48/1740067552/file.mkv",
                                 "duration": 6533547,
-                                "file": "D:\\MediaServer\\Movies\\Chaos.Walking.2021.720p.WEBRip.800MB.x264-GalaxyRG[TGx]\\Chaos.Walking.2021.720p.WEBRip.800MB.x264-GalaxyRG.mkv",
-                                "size": 835512747,
                                 "audioProfile": "lc",
                                 "container": "mkv",
                                 "videoProfile": "high"
@@ -1455,13 +2111,7 @@
                 ]
             },
             {
-                "allowSync": true,
-                "librarySectionID": 1,
-                "librarySectionTitle": "JacksFlicks",
-                "librarySectionUUID": "684c2eea-3e49-4c03-b348-5b8833a9eda4",
                 "ratingKey": "5",
-                "key": "/library/metadata/5",
-                "guid": "plex://movie/62287ddfcf2de0737380365e",
                 "slug": "alien-romulus",
                 "studio": "20th Century Studios",
                 "type": "movie",
@@ -1500,8 +2150,6 @@
                                 "id": 5,
                                 "key": "/library/parts/5/1740067521/file.mkv",
                                 "duration": 7185791,
-                                "file": "D:\\MediaServer\\Movies\\Alien.Romulus.2024.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-FLUX[TGx]\\Alien.Romulus.2024.1080p.AMZN.WEB-DL.DDP5.1.Atmos.H.264-FLUX.mkv",
-                                "size": 8576285627,
                                 "container": "mkv",
                                 "videoProfile": "high"
                             }
@@ -1570,13 +2218,7 @@
                 ]
             },
             {
-                "allowSync": true,
-                "librarySectionID": 1,
-                "librarySectionTitle": "JacksFlicks",
-                "librarySectionUUID": "684c2eea-3e49-4c03-b348-5b8833a9eda4",
                 "ratingKey": "46",
-                "key": "/library/metadata/46",
-                "guid": "plex://movie/5d7770de31d95e001f1aba32",
                 "slug": "elvis-2022",
                 "studio": "Warner Bros. Pictures",
                 "type": "movie",
@@ -1614,8 +2256,6 @@
                                 "id": 93,
                                 "key": "/library/parts/93/1740067238/file.mkv",
                                 "duration": 9541055,
-                                "file": "D:\\MediaServer\\Movies\\Elvis.2022.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]\\Elvis.2022.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG.mkv",
-                                "size": 1721755376,
                                 "container": "mkv",
                                 "videoProfile": "high"
                             }
@@ -1687,13 +2327,7 @@
                 ]
             },
             {
-                "allowSync": true,
-                "librarySectionID": 1,
-                "librarySectionTitle": "JacksFlicks",
-                "librarySectionUUID": "684c2eea-3e49-4c03-b348-5b8833a9eda4",
                 "ratingKey": "13",
-                "key": "/library/metadata/13",
-                "guid": "plex://movie/6054604a7efc1e002c6ec05c",
                 "slug": "better-man-2024",
                 "studio": "RocketScience",
                 "type": "movie",
@@ -1737,8 +2371,6 @@
                                 "id": 27,
                                 "key": "/library/parts/27/1740066544/file.mp4",
                                 "duration": 8140417,
-                                "file": "D:\\MediaServer\\Movies\\Better Man (2024) 1080p WEBRip 5.1-LAMA\\Better.Man.2024.1080p.WEBRip.x264.AAC5.1-LAMA.mp4",
-                                "size": 2685343444,
                                 "audioProfile": "lc",
                                 "container": "mp4",
                                 "has64bitOffsets": false,
@@ -1813,13 +2445,7 @@
                 ]
             },
             {
-                "allowSync": true,
-                "librarySectionID": 1,
-                "librarySectionTitle": "JacksFlicks",
-                "librarySectionUUID": "684c2eea-3e49-4c03-b348-5b8833a9eda4",
                 "ratingKey": "61",
-                "key": "/library/metadata/61",
-                "guid": "plex://movie/5e1623765abc9c003f1ce83c",
                 "slug": "joker-folie-a-deux",
                 "studio": "Warner Bros. Pictures",
                 "type": "movie",
@@ -1858,8 +2484,6 @@
                                 "id": 122,
                                 "key": "/library/parts/122/1740066541/file.mkv",
                                 "duration": 8278495,
-                                "file": "D:\\MediaServer\\Movies\\Joker.Folie.a.Deux.2024.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG[TGx]\\Joker.Folie.a.Deux.2024.1080p.WEBRip.1600MB.DD5.1.x264-GalaxyRG.mkv",
-                                "size": 1721245965,
                                 "container": "mkv",
                                 "videoProfile": "high"
                             }
@@ -1928,13 +2552,7 @@
                 ]
             },
             {
-                "allowSync": true,
-                "librarySectionID": 1,
-                "librarySectionTitle": "JacksFlicks",
-                "librarySectionUUID": "684c2eea-3e49-4c03-b348-5b8833a9eda4",
                 "ratingKey": "2",
-                "key": "/library/metadata/2",
-                "guid": "plex://movie/5f74326fdc22070041355584",
                 "slug": "mufasa-the-lion-king-2024-1",
                 "studio": "Walt Disney Pictures",
                 "type": "movie",
@@ -1973,8 +2591,6 @@
                                 "id": 2,
                                 "key": "/library/parts/2/1740065946/file.mkv",
                                 "duration": 7077994,
-                                "file": "D:\\MediaServer\\Movies\\Mufasa.The.Lion.King.2024.1080p.WEBRip.AAC5.1.10bits.AV1-Rapta.mkv",
-                                "size": 2008604556,
                                 "audioProfile": "lc",
                                 "container": "mkv",
                                 "videoProfile": "main"
@@ -2041,13 +2657,7 @@
                 ]
             },
             {
-                "allowSync": true,
-                "librarySectionID": 1,
-                "librarySectionTitle": "JacksFlicks",
-                "librarySectionUUID": "684c2eea-3e49-4c03-b348-5b8833a9eda4",
                 "ratingKey": "1",
-                "key": "/library/metadata/1",
-                "guid": "plex://movie/5ea7e56c39b61600418c0b44",
                 "slug": "bad-boys-ride-or-die",
                 "studio": "Westbrook",
                 "type": "movie",
@@ -2086,8 +2696,6 @@
                                 "id": 1,
                                 "key": "/library/parts/1/1740065902/file.mkv",
                                 "duration": 6958159,
-                                "file": "D:\\MediaServer\\Movies\\Bad.Boys.Ride.or.Die.2024.1080p.WEBRip.10Bit.DDP5.1.x265-Asiimov.mkv",
-                                "size": 1934274853,
                                 "container": "mkv",
                                 "videoProfile": "main 10"
                             }
@@ -2159,13 +2767,7 @@
                 ]
             },
             {
-                "allowSync": true,
-                "librarySectionID": 1,
-                "librarySectionTitle": "JacksFlicks",
-                "librarySectionUUID": "684c2eea-3e49-4c03-b348-5b8833a9eda4",
                 "ratingKey": "24",
-                "key": "/library/metadata/24",
-                "guid": "plex://movie/61ed4a5819b0331e2cd45282",
                 "slug": "civil-war-2024",
                 "studio": "DNA Films",
                 "type": "movie",
@@ -2173,8 +2775,10 @@
                 "contentRating": "au/MA 15+",
                 "summary": "An adrenaline-fueled thrill ride through a near-future fractured America balanced on the razor's edge. A group of journalists must race through battlefields to the White House before DC falls. Featuring Kirsten Dunst, Cailee Spaeny, Wagner Moura, Stephen McKinley Henderson and Nick Offerman.",
                 "audienceRating": 7,
-                "viewOffset": 3219130,
-                "lastViewedAt": 1740316063,
+                "userRating": 4,
+                "viewCount": 1,
+                "lastViewedAt": 1740318724,
+                "lastRatedAt": 1740318974,
                 "year": 2024,
                 "tagline": "Welcome to the frontline.",
                 "thumb": "/library/metadata/24/thumb/1740247227",
@@ -2206,8 +2810,6 @@
                                 "id": 52,
                                 "key": "/library/parts/52/1740065875/file.mkv",
                                 "duration": 6525248,
-                                "file": "D:\\MediaServer\\Movies\\Civil.War.2024.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]\\Civil.War.2024.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv",
-                                "size": 1506466558,
                                 "container": "mkv",
                                 "videoProfile": "high"
                             }
@@ -2276,13 +2878,7 @@
                 ]
             },
             {
-                "allowSync": true,
-                "librarySectionID": 1,
-                "librarySectionTitle": "JacksFlicks",
-                "librarySectionUUID": "684c2eea-3e49-4c03-b348-5b8833a9eda4",
                 "ratingKey": "62",
-                "key": "/library/metadata/62",
-                "guid": "plex://movie/65c6107cf86bc5a20e095776",
                 "slug": "moana-2-2024-1",
                 "studio": "Walt Disney Pictures",
                 "type": "movie",
@@ -2321,8 +2917,6 @@
                                 "id": 123,
                                 "key": "/library/parts/123/1740065346/file.mkv",
                                 "duration": 5993541,
-                                "file": "D:\\MediaServer\\Movies\\Moana.2.2024.1080p.WEBRip.10Bit.DDP5.1.x265-Asiimov\\Moana.2.2024.1080p.WEBRip.10Bit.DDP5.1.x265-Asiimov.mkv",
-                                "size": 1676872622,
                                 "container": "mkv",
                                 "videoProfile": "main 10"
                             }
@@ -2400,13 +2994,7 @@
                 ]
             },
             {
-                "allowSync": true,
-                "librarySectionID": 1,
-                "librarySectionTitle": "JacksFlicks",
-                "librarySectionUUID": "684c2eea-3e49-4c03-b348-5b8833a9eda4",
                 "ratingKey": "84",
-                "key": "/library/metadata/84",
-                "guid": "plex://movie/5d777085fb0d55001f5f23c7",
                 "slug": "transformers-one-2024-1",
                 "studio": "Paramount Animation",
                 "type": "movie",
@@ -2445,8 +3033,6 @@
                                 "id": 172,
                                 "key": "/library/parts/172/1740065220/file.mkv",
                                 "duration": 6254920,
-                                "file": "D:\\MediaServer\\Movies\\Transformers.One.2024.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG[TGx]\\Transformers.One.2024.1080p.AMZN.WEBRip.1400MB.DD5.1.x264-GalaxyRG.mkv",
-                                "size": 1506055963,
                                 "container": "mkv",
                                 "videoProfile": "high"
                             }
@@ -2515,13 +3101,7 @@
                 ]
             },
             {
-                "allowSync": true,
-                "librarySectionID": 1,
-                "librarySectionTitle": "JacksFlicks",
-                "librarySectionUUID": "684c2eea-3e49-4c03-b348-5b8833a9eda4",
                 "ratingKey": "56",
-                "key": "/library/metadata/56",
-                "guid": "local://56",
                 "type": "movie",
                 "title": "IMAX a Beautiful Planet NASA Documentary",
                 "summary": "",
@@ -2554,8 +3134,6 @@
                                 "id": 113,
                                 "key": "/library/parts/113/1740064819/file.mp4",
                                 "duration": 2777176,
-                                "file": "D:\\MediaServer\\Movies\\IMAX A Beautiful Planet NASA Documentary (2016) 1080p H264 AAC\\IMAX A Beautiful Planet NASA Documentary (2016) 1080p H264 AAC.mp4",
-                                "size": 754573046,
                                 "audioProfile": "lc",
                                 "container": "mp4",
                                 "has64bitOffsets": false,
@@ -2585,13 +3163,7 @@
                 }
             },
             {
-                "allowSync": true,
-                "librarySectionID": 1,
-                "librarySectionTitle": "JacksFlicks",
-                "librarySectionUUID": "684c2eea-3e49-4c03-b348-5b8833a9eda4",
                 "ratingKey": "50",
-                "key": "/library/metadata/50",
-                "guid": "plex://movie/5f408fdec63b480040ecc9ad",
                 "slug": "flight-risk-2025",
                 "studio": "Davis Entertainment",
                 "type": "movie",
@@ -2632,8 +3204,6 @@
                                 "id": 99,
                                 "key": "/library/parts/99/1740061307/file.mp4",
                                 "duration": 5120768,
-                                "file": "D:\\MediaServer\\Movies\\Flight.Risk.2025.1080p.TELESYNC.x264.COLLECTiVE\\Flight.Risk.2025.1080p.TELESYNC.x264.COLLECTiVE.mp4",
-                                "size": 2735223939,
                                 "audioProfile": "lc",
                                 "container": "mp4",
                                 "has64bitOffsets": false,
@@ -2702,13 +3272,7 @@
                 ]
             },
             {
-                "allowSync": true,
-                "librarySectionID": 1,
-                "librarySectionTitle": "JacksFlicks",
-                "librarySectionUUID": "684c2eea-3e49-4c03-b348-5b8833a9eda4",
                 "ratingKey": "71",
-                "key": "/library/metadata/71",
-                "guid": "plex://movie/5d77708731d95e001f1a3a84",
                 "slug": "the-brutalist",
                 "studio": "Brookstreet Pictures",
                 "type": "movie",
@@ -2751,8 +3315,6 @@
                                 "id": 144,
                                 "key": "/library/parts/144/1740060462/file.mp4",
                                 "duration": 12063658,
-                                "file": "D:\\MediaServer\\Movies\\The Brutalist (2024) 1080p WEBRip 5.1-LAMA\\The.Brutalist.2024.1080p.WEBRip.x264.AAC5.1-LAMA.mp4",
-                                "size": 3979076607,
                                 "audioProfile": "lc",
                                 "container": "mp4",
                                 "has64bitOffsets": false,
@@ -2827,13 +3389,7 @@
                 ]
             },
             {
-                "allowSync": true,
-                "librarySectionID": 1,
-                "librarySectionTitle": "JacksFlicks",
-                "librarySectionUUID": "684c2eea-3e49-4c03-b348-5b8833a9eda4",
                 "ratingKey": "15",
-                "key": "/library/metadata/15",
-                "guid": "plex://movie/6616c39d4cd8908e271a8b13",
                 "slug": "bridget-jones-mad-about-the-boy",
                 "studio": "Working Title Films",
                 "type": "movie",
@@ -2843,12 +3399,12 @@
                 "audienceRating": 6.8,
                 "year": 2025,
                 "tagline": "She's starting a new chapter. Just as she is.",
-                "thumb": "/library/metadata/15/thumb/1740248994",
-                "art": "/library/metadata/15/art/1740248994",
+                "thumb": "/library/metadata/15/thumb/1740340028",
+                "art": "/library/metadata/15/art/1740340028",
                 "duration": 7492234,
                 "originallyAvailableAt": "2025-02-12",
                 "addedAt": 1740059764,
-                "updatedAt": 1740248994,
+                "updatedAt": 1740340028,
                 "audienceRatingImage": "imdb://image.rating",
                 "hasPremiumPrimaryExtra": "1",
                 "Media": [
@@ -2872,8 +3428,6 @@
                                 "id": 31,
                                 "key": "/library/parts/31/1740059764/file.mkv",
                                 "duration": 7492234,
-                                "file": "D:\\MediaServer\\Movies\\Bridget.Jones.Mad.About.the.Boy.2025.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA\\Bridget.Jones.Mad.About.the.Boy.2025.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv",
-                                "size": 1958960108,
                                 "audioProfile": "he-aac",
                                 "container": "mkv",
                                 "videoProfile": "main 10"
@@ -2885,17 +3439,17 @@
                     {
                         "alt": "Bridget Jones: Mad About the Boy",
                         "type": "coverPoster",
-                        "url": "/library/metadata/15/thumb/1740248994"
+                        "url": "/library/metadata/15/thumb/1740340028"
                     },
                     {
                         "alt": "Bridget Jones: Mad About the Boy",
                         "type": "background",
-                        "url": "/library/metadata/15/art/1740248994"
+                        "url": "/library/metadata/15/art/1740340028"
                     },
                     {
                         "alt": "Bridget Jones: Mad About the Boy",
                         "type": "clearLogo",
-                        "url": "/library/metadata/15/clearLogo/1740248994"
+                        "url": "/library/metadata/15/clearLogo/1740340028"
                     }
                 ],
                 "UltraBlurColors": {
@@ -2930,7 +3484,7 @@
                         "tag": "Helen Fielding"
                     },
                     {
-                        "tag": "Dan Mazer"
+                        "tag": "Abi Morgan"
                     }
                 ],
                 "Role": [
@@ -2946,13 +3500,7 @@
                 ]
             },
             {
-                "allowSync": true,
-                "librarySectionID": 1,
-                "librarySectionTitle": "JacksFlicks",
-                "librarySectionUUID": "684c2eea-3e49-4c03-b348-5b8833a9eda4",
                 "ratingKey": "3",
-                "key": "/library/metadata/3",
-                "guid": "plex://movie/5d776c8cad5437001f7c17f0",
                 "slug": "nosferatu-2024",
                 "studio": "Focus Features",
                 "type": "movie",
@@ -2991,8 +3539,6 @@
                                 "id": 3,
                                 "key": "/library/parts/3/1740059422/file.mkv",
                                 "duration": 7964032,
-                                "file": "D:\\MediaServer\\Movies\\Nosferatu 2024 1080p WEB-DL HEVC x265 5.1 BONE.mkv",
-                                "size": 1998723535,
                                 "audioProfile": "lc",
                                 "container": "mkv",
                                 "videoProfile": "main"
@@ -3059,13 +3605,7 @@
                 ]
             },
             {
-                "allowSync": true,
-                "librarySectionID": 1,
-                "librarySectionTitle": "JacksFlicks",
-                "librarySectionUUID": "684c2eea-3e49-4c03-b348-5b8833a9eda4",
                 "ratingKey": "76",
-                "key": "/library/metadata/76",
-                "guid": "plex://movie/608f3a112159bd002ccaafac",
                 "slug": "the-gorge",
                 "studio": "Skydance Media",
                 "type": "movie",
@@ -3081,12 +3621,12 @@
                 "lastRatedAt": 1740236875,
                 "year": 2025,
                 "tagline": "The world's most dangerous secret lies between them.",
-                "thumb": "/library/metadata/76/thumb/1740248994",
-                "art": "/library/metadata/76/art/1740248994",
+                "thumb": "/library/metadata/76/thumb/1740340028",
+                "art": "/library/metadata/76/art/1740340028",
                 "duration": 7667552,
                 "originallyAvailableAt": "2025-02-14",
                 "addedAt": 1740059100,
-                "updatedAt": 1740248994,
+                "updatedAt": 1740340028,
                 "audienceRatingImage": "imdb://image.rating",
                 "chapterSource": "media",
                 "hasPremiumPrimaryExtra": "1",
@@ -3110,8 +3650,6 @@
                                 "id": 155,
                                 "key": "/library/parts/155/1740059100/file.mkv",
                                 "duration": 7667552,
-                                "file": "D:\\MediaServer\\Movies\\The.Gorge.2025.1080p.WEBRip.10Bit.DDP5.1.x265-Asiimov\\The.Gorge.2025.1080p.WEBRip.10Bit.DDP5.1.x265-Asiimov.mkv",
-                                "size": 2085005172,
                                 "container": "mkv",
                                 "videoProfile": "main 10"
                             }
@@ -3122,17 +3660,17 @@
                     {
                         "alt": "The Gorge",
                         "type": "coverPoster",
-                        "url": "/library/metadata/76/thumb/1740248994"
+                        "url": "/library/metadata/76/thumb/1740340028"
                     },
                     {
                         "alt": "The Gorge",
                         "type": "background",
-                        "url": "/library/metadata/76/art/1740248994"
+                        "url": "/library/metadata/76/art/1740340028"
                     },
                     {
                         "alt": "The Gorge",
                         "type": "clearLogo",
-                        "url": "/library/metadata/76/clearLogo/1740248994"
+                        "url": "/library/metadata/76/clearLogo/1740340028"
                     }
                 ],
                 "UltraBlurColors": {
@@ -3177,13 +3715,7 @@
                 ]
             },
             {
-                "allowSync": true,
-                "librarySectionID": 1,
-                "librarySectionTitle": "JacksFlicks",
-                "librarySectionUUID": "684c2eea-3e49-4c03-b348-5b8833a9eda4",
                 "ratingKey": "80",
-                "key": "/library/metadata/80",
-                "guid": "plex://movie/65ca745965a8500989da6834",
                 "slug": "the-last-showgirl-2024",
                 "studio": "Utopia",
                 "type": "movie",
@@ -3223,8 +3755,6 @@
                                 "id": 162,
                                 "key": "/library/parts/162/1740058867/file.mkv",
                                 "duration": 5331117,
-                                "file": "D:\\MediaServer\\Movies\\The.Last.Showgirl.2024.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA\\The.Last.Showgirl.2024.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv",
-                                "size": 1716879361,
                                 "audioProfile": "he-aac",
                                 "container": "mkv",
                                 "videoProfile": "main 10"
@@ -3288,13 +3818,7 @@
                 ]
             },
             {
-                "allowSync": true,
-                "librarySectionID": 1,
-                "librarySectionTitle": "JacksFlicks",
-                "librarySectionUUID": "684c2eea-3e49-4c03-b348-5b8833a9eda4",
                 "ratingKey": "51",
-                "key": "/library/metadata/51",
-                "guid": "plex://movie/6507349d6859cd3ba9db3c41",
                 "slug": "homestead-2024-1",
                 "studio": "Angel Studios",
                 "type": "movie",
@@ -3332,8 +3856,6 @@
                                 "id": 100,
                                 "key": "/library/parts/100/1740058652/file.mkv",
                                 "duration": 6685461,
-                                "file": "D:\\MediaServer\\Movies\\Homestead.2024.720p.WEB-DL.H264.COLLECTiVE\\Homestead.2024.720p.WEB-DL.H264.COLLECTiVE.mkv",
-                                "size": 1072894451,
                                 "audioProfile": "lc",
                                 "container": "mkv",
                                 "videoProfile": "high"
@@ -3400,13 +3922,7 @@
                 ]
             },
             {
-                "allowSync": true,
-                "librarySectionID": 1,
-                "librarySectionTitle": "JacksFlicks",
-                "librarySectionUUID": "684c2eea-3e49-4c03-b348-5b8833a9eda4",
                 "ratingKey": "44",
-                "key": "/library/metadata/44",
-                "guid": "plex://movie/5f4094b35a76a80042e5434a",
                 "slug": "dog-man-2025",
                 "studio": "DreamWorks Animation",
                 "type": "movie",
@@ -3446,8 +3962,6 @@
                                 "id": 91,
                                 "key": "/library/parts/91/1740056667/file.mkv",
                                 "duration": 5361272,
-                                "file": "D:\\MediaServer\\Movies\\Dog.Man.2025.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA\\Dog.Man.2025.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv",
-                                "size": 1403785807,
                                 "audioProfile": "he-aac",
                                 "container": "mkv",
                                 "videoProfile": "main 10"
@@ -3514,13 +4028,7 @@
                 ]
             },
             {
-                "allowSync": true,
-                "librarySectionID": 1,
-                "librarySectionTitle": "JacksFlicks",
-                "librarySectionUUID": "684c2eea-3e49-4c03-b348-5b8833a9eda4",
                 "ratingKey": "28",
-                "key": "/library/metadata/28",
-                "guid": "plex://movie/63dea40e87acb8e35866d4e6",
                 "slug": "companion-2025",
                 "studio": "BoulderLight Pictures",
                 "type": "movie",
@@ -3558,8 +4066,6 @@
                                 "id": 62,
                                 "key": "/library/parts/62/1740056356/file.mkv",
                                 "duration": 5824832,
-                                "file": "D:\\MediaServer\\Movies\\Companion\\Companion 2015.mkv",
-                                "size": 4422777330,
                                 "container": "mkv",
                                 "videoProfile": "high"
                             }
@@ -3625,13 +4131,7 @@
                 ]
             },
             {
-                "allowSync": true,
-                "librarySectionID": 1,
-                "librarySectionTitle": "JacksFlicks",
-                "librarySectionUUID": "684c2eea-3e49-4c03-b348-5b8833a9eda4",
                 "ratingKey": "60",
-                "key": "/library/metadata/60",
-                "guid": "plex://movie/5d776a7f9ab54400214ffcfd",
                 "slug": "jeff-waynes-musical-version-of-the-war-of-the-worlds-alive-on-stage-the-new-generation",
                 "type": "movie",
                 "title": "Jeff Wayne's Musical Version of the War of the Worlds Alive on Stage! The New Generation",
@@ -3669,8 +4169,6 @@
                                 "id": 121,
                                 "key": "/library/parts/121/1739548943/file.mp4",
                                 "duration": 7100351,
-                                "file": "D:\\MediaServer\\Movies\\Jeff Wayne's Musical Version Of The War Of The Worlds The New Generation (2013)\\Jeff Wayne's Musical Version Of The War Of The Worlds The New Generation.mp4",
-                                "size": 2259192915,
                                 "audioProfile": "lc",
                                 "container": "mp4",
                                 "has64bitOffsets": false,
@@ -3729,13 +4227,7 @@
                 ]
             },
             {
-                "allowSync": true,
-                "librarySectionID": 1,
-                "librarySectionTitle": "JacksFlicks",
-                "librarySectionUUID": "684c2eea-3e49-4c03-b348-5b8833a9eda4",
                 "ratingKey": "92",
-                "key": "/library/metadata/92",
-                "guid": "plex://movie/5d776c1efb0d55001f57d76f",
                 "slug": "wolf-man-2025",
                 "studio": "Universal Pictures",
                 "type": "movie",
@@ -3775,8 +4267,6 @@
                                 "id": 190,
                                 "key": "/library/parts/190/1738937724/file.mkv",
                                 "duration": 6170976,
-                                "file": "D:\\MediaServer\\Movies\\Wolf Man 2015\\Wolf Man 2015.mkv",
-                                "size": 1637578342,
                                 "container": "mkv",
                                 "videoProfile": "main 10"
                             }
@@ -3845,13 +4335,7 @@
                 ]
             },
             {
-                "allowSync": true,
-                "librarySectionID": 1,
-                "librarySectionTitle": "JacksFlicks",
-                "librarySectionUUID": "684c2eea-3e49-4c03-b348-5b8833a9eda4",
                 "ratingKey": "16",
-                "key": "/library/metadata/16",
-                "guid": "plex://movie/61bd9c29bbaecd52f2fc603b",
                 "slug": "challengers-2024",
                 "studio": "Pascal Pictures",
                 "type": "movie",
@@ -3892,8 +4376,6 @@
                                 "id": 32,
                                 "key": "/library/parts/32/1738412648/file.mkv",
                                 "duration": 7898353,
-                                "file": "D:\\MediaServer\\Movies\\Challengers\\Challengers.mkv",
-                                "size": 1725075975,
                                 "container": "mkv",
                                 "videoProfile": "high"
                             }
@@ -3962,13 +4444,7 @@
                 ]
             },
             {
-                "allowSync": true,
-                "librarySectionID": 1,
-                "librarySectionTitle": "JacksFlicks",
-                "librarySectionUUID": "684c2eea-3e49-4c03-b348-5b8833a9eda4",
                 "ratingKey": "59",
-                "key": "/library/metadata/59",
-                "guid": "plex://movie/5d776b95fb0d55001f56c2c7",
                 "slug": "indiana-jones-and-the-dial-of-destiny",
                 "studio": "Lucasfilm Ltd.",
                 "type": "movie",
@@ -4007,8 +4483,6 @@
                                 "id": 120,
                                 "key": "/library/parts/120/1738138118/file.mkv",
                                 "duration": 9273952,
-                                "file": "D:\\MediaServer\\Movies\\Indiana Jones and the Dial of Destiny\\Indiana Jones and the Dial of Destiny.mkv",
-                                "size": 28996252893,
                                 "container": "mkv",
                                 "videoProfile": "main 10"
                             }
@@ -4077,13 +4551,7 @@
                 ]
             },
             {
-                "allowSync": true,
-                "librarySectionID": 1,
-                "librarySectionTitle": "JacksFlicks",
-                "librarySectionUUID": "684c2eea-3e49-4c03-b348-5b8833a9eda4",
                 "ratingKey": "74",
-                "key": "/library/metadata/74",
-                "guid": "plex://movie/5d77682a6f4521001ea99b26",
                 "slug": "the-mummy-returns",
                 "studio": "Universal Pictures",
                 "type": "movie",
@@ -4125,8 +4593,6 @@
                                 "id": 151,
                                 "key": "/library/parts/151/1737805596/file.mp4",
                                 "duration": 7771889,
-                                "file": "D:\\MediaServer\\Movies\\The Mummy Returns (2001) [1080p]\\The.Mummy.Returns.2001.1080p.BRrip.x264.GAZ.YIFY.mp4",
-                                "size": 2040868646,
                                 "audioProfile": "lc",
                                 "container": "mp4",
                                 "has64bitOffsets": false,
@@ -4198,13 +4664,7 @@
                 ]
             },
             {
-                "allowSync": true,
-                "librarySectionID": 1,
-                "librarySectionTitle": "JacksFlicks",
-                "librarySectionUUID": "684c2eea-3e49-4c03-b348-5b8833a9eda4",
                 "ratingKey": "48",
-                "key": "/library/metadata/48",
-                "guid": "plex://movie/5d776ac596b655001fdf8e0f",
                 "slug": "ex-machina",
                 "studio": "DNA Films",
                 "type": "movie",
@@ -4245,8 +4705,6 @@
                                 "id": 97,
                                 "key": "/library/parts/97/1687341782/file.mp4",
                                 "duration": 6480960,
-                                "file": "D:\\MediaServer\\Movies\\Ex Machina (2015) [1080p]\\Ex.Machina.2015.1080p.BluRay.x264.YIFY.mp4",
-                                "size": 1750755070,
                                 "audioProfile": "lc",
                                 "container": "mp4",
                                 "has64bitOffsets": false,
@@ -4316,355 +4774,6 @@
                         "tag": "Oscar Isaac"
                     }
                 ]
-            },
-            {
-                "allowSync": true,
-                "librarySectionID": 2,
-                "librarySectionTitle": "JacksTvs",
-                "librarySectionUUID": "ef319db3-9dbc-4456-9f39-d072f5e05a88",
-                "ratingKey": "140",
-                "key": "/library/metadata/140/children",
-                "parentRatingKey": "117",
-                "guid": "plex://season/602e5bebc96042002d06efc6",
-                "parentGuid": "plex://show/5d9c080446115600200a6bb4",
-                "parentSlug": "harmonquest",
-                "parentStudio": "Starburns Industries",
-                "type": "season",
-                "title": "Season 1",
-                "parentKey": "/library/metadata/117",
-                "parentTitle": "HarmonQuest",
-                "parentSummary": "Dan Harmon and his celebrity friends get together to play a fantasy role playing game.",
-                "summary": "",
-                "index": 1,
-                "parentIndex": 1,
-                "parentYear": 2016,
-                "thumb": "/library/metadata/140/thumb/1740212537",
-                "art": "/library/metadata/117/art/1740212534",
-                "parentThumb": "/library/metadata/117/thumb/1740212534",
-                "parentTheme": "/library/metadata/117/theme/1740212534",
-                "leafCount": 10,
-                "viewedLeafCount": 2,
-                "addedAt": 1646394696,
-                "updatedAt": 1740212537,
-                "Image": [
-                    {
-                        "alt": "Season 1",
-                        "type": "coverPoster",
-                        "url": "/library/metadata/140/thumb/1740212537"
-                    },
-                    {
-                        "alt": "Season 1",
-                        "type": "background",
-                        "url": "/library/metadata/117/art/1740212534"
-                    },
-                    {
-                        "alt": "Season 1",
-                        "type": "clearLogo",
-                        "url": "/library/metadata/117/clearLogo/1740212534"
-                    }
-                ],
-                "UltraBlurColors": {
-                    "topLeft": "4b1d18",
-                    "topRight": "83150d",
-                    "bottomRight": "2b1e1c",
-                    "bottomLeft": "904525"
-                }
-            },
-            {
-                "allowSync": true,
-                "librarySectionID": 1,
-                "librarySectionTitle": "JacksFlicks",
-                "librarySectionUUID": "684c2eea-3e49-4c03-b348-5b8833a9eda4",
-                "ratingKey": "66",
-                "key": "/library/metadata/66",
-                "guid": "plex://movie/5d7768365af944001f1fa488",
-                "slug": "shutter-island",
-                "studio": "Paramount Pictures",
-                "type": "movie",
-                "title": "Shutter Island",
-                "contentRating": "au/MA15+",
-                "summary": "World War II soldier-turned-U.S. Marshal Teddy Daniels investigates the disappearance of a patient from a hospital for the criminally insane, but his efforts are compromised by troubling visions and a mysterious doctor.",
-                "audienceRating": 8.2,
-                "year": 2010,
-                "tagline": "Some places never let you go.",
-                "thumb": "/library/metadata/66/thumb/1740212512",
-                "art": "/library/metadata/66/art/1740212512",
-                "duration": 8284859,
-                "originallyAvailableAt": "2010-02-18",
-                "addedAt": 1612533498,
-                "updatedAt": 1740212512,
-                "audienceRatingImage": "imdb://image.rating",
-                "hasPremiumPrimaryExtra": "1",
-                "Media": [
-                    {
-                        "id": 131,
-                        "duration": 8284859,
-                        "bitrate": 1968,
-                        "width": 1920,
-                        "height": 816,
-                        "aspectRatio": 2.35,
-                        "audioChannels": 2,
-                        "audioCodec": "aac",
-                        "videoCodec": "h264",
-                        "videoResolution": "1080",
-                        "container": "mp4",
-                        "videoFrameRate": "24p",
-                        "optimizedForStreaming": 1,
-                        "audioProfile": "lc",
-                        "has64bitOffsets": false,
-                        "videoProfile": "high",
-                        "Part": [
-                            {
-                                "id": 131,
-                                "key": "/library/parts/131/1612533498/file.mp4",
-                                "duration": 8284859,
-                                "file": "D:\\MediaServer\\Movies\\Shutter Island (2010) [1080p]\\Shutter.Island.2010.1080p.BluRay.x264.YIFY.mp4",
-                                "size": 2042145491,
-                                "audioProfile": "lc",
-                                "container": "mp4",
-                                "has64bitOffsets": false,
-                                "optimizedForStreaming": true,
-                                "videoProfile": "high"
-                            }
-                        ]
-                    }
-                ],
-                "Image": [
-                    {
-                        "alt": "Shutter Island",
-                        "type": "coverPoster",
-                        "url": "/library/metadata/66/thumb/1740212512"
-                    },
-                    {
-                        "alt": "Shutter Island",
-                        "type": "background",
-                        "url": "/library/metadata/66/art/1740212512"
-                    },
-                    {
-                        "alt": "Shutter Island",
-                        "type": "clearLogo",
-                        "url": "/library/metadata/66/clearLogo/1740212512"
-                    }
-                ],
-                "UltraBlurColors": {
-                    "topLeft": "093149",
-                    "topRight": "0b658e",
-                    "bottomRight": "071731",
-                    "bottomLeft": "132949"
-                },
-                "Genre": [
-                    {
-                        "tag": "Drama"
-                    },
-                    {
-                        "tag": "Thriller"
-                    }
-                ],
-                "Country": [
-                    {
-                        "tag": "United States of America"
-                    }
-                ],
-                "Director": [
-                    {
-                        "tag": "Martin Scorsese"
-                    }
-                ],
-                "Writer": [
-                    {
-                        "tag": "Dennis Lehane"
-                    },
-                    {
-                        "tag": "Laeta Kalogridis"
-                    }
-                ],
-                "Role": [
-                    {
-                        "tag": "Leonardo DiCaprio"
-                    },
-                    {
-                        "tag": "Mark Ruffalo"
-                    },
-                    {
-                        "tag": "Ben Kingsley"
-                    }
-                ]
-            },
-            {
-                "allowSync": true,
-                "librarySectionID": 1,
-                "librarySectionTitle": "JacksFlicks",
-                "librarySectionUUID": "684c2eea-3e49-4c03-b348-5b8833a9eda4",
-                "ratingKey": "65",
-                "key": "/library/metadata/65",
-                "guid": "plex://movie/5d7769cf51dd69001fe1c1d4",
-                "slug": "pet-sematary",
-                "studio": "di Bonaventura Pictures",
-                "type": "movie",
-                "title": "Pet Sematary",
-                "contentRating": "au/MA15+",
-                "summary": "Dr. Louis Creed and his wife, Rachel, relocate from Boston to rural Maine with their two young children. The couple soon discover a mysterious burial ground hidden deep in the woods near their new home.",
-                "audienceRating": 5.7,
-                "year": 2019,
-                "tagline": "Sometimes dead is better.",
-                "thumb": "/library/metadata/65/thumb/1740212512",
-                "art": "/library/metadata/65/art/1740212512",
-                "duration": 6049898,
-                "originallyAvailableAt": "2019-04-03",
-                "addedAt": 1561872720,
-                "updatedAt": 1740212512,
-                "audienceRatingImage": "imdb://image.rating",
-                "hasPremiumPrimaryExtra": "1",
-                "Media": [
-                    {
-                        "id": 130,
-                        "duration": 6049898,
-                        "bitrate": 2295,
-                        "width": 1920,
-                        "height": 800,
-                        "aspectRatio": 2.35,
-                        "audioChannels": 2,
-                        "audioCodec": "aac",
-                        "videoCodec": "h264",
-                        "videoResolution": "1080",
-                        "container": "mp4",
-                        "videoFrameRate": "24p",
-                        "optimizedForStreaming": 1,
-                        "audioProfile": "lc",
-                        "has64bitOffsets": false,
-                        "videoProfile": "high",
-                        "Part": [
-                            {
-                                "id": 130,
-                                "key": "/library/parts/130/1561872720/file.mp4",
-                                "duration": 6049898,
-                                "file": "D:\\MediaServer\\Movies\\Pet Sematary (2019) [BluRay] [1080p] [YTS.LT]\\Pet.Sematary.2019.1080p.BluRay.x264-[YTS.LT].mp4",
-                                "size": 1739323242,
-                                "audioProfile": "lc",
-                                "container": "mp4",
-                                "has64bitOffsets": false,
-                                "optimizedForStreaming": true,
-                                "videoProfile": "high"
-                            }
-                        ]
-                    }
-                ],
-                "Image": [
-                    {
-                        "alt": "Pet Sematary",
-                        "type": "coverPoster",
-                        "url": "/library/metadata/65/thumb/1740212512"
-                    },
-                    {
-                        "alt": "Pet Sematary",
-                        "type": "background",
-                        "url": "/library/metadata/65/art/1740212512"
-                    },
-                    {
-                        "alt": "Pet Sematary",
-                        "type": "clearLogo",
-                        "url": "/library/metadata/65/clearLogo/1740212512"
-                    }
-                ],
-                "UltraBlurColors": {
-                    "topLeft": "302d28",
-                    "topRight": "302403",
-                    "bottomRight": "403c34",
-                    "bottomLeft": "28231e"
-                },
-                "Genre": [
-                    {
-                        "tag": "Horror"
-                    },
-                    {
-                        "tag": "Thriller"
-                    }
-                ],
-                "Country": [
-                    {
-                        "tag": "United States of America"
-                    }
-                ],
-                "Director": [
-                    {
-                        "tag": "Dennis Widmyer"
-                    },
-                    {
-                        "tag": "Kevin K\u00f6lsch"
-                    }
-                ],
-                "Writer": [
-                    {
-                        "tag": "Jeff Buhler"
-                    },
-                    {
-                        "tag": "Stephen King"
-                    }
-                ],
-                "Role": [
-                    {
-                        "tag": "Jason Clarke"
-                    },
-                    {
-                        "tag": "Amy Seimetz"
-                    },
-                    {
-                        "tag": "John Lithgow"
-                    }
-                ]
-            },
-            {
-                "allowSync": true,
-                "librarySectionID": 2,
-                "librarySectionTitle": "JacksTvs",
-                "librarySectionUUID": "ef319db3-9dbc-4456-9f39-d072f5e05a88",
-                "ratingKey": "152",
-                "key": "/library/metadata/152/children",
-                "parentRatingKey": "151",
-                "guid": "plex://season/602e5c9933eb76002d6057d1",
-                "parentGuid": "plex://show/5d9c0808d4f2a9001f7fd5ad",
-                "parentSlug": "one-punch-man",
-                "parentStudio": "Madhouse",
-                "type": "season",
-                "title": "Season 1",
-                "parentKey": "/library/metadata/151",
-                "parentTitle": "One Punch Man",
-                "parentSummary": "The story of Saitama, a hero that does it just for fun & can defeat his enemies with a single punch.",
-                "summary": "",
-                "index": 1,
-                "parentIndex": 1,
-                "parentYear": 2015,
-                "thumb": "/library/metadata/152/thumb/1740212543",
-                "art": "/library/metadata/151/art/1740212542",
-                "parentThumb": "/library/metadata/151/thumb/1740212542",
-                "parentTheme": "/library/metadata/151/theme/1740212542",
-                "leafCount": 12,
-                "viewedLeafCount": 0,
-                "addedAt": 1544111636,
-                "updatedAt": 1740212543,
-                "Image": [
-                    {
-                        "alt": "Season 1",
-                        "type": "coverPoster",
-                        "url": "/library/metadata/152/thumb/1740212543"
-                    },
-                    {
-                        "alt": "Season 1",
-                        "type": "background",
-                        "url": "/library/metadata/151/art/1740212542"
-                    },
-                    {
-                        "alt": "Season 1",
-                        "type": "clearLogo",
-                        "url": "/library/metadata/151/clearLogo/1740212542"
-                    }
-                ],
-                "UltraBlurColors": {
-                    "topLeft": "4c1c1c",
-                    "topRight": "a13120",
-                    "bottomRight": "5b2720",
-                    "bottomLeft": "b10609"
-                }
             }
         ]
     }

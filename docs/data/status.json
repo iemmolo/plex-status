@@ -1,7 +1,4 @@
 {
-    "server": {
-        "status": "online",
-        "Media Container": "Unknown",
-        "last_checked": "2025-02-23 08:10:39"
-    }
+    "status": "Online",
+    "timestamp": 1740404542
 }

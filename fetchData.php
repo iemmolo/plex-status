@@ -4,6 +4,7 @@ require 'vendor/autoload.php';
 
 use PlexStatus\PlexApi;
 use PlexStatus\DataWriter;
+use PlexStatus\DataSanitizer;
 
 try {
     $plexToken = getenv('PLEX_TOKEN');
@@ -15,14 +16,16 @@ try {
 
     $plex = new PlexApi($plexToken, $plexUrl);
 
-    // TODO: Fix this please.
     $data = $plex->getRecentlyAdded();
+    $sanitizer = new DataSanitizer();
+    $cleanData = $sanitizer->sanitize($data);
     $writer = new DataWriter('docs/data/recent.json');
-    $writer->write($data);
+    $writer->write($cleanData);
 
-    $data = $plex->getSeverStatus();
+    $data = $plex->getServerStatus();
+    $cleanData = $sanitizer->sanitize($data);
     $writer = new DataWriter('docs/data/status.json');
-    $writer->write($data);
+    $writer->write($cleanData);
 
 
     echo "Data successfully saved to docs/data/recent.json\n";
