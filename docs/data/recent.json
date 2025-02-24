@@ -153,12 +153,12 @@
                 "audienceRating": 7.4,
                 "year": 2019,
                 "tagline": "I am the destiny (Australia/New Zealand/UK/Ireland)",
-                "thumb": "/library/metadata/276/thumb/1740353838",
-                "art": "/library/metadata/276/art/1740353838",
+                "thumb": "/library/metadata/276/thumb/1740420102",
+                "art": "/library/metadata/276/art/1740420102",
                 "duration": 6607520,
                 "originallyAvailableAt": "2019-07-26",
                 "addedAt": 1740353837,
-                "updatedAt": 1740353838,
+                "updatedAt": 1740420102,
                 "audienceRatingImage": "imdb://image.rating",
                 "chapterSource": "media",
                 "hasPremiumPrimaryExtra": "1",
@@ -166,7 +166,7 @@
                     {
                         "id": 397,
                         "duration": 6607520,
-                        "bitrate": 1824,
+                        "bitrate": 1821,
                         "width": 1920,
                         "height": 800,
                         "aspectRatio": 2.35,
@@ -192,24 +192,24 @@
                     {
                         "alt": "Ne Zha",
                         "type": "coverPoster",
-                        "url": "/library/metadata/276/thumb/1740353838"
+                        "url": "/library/metadata/276/thumb/1740420102"
                     },
                     {
                         "alt": "Ne Zha",
                         "type": "background",
-                        "url": "/library/metadata/276/art/1740353838"
+                        "url": "/library/metadata/276/art/1740420102"
                     },
                     {
                         "alt": "Ne Zha",
                         "type": "clearLogo",
-                        "url": "/library/metadata/276/clearLogo/1740353838"
+                        "url": "/library/metadata/276/clearLogo/1740420102"
                     }
                 ],
                 "UltraBlurColors": {
-                    "topLeft": "491223",
-                    "topRight": "651f27",
-                    "bottomRight": "702120",
-                    "bottomLeft": "66161a"
+                    "topLeft": "1a2a57",
+                    "topRight": "a12320",
+                    "bottomRight": "931318",
+                    "bottomLeft": "292557"
                 },
                 "Genre": [
                     {
@@ -262,7 +262,7 @@
                 "tagline": "In this house, if you've seen one ghost...you haven't seen them all.",
                 "thumb": "/library/metadata/277/thumb/1740353839",
                 "art": "/library/metadata/277/art/1740353839",
-                "duration": 5525442,
+                "duration": 5525441,
                 "originallyAvailableAt": "1988-03-30",
                 "addedAt": 1740353837,
                 "updatedAt": 1740353839,
@@ -272,8 +272,8 @@
                 "Media": [
                     {
                         "id": 398,
-                        "duration": 5525442,
-                        "bitrate": 4344,
+                        "duration": 5525441,
+                        "bitrate": 4341,
                         "width": 1920,
                         "height": 1038,
                         "aspectRatio": 1.85,
@@ -288,7 +288,7 @@
                             {
                                 "id": 399,
                                 "key": "/library/parts/399/1740286688/file.mkv",
-                                "duration": 5525442,
+                                "duration": 5525441,
                                 "container": "mkv",
                                 "videoProfile": "main 10"
                             }
@@ -368,20 +368,20 @@
                 "audienceRating": 7.1,
                 "year": 2024,
                 "tagline": "An American horror story.",
-                "thumb": "/library/metadata/273/thumb/1740353839",
-                "art": "/library/metadata/273/art/1740353839",
-                "duration": 7342173,
+                "thumb": "/library/metadata/273/thumb/1740420102",
+                "art": "/library/metadata/273/art/1740420102",
+                "duration": 7342172,
                 "originallyAvailableAt": "2024-10-09",
                 "addedAt": 1740353836,
-                "updatedAt": 1740353839,
+                "updatedAt": 1740420102,
                 "audienceRatingImage": "imdb://image.rating",
                 "chapterSource": "media",
                 "hasPremiumPrimaryExtra": "1",
                 "Media": [
                     {
                         "id": 390,
-                        "duration": 7342173,
-                        "bitrate": 1642,
+                        "duration": 7342172,
+                        "bitrate": 1639,
                         "width": 1314,
                         "height": 1080,
                         "aspectRatio": 1.33,
@@ -396,7 +396,7 @@
                             {
                                 "id": 391,
                                 "key": "/library/parts/391/1740328552/file.mkv",
-                                "duration": 7342173,
+                                "duration": 7342172,
                                 "container": "mkv",
                                 "videoProfile": "high"
                             }
@@ -407,24 +407,24 @@
                     {
                         "alt": "The Apprentice",
                         "type": "coverPoster",
-                        "url": "/library/metadata/273/thumb/1740353839"
+                        "url": "/library/metadata/273/thumb/1740420102"
                     },
                     {
                         "alt": "The Apprentice",
                         "type": "background",
-                        "url": "/library/metadata/273/art/1740353839"
+                        "url": "/library/metadata/273/art/1740420102"
                     },
                     {
                         "alt": "The Apprentice",
                         "type": "clearLogo",
-                        "url": "/library/metadata/273/clearLogo/1740353839"
+                        "url": "/library/metadata/273/clearLogo/1740420102"
                     }
                 ],
                 "UltraBlurColors": {
-                    "topLeft": "452312",
-                    "topRight": "7e532a",
-                    "bottomRight": "6e451f",
-                    "bottomLeft": "7e531f"
+                    "topLeft": "412710",
+                    "topRight": "3e5a9e",
+                    "bottomRight": "1b1616",
+                    "bottomLeft": "222121"
                 },
                 "Genre": [
                     {
@@ -475,20 +475,20 @@
                 "audienceRating": 5.7,
                 "year": 2024,
                 "tagline": "Some fears are darker than space.",
-                "thumb": "/library/metadata/272/thumb/1740353837",
-                "art": "/library/metadata/272/art/1740353837",
-                "duration": 6475099,
+                "thumb": "/library/metadata/272/thumb/1740420102",
+                "art": "/library/metadata/272/art/1740420102",
+                "duration": 6475098,
                 "originallyAvailableAt": "2024-08-30",
                 "addedAt": 1740353836,
-                "updatedAt": 1740353837,
+                "updatedAt": 1740420102,
                 "audienceRatingImage": "imdb://image.rating",
                 "chapterSource": "media",
                 "hasPremiumPrimaryExtra": "1",
                 "Media": [
                     {
                         "id": 389,
-                        "duration": 6475099,
-                        "bitrate": 2234,
+                        "duration": 6475098,
+                        "bitrate": 2230,
                         "width": 1920,
                         "height": 1040,
                         "aspectRatio": 1.85,
@@ -503,7 +503,7 @@
                             {
                                 "id": 390,
                                 "key": "/library/parts/390/1740329628/file.mkv",
-                                "duration": 6475099,
+                                "duration": 6475098,
                                 "container": "mkv",
                                 "videoProfile": "main 10"
                             }
@@ -514,17 +514,17 @@
                     {
                         "alt": "Slingshot",
                         "type": "coverPoster",
-                        "url": "/library/metadata/272/thumb/1740353837"
+                        "url": "/library/metadata/272/thumb/1740420102"
                     },
                     {
                         "alt": "Slingshot",
                         "type": "background",
-                        "url": "/library/metadata/272/art/1740353837"
+                        "url": "/library/metadata/272/art/1740420102"
                     },
                     {
                         "alt": "Slingshot",
                         "type": "clearLogo",
-                        "url": "/library/metadata/272/clearLogo/1740353837"
+                        "url": "/library/metadata/272/clearLogo/1740420102"
                     }
                 ],
                 "UltraBlurColors": {
@@ -595,7 +595,7 @@
                     {
                         "id": 388,
                         "duration": 5273152,
-                        "bitrate": 2285,
+                        "bitrate": 2282,
                         "width": 1920,
                         "height": 1036,
                         "aspectRatio": 1.85,
@@ -688,7 +688,7 @@
                 "tagline": "New adventure. New rival.",
                 "thumb": "/library/metadata/270/thumb/1740353837",
                 "art": "/library/metadata/270/art/1740353837",
-                "duration": 6617386,
+                "duration": 6617381,
                 "originallyAvailableAt": "2024-12-20",
                 "addedAt": 1740353835,
                 "updatedAt": 1740353837,
@@ -697,8 +697,8 @@
                 "Media": [
                     {
                         "id": 387,
-                        "duration": 6617386,
-                        "bitrate": 2321,
+                        "duration": 6617381,
+                        "bitrate": 2316,
                         "width": 1920,
                         "height": 800,
                         "aspectRatio": 2.35,
@@ -714,7 +714,7 @@
                             {
                                 "id": 388,
                                 "key": "/library/parts/388/1740319078/file.mkv",
-                                "duration": 6617386,
+                                "duration": 6617381,
                                 "audioProfile": "lc",
                                 "container": "mkv",
                                 "videoProfile": "main"
