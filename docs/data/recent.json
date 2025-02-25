@@ -893,9 +893,9 @@
                 "parentIndex": 1,
                 "parentYear": 2021,
                 "thumb": "/library/metadata/144/thumb/1740212539",
-                "art": "/library/metadata/143/art/1740429977",
-                "parentThumb": "/library/metadata/143/thumb/1740429977",
-                "parentTheme": "/library/metadata/143/theme/1740429977",
+                "art": "/library/metadata/143/art/1740511077",
+                "parentThumb": "/library/metadata/143/thumb/1740511077",
+                "parentTheme": "/library/metadata/143/theme/1740511077",
                 "leafCount": 5,
                 "viewedLeafCount": 0,
                 "addedAt": 1740129078,
@@ -909,12 +909,12 @@
                     {
                         "alt": "Season 3",
                         "type": "background",
-                        "url": "/library/metadata/143/art/1740429977"
+                        "url": "/library/metadata/143/art/1740511077"
                     },
                     {
                         "alt": "Season 3",
                         "type": "clearLogo",
-                        "url": "/library/metadata/143/clearLogo/1740429977"
+                        "url": "/library/metadata/143/clearLogo/1740511077"
                     }
                 ],
                 "UltraBlurColors": {
@@ -3401,12 +3401,12 @@
                 "audienceRating": 6.8,
                 "year": 2025,
                 "tagline": "She's starting a new chapter. Just as she is.",
-                "thumb": "/library/metadata/15/thumb/1740429976",
-                "art": "/library/metadata/15/art/1740429976",
+                "thumb": "/library/metadata/15/thumb/1740511076",
+                "art": "/library/metadata/15/art/1740511076",
                 "duration": 7492234,
                 "originallyAvailableAt": "2025-02-12",
                 "addedAt": 1740059764,
-                "updatedAt": 1740429976,
+                "updatedAt": 1740511076,
                 "audienceRatingImage": "imdb://image.rating",
                 "hasPremiumPrimaryExtra": "1",
                 "Media": [
@@ -3441,17 +3441,17 @@
                     {
                         "alt": "Bridget Jones: Mad About the Boy",
                         "type": "coverPoster",
-                        "url": "/library/metadata/15/thumb/1740429976"
+                        "url": "/library/metadata/15/thumb/1740511076"
                     },
                     {
                         "alt": "Bridget Jones: Mad About the Boy",
                         "type": "background",
-                        "url": "/library/metadata/15/art/1740429976"
+                        "url": "/library/metadata/15/art/1740511076"
                     },
                     {
                         "alt": "Bridget Jones: Mad About the Boy",
                         "type": "clearLogo",
-                        "url": "/library/metadata/15/clearLogo/1740429976"
+                        "url": "/library/metadata/15/clearLogo/1740511076"
                     }
                 ],
                 "UltraBlurColors": {
@@ -3623,12 +3623,12 @@
                 "lastRatedAt": 1740236875,
                 "year": 2025,
                 "tagline": "The world's most dangerous secret lies between them.",
-                "thumb": "/library/metadata/76/thumb/1740429976",
-                "art": "/library/metadata/76/art/1740429976",
+                "thumb": "/library/metadata/76/thumb/1740511077",
+                "art": "/library/metadata/76/art/1740511077",
                 "duration": 7667552,
                 "originallyAvailableAt": "2025-02-14",
                 "addedAt": 1740059100,
-                "updatedAt": 1740429976,
+                "updatedAt": 1740511077,
                 "audienceRatingImage": "imdb://image.rating",
                 "chapterSource": "media",
                 "hasPremiumPrimaryExtra": "1",
@@ -3662,17 +3662,17 @@
                     {
                         "alt": "The Gorge",
                         "type": "coverPoster",
-                        "url": "/library/metadata/76/thumb/1740429976"
+                        "url": "/library/metadata/76/thumb/1740511077"
                     },
                     {
                         "alt": "The Gorge",
                         "type": "background",
-                        "url": "/library/metadata/76/art/1740429976"
+                        "url": "/library/metadata/76/art/1740511077"
                     },
                     {
                         "alt": "The Gorge",
                         "type": "clearLogo",
-                        "url": "/library/metadata/76/clearLogo/1740429976"
+                        "url": "/library/metadata/76/clearLogo/1740511077"
                     }
                 ],
                 "UltraBlurColors": {
