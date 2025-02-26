@@ -15,7 +15,7 @@
                 "tagline": "Silence is not enough.",
                 "thumb": "/library/metadata/372/thumb/1740567744",
                 "art": "/library/metadata/372/art/1740567744",
-                "duration": 5821291,
+                "duration": 5821290,
                 "originallyAvailableAt": "2021-05-20",
                 "addedAt": 1740567743,
                 "updatedAt": 1740567744,
@@ -24,8 +24,8 @@
                 "Media": [
                     {
                         "id": 525,
-                        "duration": 5821291,
-                        "bitrate": 2727,
+                        "duration": 5821290,
+                        "bitrate": 2722,
                         "width": 1916,
                         "height": 798,
                         "aspectRatio": 2.35,
@@ -43,7 +43,7 @@
                             {
                                 "id": 526,
                                 "key": "/library/parts/526/1740367152/file.mp4",
-                                "duration": 5821291,
+                                "duration": 5821290,
                                 "audioProfile": "lc",
                                 "container": "mp4",
                                 "has64bitOffsets": false,
@@ -123,20 +123,20 @@
                 "audienceRating": 8.2,
                 "year": 2024,
                 "tagline": "Discover your true nature.",
-                "thumb": "/library/metadata/380/thumb/1740567746",
-                "art": "/library/metadata/380/art/1740567746",
-                "duration": 6106684,
+                "thumb": "/library/metadata/380/thumb/1740592891",
+                "art": "/library/metadata/380/art/1740592891",
+                "duration": 6106683,
                 "originallyAvailableAt": "2024-09-12",
                 "addedAt": 1740567743,
-                "updatedAt": 1740567746,
+                "updatedAt": 1740592891,
                 "audienceRatingImage": "imdb://image.rating",
                 "chapterSource": "media",
                 "hasPremiumPrimaryExtra": "1",
                 "Media": [
                     {
                         "id": 543,
-                        "duration": 6106684,
-                        "bitrate": 3583,
+                        "duration": 6106683,
+                        "bitrate": 3579,
                         "width": 1920,
                         "height": 800,
                         "aspectRatio": 2.35,
@@ -151,7 +151,7 @@
                             {
                                 "id": 544,
                                 "key": "/library/parts/544/1740367016/file.mkv",
-                                "duration": 6106684,
+                                "duration": 6106683,
                                 "container": "mkv",
                                 "videoProfile": "main 10"
                             }
@@ -162,17 +162,17 @@
                     {
                         "alt": "The Wild Robot",
                         "type": "coverPoster",
-                        "url": "/library/metadata/380/thumb/1740567746"
+                        "url": "/library/metadata/380/thumb/1740592891"
                     },
                     {
                         "alt": "The Wild Robot",
                         "type": "background",
-                        "url": "/library/metadata/380/art/1740567746"
+                        "url": "/library/metadata/380/art/1740592891"
                     },
                     {
                         "alt": "The Wild Robot",
                         "type": "clearLogo",
-                        "url": "/library/metadata/380/clearLogo/1740567746"
+                        "url": "/library/metadata/380/clearLogo/1740592891"
                     }
                 ],
                 "UltraBlurColors": {
@@ -230,20 +230,20 @@
                 "audienceRating": 5.4,
                 "year": 2024,
                 "tagline": "Don't turn her on.",
-                "thumb": "/library/metadata/379/thumb/1740567745",
-                "art": "/library/metadata/379/art/1740567745",
-                "duration": 6336419,
+                "thumb": "/library/metadata/379/thumb/1740592891",
+                "art": "/library/metadata/379/art/1740592891",
+                "duration": 6336418,
                 "originallyAvailableAt": "2024-08-15",
                 "addedAt": 1740567743,
-                "updatedAt": 1740567745,
+                "updatedAt": 1740592891,
                 "audienceRatingImage": "imdb://image.rating",
                 "chapterSource": "media",
                 "hasPremiumPrimaryExtra": "1",
                 "Media": [
                     {
                         "id": 542,
-                        "duration": 6336419,
-                        "bitrate": 1570,
+                        "duration": 6336418,
+                        "bitrate": 1567,
                         "width": 1920,
                         "height": 1080,
                         "aspectRatio": 1.78,
@@ -258,7 +258,7 @@
                             {
                                 "id": 543,
                                 "key": "/library/parts/543/1740366490/file.mkv",
-                                "duration": 6336419,
+                                "duration": 6336418,
                                 "container": "mkv",
                                 "videoProfile": "main 10"
                             }
@@ -269,17 +269,17 @@
                     {
                         "alt": "Subservience",
                         "type": "coverPoster",
-                        "url": "/library/metadata/379/thumb/1740567745"
+                        "url": "/library/metadata/379/thumb/1740592891"
                     },
                     {
                         "alt": "Subservience",
                         "type": "background",
-                        "url": "/library/metadata/379/art/1740567745"
+                        "url": "/library/metadata/379/art/1740592891"
                     },
                     {
                         "alt": "Subservience",
                         "type": "clearLogo",
-                        "url": "/library/metadata/379/clearLogo/1740567745"
+                        "url": "/library/metadata/379/clearLogo/1740592891"
                     }
                 ],
                 "UltraBlurColors": {
@@ -337,20 +337,20 @@
                 "audienceRating": 6.5,
                 "year": 2024,
                 "tagline": "Chase. Ride. Survive.",
-                "thumb": "/library/metadata/373/thumb/1740567744",
-                "art": "/library/metadata/373/art/1740567744",
-                "duration": 7341798,
+                "thumb": "/library/metadata/373/thumb/1740592890",
+                "art": "/library/metadata/373/art/1740592890",
+                "duration": 7341797,
                 "originallyAvailableAt": "2024-07-10",
                 "addedAt": 1740567743,
-                "updatedAt": 1740567744,
+                "updatedAt": 1740592890,
                 "audienceRatingImage": "imdb://image.rating",
                 "chapterSource": "media",
                 "hasPremiumPrimaryExtra": "1",
                 "Media": [
                     {
                         "id": 526,
-                        "duration": 7341798,
-                        "bitrate": 1644,
+                        "duration": 7341797,
+                        "bitrate": 1639,
                         "width": 1920,
                         "height": 800,
                         "aspectRatio": 2.35,
@@ -365,7 +365,7 @@
                             {
                                 "id": 527,
                                 "key": "/library/parts/527/1740366652/file.mkv",
-                                "duration": 7341798,
+                                "duration": 7341797,
                                 "container": "mkv",
                                 "videoProfile": "high"
                             }
@@ -376,17 +376,17 @@
                     {
                         "alt": "Twisters",
                         "type": "coverPoster",
-                        "url": "/library/metadata/373/thumb/1740567744"
+                        "url": "/library/metadata/373/thumb/1740592890"
                     },
                     {
                         "alt": "Twisters",
                         "type": "background",
-                        "url": "/library/metadata/373/art/1740567744"
+                        "url": "/library/metadata/373/art/1740592890"
                     },
                     {
                         "alt": "Twisters",
                         "type": "clearLogo",
-                        "url": "/library/metadata/373/clearLogo/1740567744"
+                        "url": "/library/metadata/373/clearLogo/1740592890"
                     }
                 ],
                 "UltraBlurColors": {
@@ -444,20 +444,20 @@
                 "audienceRating": 6.5,
                 "year": 1996,
                 "tagline": "Don't breathe. Don't look back.",
-                "thumb": "/library/metadata/364/thumb/1740567744",
-                "art": "/library/metadata/364/art/1740567744",
-                "duration": 6782401,
+                "thumb": "/library/metadata/364/thumb/1740592889",
+                "art": "/library/metadata/364/art/1740592889",
+                "duration": 6782405,
                 "originallyAvailableAt": "1996-05-10",
                 "addedAt": 1740567742,
-                "updatedAt": 1740567744,
+                "updatedAt": 1740592889,
                 "audienceRatingImage": "imdb://image.rating",
                 "chapterSource": "media",
                 "hasPremiumPrimaryExtra": "1",
                 "Media": [
                     {
                         "id": 507,
-                        "duration": 6782401,
-                        "bitrate": 3548,
+                        "duration": 6782405,
+                        "bitrate": 3544,
                         "width": 1920,
                         "height": 1080,
                         "aspectRatio": 1.78,
@@ -472,7 +472,7 @@
                             {
                                 "id": 508,
                                 "key": "/library/parts/508/1740367334/file.mkv",
-                                "duration": 6782401,
+                                "duration": 6782405,
                                 "container": "mkv",
                                 "videoProfile": "main 10"
                             }
@@ -483,17 +483,17 @@
                     {
                         "alt": "Twister",
                         "type": "coverPoster",
-                        "url": "/library/metadata/364/thumb/1740567744"
+                        "url": "/library/metadata/364/thumb/1740592889"
                     },
                     {
                         "alt": "Twister",
                         "type": "background",
-                        "url": "/library/metadata/364/art/1740567744"
+                        "url": "/library/metadata/364/art/1740592889"
                     },
                     {
                         "alt": "Twister",
                         "type": "clearLogo",
-                        "url": "/library/metadata/364/clearLogo/1740567744"
+                        "url": "/library/metadata/364/clearLogo/1740592889"
                     }
                 ],
                 "UltraBlurColors": {
@@ -554,7 +554,7 @@
                 "tagline": "If they hear you, they hunt you.",
                 "thumb": "/library/metadata/366/thumb/1740567743",
                 "art": "/library/metadata/366/art/1740567743",
-                "duration": 5414976,
+                "duration": 5415016,
                 "originallyAvailableAt": "2018-04-03",
                 "addedAt": 1740567742,
                 "updatedAt": 1740567743,
@@ -563,8 +563,8 @@
                 "Media": [
                     {
                         "id": 511,
-                        "duration": 5414976,
-                        "bitrate": 2230,
+                        "duration": 5415016,
+                        "bitrate": 2223,
                         "width": 1920,
                         "height": 800,
                         "aspectRatio": 2.35,
@@ -582,7 +582,7 @@
                             {
                                 "id": 512,
                                 "key": "/library/parts/512/1740367262/file.mp4",
-                                "duration": 5414976,
+                                "duration": 5415016,
                                 "audioProfile": "lc",
                                 "container": "mp4",
                                 "has64bitOffsets": false,
@@ -665,12 +665,12 @@
                 "audienceRating": 6.3,
                 "year": 2024,
                 "tagline": "Hear how it all began.",
-                "thumb": "/library/metadata/367/thumb/1740567746",
-                "art": "/library/metadata/367/art/1740567746",
+                "thumb": "/library/metadata/367/thumb/1740592890",
+                "art": "/library/metadata/367/art/1740592890",
                 "duration": 5964320,
                 "originallyAvailableAt": "2024-06-26",
                 "addedAt": 1740567742,
-                "updatedAt": 1740567746,
+                "updatedAt": 1740592890,
                 "audienceRatingImage": "imdb://image.rating",
                 "chapterSource": "media",
                 "hasPremiumPrimaryExtra": "1",
@@ -678,7 +678,7 @@
                     {
                         "id": 512,
                         "duration": 5964320,
-                        "bitrate": 1529,
+                        "bitrate": 1525,
                         "width": 1920,
                         "height": 804,
                         "aspectRatio": 2.35,
@@ -704,17 +704,17 @@
                     {
                         "alt": "A Quiet Place: Day One",
                         "type": "coverPoster",
-                        "url": "/library/metadata/367/thumb/1740567746"
+                        "url": "/library/metadata/367/thumb/1740592890"
                     },
                     {
                         "alt": "A Quiet Place: Day One",
                         "type": "background",
-                        "url": "/library/metadata/367/art/1740567746"
+                        "url": "/library/metadata/367/art/1740592890"
                     },
                     {
                         "alt": "A Quiet Place: Day One",
                         "type": "clearLogo",
-                        "url": "/library/metadata/367/clearLogo/1740567746"
+                        "url": "/library/metadata/367/clearLogo/1740592890"
                     }
                 ],
                 "UltraBlurColors": {
@@ -774,7 +774,7 @@
                 "tagline": "Villains aren't born. They're made.",
                 "thumb": "/library/metadata/363/thumb/1740567742",
                 "art": "/library/metadata/363/art/1740567742",
-                "duration": 7608089,
+                "duration": 7608088,
                 "originallyAvailableAt": "2024-12-11",
                 "addedAt": 1740567741,
                 "updatedAt": 1740567742,
@@ -783,8 +783,8 @@
                 "Media": [
                     {
                         "id": 506,
-                        "duration": 7608089,
-                        "bitrate": 1584,
+                        "duration": 7608088,
+                        "bitrate": 1581,
                         "width": 1920,
                         "height": 800,
                         "aspectRatio": 2.35,
@@ -799,7 +799,7 @@
                             {
                                 "id": 507,
                                 "key": "/library/parts/507/1740397887/file.mkv",
-                                "duration": 7608089,
+                                "duration": 7608088,
                                 "container": "mkv",
                                 "videoProfile": "high"
                             }
@@ -890,7 +890,7 @@
                     {
                         "id": 479,
                         "duration": 5971040,
-                        "bitrate": 4772,
+                        "bitrate": 4770,
                         "width": 1920,
                         "height": 1080,
                         "aspectRatio": 1.78,
@@ -980,20 +980,20 @@
                 "audienceRating": 2.8,
                 "year": 2024,
                 "tagline": "Once you check in, you can never leave.",
-                "thumb": "/library/metadata/359/thumb/1740567742",
-                "art": "/library/metadata/359/art/1740567742",
-                "duration": 6854269,
+                "thumb": "/library/metadata/359/thumb/1740592890",
+                "art": "/library/metadata/359/art/1740592890",
+                "duration": 6854268,
                 "originallyAvailableAt": "2024-11-22",
                 "addedAt": 1740567740,
-                "updatedAt": 1740567742,
+                "updatedAt": 1740592890,
                 "audienceRatingImage": "imdb://image.rating",
                 "chapterSource": "media",
                 "hasPremiumPrimaryExtra": "1",
                 "Media": [
                     {
                         "id": 498,
-                        "duration": 6854269,
-                        "bitrate": 1759,
+                        "duration": 6854268,
+                        "bitrate": 1756,
                         "width": 1920,
                         "height": 800,
                         "aspectRatio": 2.35,
@@ -1008,7 +1008,7 @@
                             {
                                 "id": 499,
                                 "key": "/library/parts/499/1740400355/file.mkv",
-                                "duration": 6854269,
+                                "duration": 6854268,
                                 "container": "mkv",
                                 "videoProfile": "high"
                             }
@@ -1019,17 +1019,17 @@
                     {
                         "alt": "Trapped Inn",
                         "type": "coverPoster",
-                        "url": "/library/metadata/359/thumb/1740567742"
+                        "url": "/library/metadata/359/thumb/1740592890"
                     },
                     {
                         "alt": "Trapped Inn",
                         "type": "background",
-                        "url": "/library/metadata/359/art/1740567742"
+                        "url": "/library/metadata/359/art/1740592890"
                     },
                     {
                         "alt": "Trapped Inn",
                         "type": "clearLogo",
-                        "url": "/library/metadata/359/clearLogo/1740567742"
+                        "url": "/library/metadata/359/clearLogo/1740592890"
                     }
                 ],
                 "UltraBlurColors": {
@@ -1084,12 +1084,12 @@
                 "audienceRating": 4.9,
                 "year": 2024,
                 "tagline": "New Years Eve, 1999. The last party before...",
-                "thumb": "/library/metadata/360/thumb/1740567742",
-                "art": "/library/metadata/360/art/1740567742",
+                "thumb": "/library/metadata/360/thumb/1740592892",
+                "art": "/library/metadata/360/art/1740592892",
                 "duration": 5490068,
                 "originallyAvailableAt": "2024-12-06",
                 "addedAt": 1740567740,
-                "updatedAt": 1740567742,
+                "updatedAt": 1740592892,
                 "audienceRatingImage": "imdb://image.rating",
                 "chapterSource": "media",
                 "hasPremiumPrimaryExtra": "1",
@@ -1097,7 +1097,7 @@
                     {
                         "id": 499,
                         "duration": 5490068,
-                        "bitrate": 2348,
+                        "bitrate": 2346,
                         "width": 1920,
                         "height": 1040,
                         "aspectRatio": 1.85,
@@ -1123,17 +1123,17 @@
                     {
                         "alt": "Y2K",
                         "type": "coverPoster",
-                        "url": "/library/metadata/360/thumb/1740567742"
+                        "url": "/library/metadata/360/thumb/1740592892"
                     },
                     {
                         "alt": "Y2K",
                         "type": "background",
-                        "url": "/library/metadata/360/art/1740567742"
+                        "url": "/library/metadata/360/art/1740592892"
                     },
                     {
                         "alt": "Y2K",
                         "type": "clearLogo",
-                        "url": "/library/metadata/360/clearLogo/1740567742"
+                        "url": "/library/metadata/360/clearLogo/1740592892"
                     }
                 ],
                 "UltraBlurColors": {
@@ -1193,7 +1193,7 @@
                 "tagline": "A little bear goes a long way.",
                 "thumb": "/library/metadata/349/thumb/1740567740",
                 "art": "/library/metadata/349/art/1740567740",
-                "duration": 6377621,
+                "duration": 6377604,
                 "originallyAvailableAt": "2024-11-08",
                 "addedAt": 1740567739,
                 "updatedAt": 1740567740,
@@ -1202,8 +1202,8 @@
                 "Media": [
                     {
                         "id": 476,
-                        "duration": 6377621,
-                        "bitrate": 2022,
+                        "duration": 6377604,
+                        "bitrate": 2017,
                         "width": 1920,
                         "height": 804,
                         "aspectRatio": 2.35,
@@ -1219,7 +1219,7 @@
                             {
                                 "id": 477,
                                 "key": "/library/parts/477/1740497378/file.mkv",
-                                "duration": 6377621,
+                                "duration": 6377604,
                                 "audioProfile": "lc",
                                 "container": "mkv",
                                 "videoProfile": "main"
@@ -1308,7 +1308,7 @@
                 "tagline": "Please look after this bear. Thank you.",
                 "thumb": "/library/metadata/350/thumb/1740567740",
                 "art": "/library/metadata/350/art/1740567740",
-                "duration": 5712704,
+                "duration": 5712686,
                 "originallyAvailableAt": "2014-11-27",
                 "addedAt": 1740567739,
                 "updatedAt": 1740567740,
@@ -1317,8 +1317,8 @@
                 "Media": [
                     {
                         "id": 477,
-                        "duration": 5712704,
-                        "bitrate": 2034,
+                        "duration": 5712686,
+                        "bitrate": 2030,
                         "width": 1920,
                         "height": 804,
                         "aspectRatio": 2.35,
@@ -1334,7 +1334,7 @@
                             {
                                 "id": 478,
                                 "key": "/library/parts/478/1740567307/file.mkv",
-                                "duration": 5712704,
+                                "duration": 5712686,
                                 "audioProfile": "lc",
                                 "container": "mkv",
                                 "videoProfile": "main"
@@ -1419,7 +1419,7 @@
                 "tagline": "It takes a bear to catch a thief.",
                 "thumb": "/library/metadata/351/thumb/1740567740",
                 "art": "/library/metadata/351/art/1740567740",
-                "duration": 6199039,
+                "duration": 6199020,
                 "originallyAvailableAt": "2017-11-09",
                 "addedAt": 1740567739,
                 "updatedAt": 1740567740,
@@ -1428,8 +1428,8 @@
                 "Media": [
                     {
                         "id": 478,
-                        "duration": 6199039,
-                        "bitrate": 2073,
+                        "duration": 6199020,
+                        "bitrate": 2069,
                         "width": 1920,
                         "height": 804,
                         "aspectRatio": 2.35,
@@ -1445,7 +1445,7 @@
                             {
                                 "id": 479,
                                 "key": "/library/parts/479/1740519338/file.mkv",
-                                "duration": 6199039,
+                                "duration": 6199020,
                                 "audioProfile": "lc",
                                 "container": "mkv",
                                 "videoProfile": "main"
