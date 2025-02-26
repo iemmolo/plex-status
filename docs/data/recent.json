@@ -2,6 +2,1518 @@
     "MediaContainer": {
         "Metadata": [
             {
+                "ratingKey": "372",
+                "slug": "a-quiet-place-part-ii",
+                "studio": "Paramount Pictures",
+                "type": "movie",
+                "title": "A Quiet Place Part II",
+                "titleSort": "Quiet Place Part II",
+                "contentRating": "au/M",
+                "summary": "Following the events at home, the Abbott family now face the terrors of the outside world. Forced to venture into the unknown, they realize the creatures that hunt by sound are not the only threats lurking beyond the sand path.",
+                "audienceRating": 7.2,
+                "year": 2021,
+                "tagline": "Silence is not enough.",
+                "thumb": "/library/metadata/372/thumb/1740567744",
+                "art": "/library/metadata/372/art/1740567744",
+                "duration": 5821291,
+                "originallyAvailableAt": "2021-05-20",
+                "addedAt": 1740567743,
+                "updatedAt": 1740567744,
+                "audienceRatingImage": "imdb://image.rating",
+                "hasPremiumPrimaryExtra": "1",
+                "Media": [
+                    {
+                        "id": 525,
+                        "duration": 5821291,
+                        "bitrate": 2727,
+                        "width": 1916,
+                        "height": 798,
+                        "aspectRatio": 2.35,
+                        "audioChannels": 6,
+                        "audioCodec": "aac",
+                        "videoCodec": "h264",
+                        "videoResolution": "1080",
+                        "container": "mp4",
+                        "videoFrameRate": "24p",
+                        "optimizedForStreaming": 0,
+                        "audioProfile": "lc",
+                        "has64bitOffsets": false,
+                        "videoProfile": "high",
+                        "Part": [
+                            {
+                                "id": 526,
+                                "key": "/library/parts/526/1740367152/file.mp4",
+                                "duration": 5821291,
+                                "audioProfile": "lc",
+                                "container": "mp4",
+                                "has64bitOffsets": false,
+                                "optimizedForStreaming": false,
+                                "videoProfile": "high"
+                            }
+                        ]
+                    }
+                ],
+                "Image": [
+                    {
+                        "alt": "A Quiet Place Part II",
+                        "type": "coverPoster",
+                        "url": "/library/metadata/372/thumb/1740567744"
+                    },
+                    {
+                        "alt": "A Quiet Place Part II",
+                        "type": "background",
+                        "url": "/library/metadata/372/art/1740567744"
+                    },
+                    {
+                        "alt": "A Quiet Place Part II",
+                        "type": "clearLogo",
+                        "url": "/library/metadata/372/clearLogo/1740567744"
+                    }
+                ],
+                "UltraBlurColors": {
+                    "topLeft": "21201b",
+                    "topRight": "060303",
+                    "bottomRight": "221b07",
+                    "bottomLeft": "0f0902"
+                },
+                "Genre": [
+                    {
+                        "tag": "Thriller"
+                    },
+                    {
+                        "tag": "Drama"
+                    }
+                ],
+                "Country": [
+                    {
+                        "tag": "United States of America"
+                    }
+                ],
+                "Director": [
+                    {
+                        "tag": "John Krasinski"
+                    }
+                ],
+                "Writer": [
+                    {
+                        "tag": "John Krasinski"
+                    }
+                ],
+                "Role": [
+                    {
+                        "tag": "Emily Blunt"
+                    },
+                    {
+                        "tag": "John Krasinski"
+                    },
+                    {
+                        "tag": "Millicent Simmonds"
+                    }
+                ]
+            },
+            {
+                "ratingKey": "380",
+                "slug": "the-wild-robot-2024",
+                "studio": "DreamWorks Animation",
+                "type": "movie",
+                "title": "The Wild Robot",
+                "titleSort": "Wild Robot",
+                "contentRating": "au/PG",
+                "summary": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+                "audienceRating": 8.2,
+                "year": 2024,
+                "tagline": "Discover your true nature.",
+                "thumb": "/library/metadata/380/thumb/1740567746",
+                "art": "/library/metadata/380/art/1740567746",
+                "duration": 6106684,
+                "originallyAvailableAt": "2024-09-12",
+                "addedAt": 1740567743,
+                "updatedAt": 1740567746,
+                "audienceRatingImage": "imdb://image.rating",
+                "chapterSource": "media",
+                "hasPremiumPrimaryExtra": "1",
+                "Media": [
+                    {
+                        "id": 543,
+                        "duration": 6106684,
+                        "bitrate": 3583,
+                        "width": 1920,
+                        "height": 800,
+                        "aspectRatio": 2.35,
+                        "audioChannels": 6,
+                        "audioCodec": "eac3",
+                        "videoCodec": "hevc",
+                        "videoResolution": "1080",
+                        "container": "mkv",
+                        "videoFrameRate": "24p",
+                        "videoProfile": "main 10",
+                        "Part": [
+                            {
+                                "id": 544,
+                                "key": "/library/parts/544/1740367016/file.mkv",
+                                "duration": 6106684,
+                                "container": "mkv",
+                                "videoProfile": "main 10"
+                            }
+                        ]
+                    }
+                ],
+                "Image": [
+                    {
+                        "alt": "The Wild Robot",
+                        "type": "coverPoster",
+                        "url": "/library/metadata/380/thumb/1740567746"
+                    },
+                    {
+                        "alt": "The Wild Robot",
+                        "type": "background",
+                        "url": "/library/metadata/380/art/1740567746"
+                    },
+                    {
+                        "alt": "The Wild Robot",
+                        "type": "clearLogo",
+                        "url": "/library/metadata/380/clearLogo/1740567746"
+                    }
+                ],
+                "UltraBlurColors": {
+                    "topLeft": "492105",
+                    "topRight": "393e37",
+                    "bottomRight": "046a78",
+                    "bottomLeft": "1e6a6a"
+                },
+                "Genre": [
+                    {
+                        "tag": "Animation"
+                    },
+                    {
+                        "tag": "Family"
+                    }
+                ],
+                "Country": [
+                    {
+                        "tag": "United States of America"
+                    }
+                ],
+                "Director": [
+                    {
+                        "tag": "Chris Sanders"
+                    }
+                ],
+                "Writer": [
+                    {
+                        "tag": "Chris Sanders"
+                    },
+                    {
+                        "tag": "Heidi Jo Gilbert"
+                    }
+                ],
+                "Role": [
+                    {
+                        "tag": "Lupita Nyong'o"
+                    },
+                    {
+                        "tag": "Pedro Pascal"
+                    },
+                    {
+                        "tag": "Kit Connor"
+                    }
+                ]
+            },
+            {
+                "ratingKey": "379",
+                "slug": "subservience-2024",
+                "studio": "Millennium Media",
+                "type": "movie",
+                "title": "Subservience",
+                "contentRating": "au/MA 15+",
+                "summary": "With his wife out sick, a struggling father brings home a lifelike AI, only to have his self-aware new help want everything her new family has to offer... Like the affection of her owner and she'll kill to get it.",
+                "audienceRating": 5.4,
+                "year": 2024,
+                "tagline": "Don't turn her on.",
+                "thumb": "/library/metadata/379/thumb/1740567745",
+                "art": "/library/metadata/379/art/1740567745",
+                "duration": 6336419,
+                "originallyAvailableAt": "2024-08-15",
+                "addedAt": 1740567743,
+                "updatedAt": 1740567745,
+                "audienceRatingImage": "imdb://image.rating",
+                "chapterSource": "media",
+                "hasPremiumPrimaryExtra": "1",
+                "Media": [
+                    {
+                        "id": 542,
+                        "duration": 6336419,
+                        "bitrate": 1570,
+                        "width": 1920,
+                        "height": 1080,
+                        "aspectRatio": 1.78,
+                        "audioChannels": 6,
+                        "audioCodec": "eac3",
+                        "videoCodec": "hevc",
+                        "videoResolution": "1080",
+                        "container": "mkv",
+                        "videoFrameRate": "24p",
+                        "videoProfile": "main 10",
+                        "Part": [
+                            {
+                                "id": 543,
+                                "key": "/library/parts/543/1740366490/file.mkv",
+                                "duration": 6336419,
+                                "container": "mkv",
+                                "videoProfile": "main 10"
+                            }
+                        ]
+                    }
+                ],
+                "Image": [
+                    {
+                        "alt": "Subservience",
+                        "type": "coverPoster",
+                        "url": "/library/metadata/379/thumb/1740567745"
+                    },
+                    {
+                        "alt": "Subservience",
+                        "type": "background",
+                        "url": "/library/metadata/379/art/1740567745"
+                    },
+                    {
+                        "alt": "Subservience",
+                        "type": "clearLogo",
+                        "url": "/library/metadata/379/clearLogo/1740567745"
+                    }
+                ],
+                "UltraBlurColors": {
+                    "topLeft": "54150a",
+                    "topRight": "942f1a",
+                    "bottomRight": "6f2d1c",
+                    "bottomLeft": "4a160b"
+                },
+                "Genre": [
+                    {
+                        "tag": "Science Fiction"
+                    },
+                    {
+                        "tag": "Thriller"
+                    }
+                ],
+                "Country": [
+                    {
+                        "tag": "United States of America"
+                    }
+                ],
+                "Director": [
+                    {
+                        "tag": "SK Dale"
+                    }
+                ],
+                "Writer": [
+                    {
+                        "tag": "Will Honley"
+                    },
+                    {
+                        "tag": "April Maguire"
+                    }
+                ],
+                "Role": [
+                    {
+                        "tag": "Megan Fox"
+                    },
+                    {
+                        "tag": "Michele Morrone"
+                    },
+                    {
+                        "tag": "Madeline Zima"
+                    }
+                ]
+            },
+            {
+                "ratingKey": "373",
+                "slug": "twisters-2024",
+                "studio": "Universal Pictures",
+                "type": "movie",
+                "title": "Twisters",
+                "contentRating": "au/M",
+                "summary": "As storm season intensifies, the paths of former storm chaser Kate Carter, lured back to the open plains after a devastating encounter years prior, and reckless social-media superstar Tyler Owens collide when terrifying phenomena never seen before are unleashed. The pair and their competing teams find themselves squarely in the paths of multiple storm systems converging over central Oklahoma in the fight of their lives.",
+                "audienceRating": 6.5,
+                "year": 2024,
+                "tagline": "Chase. Ride. Survive.",
+                "thumb": "/library/metadata/373/thumb/1740567744",
+                "art": "/library/metadata/373/art/1740567744",
+                "duration": 7341798,
+                "originallyAvailableAt": "2024-07-10",
+                "addedAt": 1740567743,
+                "updatedAt": 1740567744,
+                "audienceRatingImage": "imdb://image.rating",
+                "chapterSource": "media",
+                "hasPremiumPrimaryExtra": "1",
+                "Media": [
+                    {
+                        "id": 526,
+                        "duration": 7341798,
+                        "bitrate": 1644,
+                        "width": 1920,
+                        "height": 800,
+                        "aspectRatio": 2.35,
+                        "audioChannels": 6,
+                        "audioCodec": "ac3",
+                        "videoCodec": "h264",
+                        "videoResolution": "1080",
+                        "container": "mkv",
+                        "videoFrameRate": "24p",
+                        "videoProfile": "high",
+                        "Part": [
+                            {
+                                "id": 527,
+                                "key": "/library/parts/527/1740366652/file.mkv",
+                                "duration": 7341798,
+                                "container": "mkv",
+                                "videoProfile": "high"
+                            }
+                        ]
+                    }
+                ],
+                "Image": [
+                    {
+                        "alt": "Twisters",
+                        "type": "coverPoster",
+                        "url": "/library/metadata/373/thumb/1740567744"
+                    },
+                    {
+                        "alt": "Twisters",
+                        "type": "background",
+                        "url": "/library/metadata/373/art/1740567744"
+                    },
+                    {
+                        "alt": "Twisters",
+                        "type": "clearLogo",
+                        "url": "/library/metadata/373/clearLogo/1740567744"
+                    }
+                ],
+                "UltraBlurColors": {
+                    "topLeft": "4b1e1a",
+                    "topRight": "361127",
+                    "bottomRight": "05020e",
+                    "bottomLeft": "141316"
+                },
+                "Genre": [
+                    {
+                        "tag": "Action"
+                    },
+                    {
+                        "tag": "Adventure"
+                    }
+                ],
+                "Country": [
+                    {
+                        "tag": "United States of America"
+                    }
+                ],
+                "Director": [
+                    {
+                        "tag": "Lee Isaac Chung"
+                    }
+                ],
+                "Writer": [
+                    {
+                        "tag": "Mark L. Smith"
+                    },
+                    {
+                        "tag": "Joseph Kosinski"
+                    }
+                ],
+                "Role": [
+                    {
+                        "tag": "Daisy Edgar-Jones"
+                    },
+                    {
+                        "tag": "Glen Powell"
+                    },
+                    {
+                        "tag": "Anthony Ramos"
+                    }
+                ]
+            },
+            {
+                "ratingKey": "364",
+                "slug": "twister",
+                "studio": "Warner Bros. Pictures",
+                "type": "movie",
+                "title": "Twister",
+                "contentRating": "au/PG",
+                "summary": "TV weatherman Bill Harding is trying to get his tornado-hunter wife, Jo, to sign divorce papers so he can marry his girlfriend Melissa. But Mother Nature, in the form of a series of intense storms sweeping across Oklahoma, has other plans. Soon the three have joined the team of stormchasers as they attempt to insert a revolutionary measuring device into the very heart of several extremely violent tornados.",
+                "audienceRating": 6.5,
+                "year": 1996,
+                "tagline": "Don't breathe. Don't look back.",
+                "thumb": "/library/metadata/364/thumb/1740567744",
+                "art": "/library/metadata/364/art/1740567744",
+                "duration": 6782401,
+                "originallyAvailableAt": "1996-05-10",
+                "addedAt": 1740567742,
+                "updatedAt": 1740567744,
+                "audienceRatingImage": "imdb://image.rating",
+                "chapterSource": "media",
+                "hasPremiumPrimaryExtra": "1",
+                "Media": [
+                    {
+                        "id": 507,
+                        "duration": 6782401,
+                        "bitrate": 3548,
+                        "width": 1920,
+                        "height": 1080,
+                        "aspectRatio": 1.78,
+                        "audioChannels": 6,
+                        "audioCodec": "eac3",
+                        "videoCodec": "hevc",
+                        "videoResolution": "1080",
+                        "container": "mkv",
+                        "videoFrameRate": "24p",
+                        "videoProfile": "main 10",
+                        "Part": [
+                            {
+                                "id": 508,
+                                "key": "/library/parts/508/1740367334/file.mkv",
+                                "duration": 6782401,
+                                "container": "mkv",
+                                "videoProfile": "main 10"
+                            }
+                        ]
+                    }
+                ],
+                "Image": [
+                    {
+                        "alt": "Twister",
+                        "type": "coverPoster",
+                        "url": "/library/metadata/364/thumb/1740567744"
+                    },
+                    {
+                        "alt": "Twister",
+                        "type": "background",
+                        "url": "/library/metadata/364/art/1740567744"
+                    },
+                    {
+                        "alt": "Twister",
+                        "type": "clearLogo",
+                        "url": "/library/metadata/364/clearLogo/1740567744"
+                    }
+                ],
+                "UltraBlurColors": {
+                    "topLeft": "11352c",
+                    "topRight": "293918",
+                    "bottomRight": "183c1b",
+                    "bottomLeft": "102c22"
+                },
+                "Genre": [
+                    {
+                        "tag": "Action"
+                    },
+                    {
+                        "tag": "Adventure"
+                    }
+                ],
+                "Country": [
+                    {
+                        "tag": "United States of America"
+                    }
+                ],
+                "Director": [
+                    {
+                        "tag": "Jan de Bont"
+                    }
+                ],
+                "Writer": [
+                    {
+                        "tag": "Michael Crichton"
+                    },
+                    {
+                        "tag": "Anne-Marie Martin"
+                    }
+                ],
+                "Role": [
+                    {
+                        "tag": "Helen Hunt"
+                    },
+                    {
+                        "tag": "Bill Paxton"
+                    },
+                    {
+                        "tag": "Jami Gertz"
+                    }
+                ]
+            },
+            {
+                "ratingKey": "366",
+                "slug": "a-quiet-place-2018",
+                "studio": "Paramount Pictures",
+                "type": "movie",
+                "title": "A Quiet Place",
+                "titleSort": "Quiet Place",
+                "contentRating": "au/M",
+                "summary": "A family struggles for survival in a world invaded by blind alien creatures with ultra-sensitive hearing.",
+                "audienceRating": 7.5,
+                "year": 2018,
+                "tagline": "If they hear you, they hunt you.",
+                "thumb": "/library/metadata/366/thumb/1740567743",
+                "art": "/library/metadata/366/art/1740567743",
+                "duration": 5414976,
+                "originallyAvailableAt": "2018-04-03",
+                "addedAt": 1740567742,
+                "updatedAt": 1740567743,
+                "audienceRatingImage": "imdb://image.rating",
+                "hasPremiumPrimaryExtra": "1",
+                "Media": [
+                    {
+                        "id": 511,
+                        "duration": 5414976,
+                        "bitrate": 2230,
+                        "width": 1920,
+                        "height": 800,
+                        "aspectRatio": 2.35,
+                        "audioChannels": 6,
+                        "audioCodec": "aac",
+                        "videoCodec": "hevc",
+                        "videoResolution": "1080",
+                        "container": "mp4",
+                        "videoFrameRate": "24p",
+                        "optimizedForStreaming": 0,
+                        "audioProfile": "lc",
+                        "has64bitOffsets": false,
+                        "videoProfile": "main 10",
+                        "Part": [
+                            {
+                                "id": 512,
+                                "key": "/library/parts/512/1740367262/file.mp4",
+                                "duration": 5414976,
+                                "audioProfile": "lc",
+                                "container": "mp4",
+                                "has64bitOffsets": false,
+                                "optimizedForStreaming": false,
+                                "videoProfile": "main 10"
+                            }
+                        ]
+                    }
+                ],
+                "Image": [
+                    {
+                        "alt": "A Quiet Place",
+                        "type": "coverPoster",
+                        "url": "/library/metadata/366/thumb/1740567743"
+                    },
+                    {
+                        "alt": "A Quiet Place",
+                        "type": "background",
+                        "url": "/library/metadata/366/art/1740567743"
+                    },
+                    {
+                        "alt": "A Quiet Place",
+                        "type": "clearLogo",
+                        "url": "/library/metadata/366/clearLogo/1740567743"
+                    }
+                ],
+                "UltraBlurColors": {
+                    "topLeft": "2a3026",
+                    "topRight": "312a0f",
+                    "bottomRight": "181a13",
+                    "bottomLeft": "424443"
+                },
+                "Genre": [
+                    {
+                        "tag": "Horror"
+                    },
+                    {
+                        "tag": "Drama"
+                    }
+                ],
+                "Country": [
+                    {
+                        "tag": "United States of America"
+                    }
+                ],
+                "Director": [
+                    {
+                        "tag": "John Krasinski"
+                    }
+                ],
+                "Writer": [
+                    {
+                        "tag": "Bryan Woods"
+                    },
+                    {
+                        "tag": "Scott Beck"
+                    }
+                ],
+                "Role": [
+                    {
+                        "tag": "Emily Blunt"
+                    },
+                    {
+                        "tag": "John Krasinski"
+                    },
+                    {
+                        "tag": "Millicent Simmonds"
+                    }
+                ]
+            },
+            {
+                "ratingKey": "367",
+                "slug": "a-quiet-place-day-one",
+                "studio": "Paramount Pictures",
+                "type": "movie",
+                "title": "A Quiet Place: Day One",
+                "titleSort": "Quiet Place: Day One",
+                "contentRating": "au/M",
+                "summary": "A young woman named Sam finds herself trapped in New York City during the early stages of an invasion by alien creatures with ultra-sensitive hearing.",
+                "audienceRating": 6.3,
+                "year": 2024,
+                "tagline": "Hear how it all began.",
+                "thumb": "/library/metadata/367/thumb/1740567746",
+                "art": "/library/metadata/367/art/1740567746",
+                "duration": 5964320,
+                "originallyAvailableAt": "2024-06-26",
+                "addedAt": 1740567742,
+                "updatedAt": 1740567746,
+                "audienceRatingImage": "imdb://image.rating",
+                "chapterSource": "media",
+                "hasPremiumPrimaryExtra": "1",
+                "Media": [
+                    {
+                        "id": 512,
+                        "duration": 5964320,
+                        "bitrate": 1529,
+                        "width": 1920,
+                        "height": 804,
+                        "aspectRatio": 2.35,
+                        "audioChannels": 6,
+                        "audioCodec": "eac3",
+                        "videoCodec": "hevc",
+                        "videoResolution": "1080",
+                        "container": "mkv",
+                        "videoFrameRate": "24p",
+                        "videoProfile": "main 10",
+                        "Part": [
+                            {
+                                "id": 513,
+                                "key": "/library/parts/513/1740367216/file.mkv",
+                                "duration": 5964320,
+                                "container": "mkv",
+                                "videoProfile": "main 10"
+                            }
+                        ]
+                    }
+                ],
+                "Image": [
+                    {
+                        "alt": "A Quiet Place: Day One",
+                        "type": "coverPoster",
+                        "url": "/library/metadata/367/thumb/1740567746"
+                    },
+                    {
+                        "alt": "A Quiet Place: Day One",
+                        "type": "background",
+                        "url": "/library/metadata/367/art/1740567746"
+                    },
+                    {
+                        "alt": "A Quiet Place: Day One",
+                        "type": "clearLogo",
+                        "url": "/library/metadata/367/clearLogo/1740567746"
+                    }
+                ],
+                "UltraBlurColors": {
+                    "topLeft": "4e1c0c",
+                    "topRight": "2b353d",
+                    "bottomRight": "0b0b09",
+                    "bottomLeft": "1b4458"
+                },
+                "Genre": [
+                    {
+                        "tag": "Drama"
+                    },
+                    {
+                        "tag": "Horror"
+                    }
+                ],
+                "Country": [
+                    {
+                        "tag": "United States of America"
+                    }
+                ],
+                "Director": [
+                    {
+                        "tag": "Michael Sarnoski"
+                    }
+                ],
+                "Writer": [
+                    {
+                        "tag": "Michael Sarnoski"
+                    },
+                    {
+                        "tag": "Scott Beck"
+                    }
+                ],
+                "Role": [
+                    {
+                        "tag": "Lupita Nyong'o"
+                    },
+                    {
+                        "tag": "Joseph Quinn"
+                    },
+                    {
+                        "tag": "Alex Wolff"
+                    }
+                ]
+            },
+            {
+                "ratingKey": "363",
+                "slug": "kraven-the-hunter",
+                "studio": "Columbia Pictures",
+                "type": "movie",
+                "title": "Kraven the Hunter",
+                "contentRating": "au/MA 15+",
+                "summary": "Kraven's complex relationship with his ruthless father, Nikolai Kravinoff, starts him down a path of vengeance with brutal consequences, motivating him to become not only the greatest hunter in the world, but also one of its most feared.",
+                "audienceRating": 5.4,
+                "year": 2024,
+                "tagline": "Villains aren't born. They're made.",
+                "thumb": "/library/metadata/363/thumb/1740567742",
+                "art": "/library/metadata/363/art/1740567742",
+                "duration": 7608089,
+                "originallyAvailableAt": "2024-12-11",
+                "addedAt": 1740567741,
+                "updatedAt": 1740567742,
+                "audienceRatingImage": "imdb://image.rating",
+                "hasPremiumPrimaryExtra": "1",
+                "Media": [
+                    {
+                        "id": 506,
+                        "duration": 7608089,
+                        "bitrate": 1584,
+                        "width": 1920,
+                        "height": 800,
+                        "aspectRatio": 2.35,
+                        "audioChannels": 6,
+                        "audioCodec": "ac3",
+                        "videoCodec": "h264",
+                        "videoResolution": "1080",
+                        "container": "mkv",
+                        "videoFrameRate": "24p",
+                        "videoProfile": "high",
+                        "Part": [
+                            {
+                                "id": 507,
+                                "key": "/library/parts/507/1740397887/file.mkv",
+                                "duration": 7608089,
+                                "container": "mkv",
+                                "videoProfile": "high"
+                            }
+                        ]
+                    }
+                ],
+                "Image": [
+                    {
+                        "alt": "Kraven the Hunter",
+                        "type": "coverPoster",
+                        "url": "/library/metadata/363/thumb/1740567742"
+                    },
+                    {
+                        "alt": "Kraven the Hunter",
+                        "type": "background",
+                        "url": "/library/metadata/363/art/1740567742"
+                    },
+                    {
+                        "alt": "Kraven the Hunter",
+                        "type": "clearLogo",
+                        "url": "/library/metadata/363/clearLogo/1740567742"
+                    }
+                ],
+                "UltraBlurColors": {
+                    "topLeft": "11333d",
+                    "topRight": "0d2b2f",
+                    "bottomRight": "0c292a",
+                    "bottomLeft": "2a6463"
+                },
+                "Genre": [
+                    {
+                        "tag": "Action"
+                    },
+                    {
+                        "tag": "Adventure"
+                    }
+                ],
+                "Country": [
+                    {
+                        "tag": "United States of America"
+                    }
+                ],
+                "Director": [
+                    {
+                        "tag": "J.C. Chandor"
+                    }
+                ],
+                "Writer": [
+                    {
+                        "tag": "Matt Holloway"
+                    },
+                    {
+                        "tag": "Richard Wenk"
+                    }
+                ],
+                "Role": [
+                    {
+                        "tag": "Aaron Taylor-Johnson"
+                    },
+                    {
+                        "tag": "Ariana DeBose"
+                    },
+                    {
+                        "tag": "Fred Hechinger"
+                    }
+                ]
+            },
+            {
+                "ratingKey": "352",
+                "slug": "nightbitch",
+                "studio": "Annapurna Pictures",
+                "type": "movie",
+                "title": "Nightbitch",
+                "contentRating": "au/MA 15+",
+                "summary": "A woman, thrown into the stay-at-home routine of raising a toddler in the suburbs, slowly embraces the feral power deeply rooted in motherhood, as she becomes increasingly aware of the bizarre and undeniable signs that she may be turning into a dog.",
+                "audienceRating": 5.6,
+                "year": 2024,
+                "tagline": "Motherhood is a bitch.",
+                "thumb": "/library/metadata/352/thumb/1740567740",
+                "art": "/library/metadata/352/art/1740567740",
+                "duration": 5971040,
+                "originallyAvailableAt": "2024-12-06",
+                "addedAt": 1740567740,
+                "updatedAt": 1740567740,
+                "audienceRatingImage": "imdb://image.rating",
+                "hasPremiumPrimaryExtra": "1",
+                "Media": [
+                    {
+                        "id": 479,
+                        "duration": 5971040,
+                        "bitrate": 4772,
+                        "width": 1920,
+                        "height": 1080,
+                        "aspectRatio": 1.78,
+                        "audioChannels": 6,
+                        "audioCodec": "eac3",
+                        "videoCodec": "h264",
+                        "videoResolution": "1080",
+                        "container": "mkv",
+                        "videoFrameRate": "24p",
+                        "videoProfile": "high",
+                        "Part": [
+                            {
+                                "id": 480,
+                                "key": "/library/parts/480/1740399915/file.mkv",
+                                "duration": 5971040,
+                                "container": "mkv",
+                                "videoProfile": "high"
+                            }
+                        ]
+                    }
+                ],
+                "Image": [
+                    {
+                        "alt": "Nightbitch",
+                        "type": "coverPoster",
+                        "url": "/library/metadata/352/thumb/1740567740"
+                    },
+                    {
+                        "alt": "Nightbitch",
+                        "type": "background",
+                        "url": "/library/metadata/352/art/1740567740"
+                    },
+                    {
+                        "alt": "Nightbitch",
+                        "type": "clearLogo",
+                        "url": "/library/metadata/352/clearLogo/1740567740"
+                    }
+                ],
+                "UltraBlurColors": {
+                    "topLeft": "0c0b0c",
+                    "topRight": "6a230b",
+                    "bottomRight": "100205",
+                    "bottomLeft": "100b0b"
+                },
+                "Genre": [
+                    {
+                        "tag": "Comedy"
+                    },
+                    {
+                        "tag": "Horror"
+                    }
+                ],
+                "Country": [
+                    {
+                        "tag": "United States of America"
+                    }
+                ],
+                "Director": [
+                    {
+                        "tag": "Marielle Heller"
+                    }
+                ],
+                "Writer": [
+                    {
+                        "tag": "Marielle Heller"
+                    }
+                ],
+                "Role": [
+                    {
+                        "tag": "Amy Adams"
+                    },
+                    {
+                        "tag": "Scoot McNairy"
+                    },
+                    {
+                        "tag": "Arleigh Snowden"
+                    }
+                ]
+            },
+            {
+                "ratingKey": "359",
+                "slug": "trapped-inn",
+                "studio": "Convoke Media",
+                "type": "movie",
+                "title": "Trapped Inn",
+                "summary": "An American cycling team gets trapped in a historic lodge during training camp high in the remote mountains in Europe. After members from the team mysteriously die, two rival teammates, Connor and Greg, clash as they fight for survival and try to uncover what's killing everyone on the team.",
+                "audienceRating": 2.8,
+                "year": 2024,
+                "tagline": "Once you check in, you can never leave.",
+                "thumb": "/library/metadata/359/thumb/1740567742",
+                "art": "/library/metadata/359/art/1740567742",
+                "duration": 6854269,
+                "originallyAvailableAt": "2024-11-22",
+                "addedAt": 1740567740,
+                "updatedAt": 1740567742,
+                "audienceRatingImage": "imdb://image.rating",
+                "chapterSource": "media",
+                "hasPremiumPrimaryExtra": "1",
+                "Media": [
+                    {
+                        "id": 498,
+                        "duration": 6854269,
+                        "bitrate": 1759,
+                        "width": 1920,
+                        "height": 800,
+                        "aspectRatio": 2.35,
+                        "audioChannels": 6,
+                        "audioCodec": "ac3",
+                        "videoCodec": "h264",
+                        "videoResolution": "1080",
+                        "container": "mkv",
+                        "videoFrameRate": "24p",
+                        "videoProfile": "high",
+                        "Part": [
+                            {
+                                "id": 499,
+                                "key": "/library/parts/499/1740400355/file.mkv",
+                                "duration": 6854269,
+                                "container": "mkv",
+                                "videoProfile": "high"
+                            }
+                        ]
+                    }
+                ],
+                "Image": [
+                    {
+                        "alt": "Trapped Inn",
+                        "type": "coverPoster",
+                        "url": "/library/metadata/359/thumb/1740567742"
+                    },
+                    {
+                        "alt": "Trapped Inn",
+                        "type": "background",
+                        "url": "/library/metadata/359/art/1740567742"
+                    },
+                    {
+                        "alt": "Trapped Inn",
+                        "type": "clearLogo",
+                        "url": "/library/metadata/359/clearLogo/1740567742"
+                    }
+                ],
+                "UltraBlurColors": {
+                    "topLeft": "0c1d35",
+                    "topRight": "1c3f60",
+                    "bottomRight": "143957",
+                    "bottomLeft": "030c03"
+                },
+                "Genre": [
+                    {
+                        "tag": "Science Fiction"
+                    },
+                    {
+                        "tag": "Thriller"
+                    }
+                ],
+                "Country": [
+                    {
+                        "tag": "United States of America"
+                    }
+                ],
+                "Director": [
+                    {
+                        "tag": "Leah Sturgis"
+                    }
+                ],
+                "Writer": [
+                    {
+                        "tag": "Leah Sturgis"
+                    }
+                ],
+                "Role": [
+                    {
+                        "tag": "Matt Rife"
+                    },
+                    {
+                        "tag": "Robert Palmer Watkins"
+                    },
+                    {
+                        "tag": "Brielle Gearson"
+                    }
+                ]
+            },
+            {
+                "ratingKey": "360",
+                "slug": "y2k-2024",
+                "studio": "A24",
+                "type": "movie",
+                "title": "Y2K",
+                "contentRating": "R",
+                "summary": "On the last night of 1999, two high school juniors crash a New Years Eve party only to find themselves fighting for their lives when the terror of Y2K becomes a reality and all machines rise up against humanity.",
+                "audienceRating": 4.9,
+                "year": 2024,
+                "tagline": "New Years Eve, 1999. The last party before...",
+                "thumb": "/library/metadata/360/thumb/1740567742",
+                "art": "/library/metadata/360/art/1740567742",
+                "duration": 5490068,
+                "originallyAvailableAt": "2024-12-06",
+                "addedAt": 1740567740,
+                "updatedAt": 1740567742,
+                "audienceRatingImage": "imdb://image.rating",
+                "chapterSource": "media",
+                "hasPremiumPrimaryExtra": "1",
+                "Media": [
+                    {
+                        "id": 499,
+                        "duration": 5490068,
+                        "bitrate": 2348,
+                        "width": 1920,
+                        "height": 1040,
+                        "aspectRatio": 1.85,
+                        "audioChannels": 6,
+                        "audioCodec": "eac3",
+                        "videoCodec": "hevc",
+                        "videoResolution": "1080",
+                        "container": "mkv",
+                        "videoFrameRate": "24p",
+                        "videoProfile": "main 10",
+                        "Part": [
+                            {
+                                "id": 500,
+                                "key": "/library/parts/500/1740400112/file.mkv",
+                                "duration": 5490068,
+                                "container": "mkv",
+                                "videoProfile": "main 10"
+                            }
+                        ]
+                    }
+                ],
+                "Image": [
+                    {
+                        "alt": "Y2K",
+                        "type": "coverPoster",
+                        "url": "/library/metadata/360/thumb/1740567742"
+                    },
+                    {
+                        "alt": "Y2K",
+                        "type": "background",
+                        "url": "/library/metadata/360/art/1740567742"
+                    },
+                    {
+                        "alt": "Y2K",
+                        "type": "clearLogo",
+                        "url": "/library/metadata/360/clearLogo/1740567742"
+                    }
+                ],
+                "UltraBlurColors": {
+                    "topLeft": "03041e",
+                    "topRight": "0c2635",
+                    "bottomRight": "09232a",
+                    "bottomLeft": "051642"
+                },
+                "Genre": [
+                    {
+                        "tag": "Comedy"
+                    },
+                    {
+                        "tag": "Horror"
+                    }
+                ],
+                "Country": [
+                    {
+                        "tag": "United States of America"
+                    }
+                ],
+                "Director": [
+                    {
+                        "tag": "Kyle Mooney"
+                    }
+                ],
+                "Writer": [
+                    {
+                        "tag": "Evan Winter"
+                    },
+                    {
+                        "tag": "Kyle Mooney"
+                    }
+                ],
+                "Role": [
+                    {
+                        "tag": "Jaeden Martell"
+                    },
+                    {
+                        "tag": "Rachel Zegler"
+                    },
+                    {
+                        "tag": "Julian Dennison"
+                    }
+                ]
+            },
+            {
+                "ratingKey": "349",
+                "slug": "paddington-in-peru-2024",
+                "studio": "Marmalade Pictures",
+                "type": "movie",
+                "title": "Paddington in Peru",
+                "contentRating": "au/PG",
+                "summary": "Paddington returns to Peru to visit his beloved Aunt Lucy, who now resides at the Home for Retired Bears. With the Brown family in tow, a thrilling adventure ensues when a mystery plunges them into an unexpected journey.",
+                "audienceRating": 6.7,
+                "year": 2024,
+                "tagline": "A little bear goes a long way.",
+                "thumb": "/library/metadata/349/thumb/1740567740",
+                "art": "/library/metadata/349/art/1740567740",
+                "duration": 6377621,
+                "originallyAvailableAt": "2024-11-08",
+                "addedAt": 1740567739,
+                "updatedAt": 1740567740,
+                "audienceRatingImage": "imdb://image.rating",
+                "hasPremiumPrimaryExtra": "1",
+                "Media": [
+                    {
+                        "id": 476,
+                        "duration": 6377621,
+                        "bitrate": 2022,
+                        "width": 1920,
+                        "height": 804,
+                        "aspectRatio": 2.35,
+                        "audioChannels": 6,
+                        "audioCodec": "aac",
+                        "videoCodec": "hevc",
+                        "videoResolution": "1080",
+                        "container": "mkv",
+                        "videoFrameRate": "24p",
+                        "audioProfile": "lc",
+                        "videoProfile": "main",
+                        "Part": [
+                            {
+                                "id": 477,
+                                "key": "/library/parts/477/1740497378/file.mkv",
+                                "duration": 6377621,
+                                "audioProfile": "lc",
+                                "container": "mkv",
+                                "videoProfile": "main"
+                            }
+                        ]
+                    }
+                ],
+                "Image": [
+                    {
+                        "alt": "Paddington in Peru",
+                        "type": "coverPoster",
+                        "url": "/library/metadata/349/thumb/1740567740"
+                    },
+                    {
+                        "alt": "Paddington in Peru",
+                        "type": "background",
+                        "url": "/library/metadata/349/art/1740567740"
+                    },
+                    {
+                        "alt": "Paddington in Peru",
+                        "type": "clearLogo",
+                        "url": "/library/metadata/349/clearLogo/1740567740"
+                    }
+                ],
+                "UltraBlurColors": {
+                    "topLeft": "18351d",
+                    "topRight": "173e37",
+                    "bottomRight": "25667c",
+                    "bottomLeft": "134643"
+                },
+                "Genre": [
+                    {
+                        "tag": "Adventure"
+                    },
+                    {
+                        "tag": "Comedy"
+                    }
+                ],
+                "Country": [
+                    {
+                        "tag": "United Kingdom"
+                    },
+                    {
+                        "tag": "France"
+                    }
+                ],
+                "Director": [
+                    {
+                        "tag": "Dougal Wilson"
+                    }
+                ],
+                "Writer": [
+                    {
+                        "tag": "Michael Bond"
+                    },
+                    {
+                        "tag": "James Lamont"
+                    }
+                ],
+                "Role": [
+                    {
+                        "tag": "Ben Whishaw"
+                    },
+                    {
+                        "tag": "Hugh Bonneville"
+                    },
+                    {
+                        "tag": "Emily Mortimer"
+                    }
+                ]
+            },
+            {
+                "ratingKey": "350",
+                "slug": "paddington",
+                "studio": "StudioCanal",
+                "type": "movie",
+                "title": "Paddington",
+                "contentRating": "au/G",
+                "summary": "A young Peruvian bear travels to London in search of a home. Finding himself lost and alone at Paddington Station, he meets the kindly Brown family, who offer him a temporary haven.",
+                "audienceRating": 7.3,
+                "year": 2014,
+                "tagline": "Please look after this bear. Thank you.",
+                "thumb": "/library/metadata/350/thumb/1740567740",
+                "art": "/library/metadata/350/art/1740567740",
+                "duration": 5712704,
+                "originallyAvailableAt": "2014-11-27",
+                "addedAt": 1740567739,
+                "updatedAt": 1740567740,
+                "audienceRatingImage": "imdb://image.rating",
+                "hasPremiumPrimaryExtra": "1",
+                "Media": [
+                    {
+                        "id": 477,
+                        "duration": 5712704,
+                        "bitrate": 2034,
+                        "width": 1920,
+                        "height": 804,
+                        "aspectRatio": 2.35,
+                        "audioChannels": 6,
+                        "audioCodec": "aac",
+                        "videoCodec": "hevc",
+                        "videoResolution": "1080",
+                        "container": "mkv",
+                        "videoFrameRate": "24p",
+                        "audioProfile": "lc",
+                        "videoProfile": "main",
+                        "Part": [
+                            {
+                                "id": 478,
+                                "key": "/library/parts/478/1740567307/file.mkv",
+                                "duration": 5712704,
+                                "audioProfile": "lc",
+                                "container": "mkv",
+                                "videoProfile": "main"
+                            }
+                        ]
+                    }
+                ],
+                "Image": [
+                    {
+                        "alt": "Paddington",
+                        "type": "coverPoster",
+                        "url": "/library/metadata/350/thumb/1740567740"
+                    },
+                    {
+                        "alt": "Paddington",
+                        "type": "background",
+                        "url": "/library/metadata/350/art/1740567740"
+                    },
+                    {
+                        "alt": "Paddington",
+                        "type": "clearLogo",
+                        "url": "/library/metadata/350/clearLogo/1740567740"
+                    }
+                ],
+                "UltraBlurColors": {
+                    "topLeft": "52160f",
+                    "topRight": "205da7",
+                    "bottomRight": "084878",
+                    "bottomLeft": "0f658e"
+                },
+                "Genre": [
+                    {
+                        "tag": "Family"
+                    },
+                    {
+                        "tag": "Comedy"
+                    }
+                ],
+                "Country": [
+                    {
+                        "tag": "France"
+                    },
+                    {
+                        "tag": "United Kingdom"
+                    }
+                ],
+                "Director": [
+                    {
+                        "tag": "Paul King"
+                    }
+                ],
+                "Writer": [
+                    {
+                        "tag": "Michael Bond"
+                    },
+                    {
+                        "tag": "Paul King"
+                    }
+                ],
+                "Role": [
+                    {
+                        "tag": "Ben Whishaw"
+                    },
+                    {
+                        "tag": "Hugh Bonneville"
+                    },
+                    {
+                        "tag": "Sally Hawkins"
+                    }
+                ]
+            },
+            {
+                "ratingKey": "351",
+                "slug": "paddington-2",
+                "studio": "StudioCanal",
+                "type": "movie",
+                "title": "Paddington 2",
+                "contentRating": "au/G",
+                "summary": "Paddington, now happily settled with the Brown family and a popular member of the local community, picks up a series of odd jobs to buy the perfect present for his Aunt Lucy's 100th birthday, only for the gift to be stolen.",
+                "audienceRating": 7.8,
+                "year": 2017,
+                "tagline": "It takes a bear to catch a thief.",
+                "thumb": "/library/metadata/351/thumb/1740567740",
+                "art": "/library/metadata/351/art/1740567740",
+                "duration": 6199039,
+                "originallyAvailableAt": "2017-11-09",
+                "addedAt": 1740567739,
+                "updatedAt": 1740567740,
+                "audienceRatingImage": "imdb://image.rating",
+                "hasPremiumPrimaryExtra": "1",
+                "Media": [
+                    {
+                        "id": 478,
+                        "duration": 6199039,
+                        "bitrate": 2073,
+                        "width": 1920,
+                        "height": 804,
+                        "aspectRatio": 2.35,
+                        "audioChannels": 6,
+                        "audioCodec": "aac",
+                        "videoCodec": "hevc",
+                        "videoResolution": "1080",
+                        "container": "mkv",
+                        "videoFrameRate": "24p",
+                        "audioProfile": "lc",
+                        "videoProfile": "main",
+                        "Part": [
+                            {
+                                "id": 479,
+                                "key": "/library/parts/479/1740519338/file.mkv",
+                                "duration": 6199039,
+                                "audioProfile": "lc",
+                                "container": "mkv",
+                                "videoProfile": "main"
+                            }
+                        ]
+                    }
+                ],
+                "Image": [
+                    {
+                        "alt": "Paddington 2",
+                        "type": "coverPoster",
+                        "url": "/library/metadata/351/thumb/1740567740"
+                    },
+                    {
+                        "alt": "Paddington 2",
+                        "type": "background",
+                        "url": "/library/metadata/351/art/1740567740"
+                    },
+                    {
+                        "alt": "Paddington 2",
+                        "type": "clearLogo",
+                        "url": "/library/metadata/351/clearLogo/1740567740"
+                    }
+                ],
+                "UltraBlurColors": {
+                    "topLeft": "590b02",
+                    "topRight": "954118",
+                    "bottomRight": "0c4184",
+                    "bottomLeft": "924413"
+                },
+                "Genre": [
+                    {
+                        "tag": "Family"
+                    },
+                    {
+                        "tag": "Comedy"
+                    }
+                ],
+                "Country": [
+                    {
+                        "tag": "France"
+                    },
+                    {
+                        "tag": "United Kingdom"
+                    }
+                ],
+                "Director": [
+                    {
+                        "tag": "Paul King"
+                    }
+                ],
+                "Writer": [
+                    {
+                        "tag": "Paul King"
+                    },
+                    {
+                        "tag": "Simon Farnaby"
+                    }
+                ],
+                "Role": [
+                    {
+                        "tag": "Ben Whishaw"
+                    },
+                    {
+                        "tag": "Sally Hawkins"
+                    },
+                    {
+                        "tag": "Hugh Bonneville"
+                    }
+                ]
+            },
+            {
                 "ratingKey": "323",
                 "parentRatingKey": "284",
                 "parentSlug": "happy-endings",
@@ -357,34 +1869,33 @@
                 ]
             },
             {
-                "ratingKey": "273",
-                "slug": "the-apprentice-2024",
-                "studio": "Gidden Media",
+                "ratingKey": "271",
+                "slug": "the-430-movie-2024",
+                "studio": "Destro Films",
                 "type": "movie",
-                "title": "The Apprentice",
-                "titleSort": "Apprentice",
-                "contentRating": "au/MA 15+",
-                "summary": "A young man took over his father's real-estate business in 1970s and '80s New York, and got the helping hand of an infamous closeted gay lawyer who helped him turn this young man into a notorious legend. Based on true events.",
-                "audienceRating": 7.1,
+                "title": "The 4:30 Movie",
+                "titleSort": "4:30 Movie",
+                "contentRating": "au/M",
+                "summary": "In the summer of 1986, three sixteen year old friends spend their Saturdays sneaking into movies at the local multiplex. But when one of the guys also invites the girl of his dreams to see the latest comedy, each of the teens learn more about life and love.",
+                "audienceRating": 6,
                 "year": 2024,
-                "tagline": "An American horror story.",
-                "thumb": "/library/metadata/273/thumb/1740420102",
-                "art": "/library/metadata/273/art/1740420102",
-                "duration": 7342172,
-                "originallyAvailableAt": "2024-10-09",
+                "tagline": "When real life sucks, REEL life rules!",
+                "thumb": "/library/metadata/271/thumb/1740353837",
+                "art": "/library/metadata/271/art/1740353837",
+                "duration": 5273152,
+                "originallyAvailableAt": "2024-10-01",
                 "addedAt": 1740353836,
-                "updatedAt": 1740420102,
+                "updatedAt": 1740353837,
                 "audienceRatingImage": "imdb://image.rating",
-                "chapterSource": "media",
                 "hasPremiumPrimaryExtra": "1",
                 "Media": [
                     {
-                        "id": 390,
-                        "duration": 7342172,
-                        "bitrate": 1639,
-                        "width": 1314,
-                        "height": 1080,
-                        "aspectRatio": 1.33,
+                        "id": 388,
+                        "duration": 5273152,
+                        "bitrate": 2282,
+                        "width": 1920,
+                        "height": 1036,
+                        "aspectRatio": 1.85,
                         "audioChannels": 6,
                         "audioCodec": "ac3",
                         "videoCodec": "h264",
@@ -394,9 +1905,9 @@
                         "videoProfile": "high",
                         "Part": [
                             {
-                                "id": 391,
-                                "key": "/library/parts/391/1740328552/file.mkv",
-                                "duration": 7342172,
+                                "id": 389,
+                                "key": "/library/parts/389/1740329794/file.mkv",
+                                "duration": 5273152,
                                 "container": "mkv",
                                 "videoProfile": "high"
                             }
@@ -405,62 +1916,59 @@
                 ],
                 "Image": [
                     {
-                        "alt": "The Apprentice",
+                        "alt": "The 4:30 Movie",
                         "type": "coverPoster",
-                        "url": "/library/metadata/273/thumb/1740420102"
+                        "url": "/library/metadata/271/thumb/1740353837"
                     },
                     {
-                        "alt": "The Apprentice",
+                        "alt": "The 4:30 Movie",
                         "type": "background",
-                        "url": "/library/metadata/273/art/1740420102"
+                        "url": "/library/metadata/271/art/1740353837"
                     },
                     {
-                        "alt": "The Apprentice",
+                        "alt": "The 4:30 Movie",
                         "type": "clearLogo",
-                        "url": "/library/metadata/273/clearLogo/1740420102"
+                        "url": "/library/metadata/271/clearLogo/1740353837"
                     }
                 ],
                 "UltraBlurColors": {
-                    "topLeft": "412710",
-                    "topRight": "3e5a9e",
-                    "bottomRight": "1b1616",
-                    "bottomLeft": "222121"
+                    "topLeft": "482205",
+                    "topRight": "64260f",
+                    "bottomRight": "a52a25",
+                    "bottomLeft": "452612"
                 },
                 "Genre": [
                     {
-                        "tag": "Biography"
+                        "tag": "Comedy"
                     },
                     {
-                        "tag": "Drama"
+                        "tag": "Romance"
                     }
                 ],
                 "Country": [
                     {
-                        "tag": "Canada"
-                    },
-                    {
-                        "tag": "Denmark"
+                        "tag": "United States of America"
                     }
                 ],
                 "Director": [
                     {
-                        "tag": "Ali Abbasi"
+                        "tag": "Kevin Smith"
                     }
                 ],
                 "Writer": [
                     {
-                        "tag": "Gabriel Sherman"
+                        "tag": "Kevin Smith"
                     }
                 ],
                 "Role": [
                     {
-                        "tag": "Sebastian Stan"
+                        "tag": "Siena Agudong"
                     },
                     {
-                        "tag": "Jeremy Strong"
+                        "tag": "Austin Zajur"
                     },
                     {
-                        "tag": "Maria Bakalova"
+                        "tag": "Nicholas Cirillo"
                     }
                 ]
             },
@@ -572,33 +2080,34 @@
                 ]
             },
             {
-                "ratingKey": "271",
-                "slug": "the-430-movie-2024",
-                "studio": "Destro Films",
+                "ratingKey": "273",
+                "slug": "the-apprentice-2024",
+                "studio": "Gidden Media",
                 "type": "movie",
-                "title": "The 4:30 Movie",
-                "titleSort": "4:30 Movie",
-                "contentRating": "au/M",
-                "summary": "In the summer of 1986, three sixteen year old friends spend their Saturdays sneaking into movies at the local multiplex. But when one of the guys also invites the girl of his dreams to see the latest comedy, each of the teens learn more about life and love.",
-                "audienceRating": 6,
+                "title": "The Apprentice",
+                "titleSort": "Apprentice",
+                "contentRating": "au/MA 15+",
+                "summary": "A young man took over his father's real-estate business in 1970s and '80s New York, and got the helping hand of an infamous closeted gay lawyer who helped him turn this young man into a notorious legend. Based on true events.",
+                "audienceRating": 7.1,
                 "year": 2024,
-                "tagline": "When real life sucks, REEL life rules!",
-                "thumb": "/library/metadata/271/thumb/1740353837",
-                "art": "/library/metadata/271/art/1740353837",
-                "duration": 5273152,
-                "originallyAvailableAt": "2024-10-01",
+                "tagline": "An American horror story.",
+                "thumb": "/library/metadata/273/thumb/1740420102",
+                "art": "/library/metadata/273/art/1740420102",
+                "duration": 7342172,
+                "originallyAvailableAt": "2024-10-09",
                 "addedAt": 1740353836,
-                "updatedAt": 1740353837,
+                "updatedAt": 1740420102,
                 "audienceRatingImage": "imdb://image.rating",
+                "chapterSource": "media",
                 "hasPremiumPrimaryExtra": "1",
                 "Media": [
                     {
-                        "id": 388,
-                        "duration": 5273152,
-                        "bitrate": 2282,
-                        "width": 1920,
-                        "height": 1036,
-                        "aspectRatio": 1.85,
+                        "id": 390,
+                        "duration": 7342172,
+                        "bitrate": 1639,
+                        "width": 1314,
+                        "height": 1080,
+                        "aspectRatio": 1.33,
                         "audioChannels": 6,
                         "audioCodec": "ac3",
                         "videoCodec": "h264",
@@ -608,9 +2117,9 @@
                         "videoProfile": "high",
                         "Part": [
                             {
-                                "id": 389,
-                                "key": "/library/parts/389/1740329794/file.mkv",
-                                "duration": 5273152,
+                                "id": 391,
+                                "key": "/library/parts/391/1740328552/file.mkv",
+                                "duration": 7342172,
                                 "container": "mkv",
                                 "videoProfile": "high"
                             }
@@ -619,59 +2128,62 @@
                 ],
                 "Image": [
                     {
-                        "alt": "The 4:30 Movie",
+                        "alt": "The Apprentice",
                         "type": "coverPoster",
-                        "url": "/library/metadata/271/thumb/1740353837"
+                        "url": "/library/metadata/273/thumb/1740420102"
                     },
                     {
-                        "alt": "The 4:30 Movie",
+                        "alt": "The Apprentice",
                         "type": "background",
-                        "url": "/library/metadata/271/art/1740353837"
+                        "url": "/library/metadata/273/art/1740420102"
                     },
                     {
-                        "alt": "The 4:30 Movie",
+                        "alt": "The Apprentice",
                         "type": "clearLogo",
-                        "url": "/library/metadata/271/clearLogo/1740353837"
+                        "url": "/library/metadata/273/clearLogo/1740420102"
                     }
                 ],
                 "UltraBlurColors": {
-                    "topLeft": "482205",
-                    "topRight": "64260f",
-                    "bottomRight": "a52a25",
-                    "bottomLeft": "452612"
+                    "topLeft": "412710",
+                    "topRight": "3e5a9e",
+                    "bottomRight": "1b1616",
+                    "bottomLeft": "222121"
                 },
                 "Genre": [
                     {
-                        "tag": "Comedy"
+                        "tag": "Biography"
                     },
                     {
-                        "tag": "Romance"
+                        "tag": "Drama"
                     }
                 ],
                 "Country": [
                     {
-                        "tag": "United States of America"
+                        "tag": "Canada"
+                    },
+                    {
+                        "tag": "Denmark"
                     }
                 ],
                 "Director": [
                     {
-                        "tag": "Kevin Smith"
+                        "tag": "Ali Abbasi"
                     }
                 ],
                 "Writer": [
                     {
-                        "tag": "Kevin Smith"
+                        "tag": "Gabriel Sherman"
                     }
                 ],
                 "Role": [
                     {
-                        "tag": "Siena Agudong"
+                        "tag": "Sebastian Stan"
                     },
                     {
-                        "tag": "Austin Zajur"
+                        "tag": "Jeremy Strong"
                     },
                     {
-                        "tag": "Nicholas Cirillo"
+                        "tag": "Maria Bakalova"
                     }
                 ]
             },
@@ -3271,1510 +4783,6 @@
                     },
                     {
                         "tag": "Topher Grace"
-                    }
-                ]
-            },
-            {
-                "ratingKey": "71",
-                "slug": "the-brutalist",
-                "studio": "Brookstreet Pictures",
-                "type": "movie",
-                "title": "The Brutalist",
-                "titleSort": "Brutalist",
-                "contentRating": "au/MA 15+",
-                "summary": "Escaping post-war Europe, a visionary architect (Adrien Brody) arrives in America to rebuild his life. On his own in a strange new country, a wealthy industrialist recognizes his talent. But power and legacy come at a heavy cost...",
-                "audienceRating": 7.8,
-                "year": 2024,
-                "tagline": "Welcome to America.",
-                "thumb": "/library/metadata/71/thumb/1740247225",
-                "art": "/library/metadata/71/art/1740247225",
-                "duration": 12063658,
-                "originallyAvailableAt": "2024-12-20",
-                "addedAt": 1740060462,
-                "updatedAt": 1740247225,
-                "audienceRatingImage": "imdb://image.rating",
-                "chapterSource": "media",
-                "hasPremiumPrimaryExtra": "1",
-                "Media": [
-                    {
-                        "id": 144,
-                        "duration": 12063658,
-                        "bitrate": 2633,
-                        "width": 1792,
-                        "height": 1078,
-                        "aspectRatio": 1.66,
-                        "audioChannels": 6,
-                        "audioCodec": "aac",
-                        "videoCodec": "h264",
-                        "videoResolution": "1080",
-                        "container": "mp4",
-                        "videoFrameRate": "24p",
-                        "optimizedForStreaming": 1,
-                        "audioProfile": "lc",
-                        "has64bitOffsets": false,
-                        "videoProfile": "high",
-                        "Part": [
-                            {
-                                "id": 144,
-                                "key": "/library/parts/144/1740060462/file.mp4",
-                                "duration": 12063658,
-                                "audioProfile": "lc",
-                                "container": "mp4",
-                                "has64bitOffsets": false,
-                                "optimizedForStreaming": true,
-                                "videoProfile": "high"
-                            }
-                        ]
-                    }
-                ],
-                "Image": [
-                    {
-                        "alt": "The Brutalist",
-                        "type": "coverPoster",
-                        "url": "/library/metadata/71/thumb/1740247225"
-                    },
-                    {
-                        "alt": "The Brutalist",
-                        "type": "background",
-                        "url": "/library/metadata/71/art/1740247225"
-                    },
-                    {
-                        "alt": "The Brutalist",
-                        "type": "clearLogo",
-                        "url": "/library/metadata/71/clearLogo/1740247225"
-                    }
-                ],
-                "UltraBlurColors": {
-                    "topLeft": "11333d",
-                    "topRight": "874325",
-                    "bottomRight": "763816",
-                    "bottomLeft": "4c1204"
-                },
-                "Genre": [
-                    {
-                        "tag": "Drama"
-                    },
-                    {
-                        "tag": "History"
-                    }
-                ],
-                "Country": [
-                    {
-                        "tag": "United Kingdom"
-                    },
-                    {
-                        "tag": "United States of America"
-                    }
-                ],
-                "Director": [
-                    {
-                        "tag": "Brady Corbet"
-                    }
-                ],
-                "Writer": [
-                    {
-                        "tag": "Brady Corbet"
-                    },
-                    {
-                        "tag": "Mona Fastvold"
-                    }
-                ],
-                "Role": [
-                    {
-                        "tag": "Adrien Brody"
-                    },
-                    {
-                        "tag": "Felicity Jones"
-                    },
-                    {
-                        "tag": "Guy Pearce"
-                    }
-                ]
-            },
-            {
-                "ratingKey": "15",
-                "slug": "bridget-jones-mad-about-the-boy",
-                "studio": "Working Title Films",
-                "type": "movie",
-                "title": "Bridget Jones: Mad About the Boy",
-                "contentRating": "au/M",
-                "summary": "Bridget Jones navigates life as a widow and single mum with the help of her family, friends, and former lover, Daniel. Back to work and on the apps, she's pursued by a younger man and maybe - just maybe - her son's science teacher.",
-                "audienceRating": 6.8,
-                "year": 2025,
-                "tagline": "She's starting a new chapter. Just as she is.",
-                "thumb": "/library/metadata/15/thumb/1740511076",
-                "art": "/library/metadata/15/art/1740511076",
-                "duration": 7492234,
-                "originallyAvailableAt": "2025-02-12",
-                "addedAt": 1740059764,
-                "updatedAt": 1740511076,
-                "audienceRatingImage": "imdb://image.rating",
-                "hasPremiumPrimaryExtra": "1",
-                "Media": [
-                    {
-                        "id": 31,
-                        "duration": 7492234,
-                        "bitrate": 2090,
-                        "width": 1920,
-                        "height": 808,
-                        "aspectRatio": 2.35,
-                        "audioChannels": 6,
-                        "audioCodec": "aac",
-                        "videoCodec": "hevc",
-                        "videoResolution": "1080",
-                        "container": "mkv",
-                        "videoFrameRate": "24p",
-                        "audioProfile": "he-aac",
-                        "videoProfile": "main 10",
-                        "Part": [
-                            {
-                                "id": 31,
-                                "key": "/library/parts/31/1740059764/file.mkv",
-                                "duration": 7492234,
-                                "audioProfile": "he-aac",
-                                "container": "mkv",
-                                "videoProfile": "main 10"
-                            }
-                        ]
-                    }
-                ],
-                "Image": [
-                    {
-                        "alt": "Bridget Jones: Mad About the Boy",
-                        "type": "coverPoster",
-                        "url": "/library/metadata/15/thumb/1740511076"
-                    },
-                    {
-                        "alt": "Bridget Jones: Mad About the Boy",
-                        "type": "background",
-                        "url": "/library/metadata/15/art/1740511076"
-                    },
-                    {
-                        "alt": "Bridget Jones: Mad About the Boy",
-                        "type": "clearLogo",
-                        "url": "/library/metadata/15/clearLogo/1740511076"
-                    }
-                ],
-                "UltraBlurColors": {
-                    "topLeft": "4a1d1a",
-                    "topRight": "140312",
-                    "bottomRight": "45131a",
-                    "bottomLeft": "872423"
-                },
-                "Genre": [
-                    {
-                        "tag": "Comedy"
-                    },
-                    {
-                        "tag": "Drama"
-                    }
-                ],
-                "Country": [
-                    {
-                        "tag": "United Kingdom"
-                    },
-                    {
-                        "tag": "United States of America"
-                    }
-                ],
-                "Director": [
-                    {
-                        "tag": "Michael Morris"
-                    }
-                ],
-                "Writer": [
-                    {
-                        "tag": "Helen Fielding"
-                    },
-                    {
-                        "tag": "Dan Mazer"
-                    }
-                ],
-                "Role": [
-                    {
-                        "tag": "Ren\u00e9e Zellweger"
-                    },
-                    {
-                        "tag": "Chiwetel Ejiofor"
-                    },
-                    {
-                        "tag": "Leo Woodall"
-                    }
-                ]
-            },
-            {
-                "ratingKey": "3",
-                "slug": "nosferatu-2024",
-                "studio": "Focus Features",
-                "type": "movie",
-                "title": "Nosferatu",
-                "contentRating": "au/M",
-                "summary": "A gothic tale of obsession between a haunted young woman and the terrifying vampire infatuated with her, causing untold horror in its wake.",
-                "audienceRating": 7.3,
-                "year": 2024,
-                "tagline": "Succumb to the darkness.",
-                "thumb": "/library/metadata/3/thumb/1740212501",
-                "art": "/library/metadata/3/art/1740212501",
-                "duration": 7964032,
-                "originallyAvailableAt": "2024-12-25",
-                "addedAt": 1740059422,
-                "updatedAt": 1740212501,
-                "audienceRatingImage": "imdb://image.rating",
-                "hasPremiumPrimaryExtra": "1",
-                "Media": [
-                    {
-                        "id": 3,
-                        "duration": 7964032,
-                        "bitrate": 2004,
-                        "width": 1792,
-                        "height": 1076,
-                        "aspectRatio": 1.66,
-                        "audioChannels": 6,
-                        "audioCodec": "aac",
-                        "videoCodec": "hevc",
-                        "videoResolution": "1080",
-                        "container": "mkv",
-                        "videoFrameRate": "24p",
-                        "audioProfile": "lc",
-                        "videoProfile": "main",
-                        "Part": [
-                            {
-                                "id": 3,
-                                "key": "/library/parts/3/1740059422/file.mkv",
-                                "duration": 7964032,
-                                "audioProfile": "lc",
-                                "container": "mkv",
-                                "videoProfile": "main"
-                            }
-                        ]
-                    }
-                ],
-                "Image": [
-                    {
-                        "alt": "Nosferatu",
-                        "type": "coverPoster",
-                        "url": "/library/metadata/3/thumb/1740212501"
-                    },
-                    {
-                        "alt": "Nosferatu",
-                        "type": "background",
-                        "url": "/library/metadata/3/art/1740212501"
-                    },
-                    {
-                        "alt": "Nosferatu",
-                        "type": "clearLogo",
-                        "url": "/library/metadata/3/clearLogo/1740212501"
-                    }
-                ],
-                "UltraBlurColors": {
-                    "topLeft": "070607",
-                    "topRight": "272a33",
-                    "bottomRight": "0b0b0d",
-                    "bottomLeft": "282b34"
-                },
-                "Genre": [
-                    {
-                        "tag": "Horror"
-                    },
-                    {
-                        "tag": "Fantasy"
-                    }
-                ],
-                "Country": [
-                    {
-                        "tag": "United States of America"
-                    }
-                ],
-                "Director": [
-                    {
-                        "tag": "Robert Eggers"
-                    }
-                ],
-                "Writer": [
-                    {
-                        "tag": "Robert Eggers"
-                    }
-                ],
-                "Role": [
-                    {
-                        "tag": "Lily-Rose Depp"
-                    },
-                    {
-                        "tag": "Nicholas Hoult"
-                    },
-                    {
-                        "tag": "Bill Skarsg\u00e5rd"
-                    }
-                ]
-            },
-            {
-                "ratingKey": "76",
-                "slug": "the-gorge",
-                "studio": "Skydance Media",
-                "type": "movie",
-                "title": "The Gorge",
-                "titleSort": "Gorge",
-                "contentRating": "au/M",
-                "summary": "Two highly trained operatives grow close from a distance after being sent to guard opposite sides of a mysterious gorge. When an evil below emerges, they must work together to survive what lies within.",
-                "audienceRating": 6.8,
-                "userRating": 3,
-                "viewCount": 1,
-                "skipCount": 1,
-                "lastViewedAt": 1740236682,
-                "lastRatedAt": 1740236875,
-                "year": 2025,
-                "tagline": "The world's most dangerous secret lies between them.",
-                "thumb": "/library/metadata/76/thumb/1740511077",
-                "art": "/library/metadata/76/art/1740511077",
-                "duration": 7667552,
-                "originallyAvailableAt": "2025-02-14",
-                "addedAt": 1740059100,
-                "updatedAt": 1740511077,
-                "audienceRatingImage": "imdb://image.rating",
-                "chapterSource": "media",
-                "hasPremiumPrimaryExtra": "1",
-                "Media": [
-                    {
-                        "id": 155,
-                        "duration": 7667552,
-                        "bitrate": 2172,
-                        "width": 1920,
-                        "height": 1038,
-                        "aspectRatio": 1.85,
-                        "audioChannels": 6,
-                        "audioCodec": "eac3",
-                        "videoCodec": "hevc",
-                        "videoResolution": "1080",
-                        "container": "mkv",
-                        "videoFrameRate": "24p",
-                        "videoProfile": "main 10",
-                        "Part": [
-                            {
-                                "id": 155,
-                                "key": "/library/parts/155/1740059100/file.mkv",
-                                "duration": 7667552,
-                                "container": "mkv",
-                                "videoProfile": "main 10"
-                            }
-                        ]
-                    }
-                ],
-                "Image": [
-                    {
-                        "alt": "The Gorge",
-                        "type": "coverPoster",
-                        "url": "/library/metadata/76/thumb/1740511077"
-                    },
-                    {
-                        "alt": "The Gorge",
-                        "type": "background",
-                        "url": "/library/metadata/76/art/1740511077"
-                    },
-                    {
-                        "alt": "The Gorge",
-                        "type": "clearLogo",
-                        "url": "/library/metadata/76/clearLogo/1740511077"
-                    }
-                ],
-                "UltraBlurColors": {
-                    "topLeft": "0e0921",
-                    "topRight": "130e2b",
-                    "bottomRight": "030b1b",
-                    "bottomLeft": "080312"
-                },
-                "Genre": [
-                    {
-                        "tag": "Action"
-                    },
-                    {
-                        "tag": "Adventure"
-                    }
-                ],
-                "Country": [
-                    {
-                        "tag": "United States of America"
-                    }
-                ],
-                "Director": [
-                    {
-                        "tag": "Scott Derrickson"
-                    }
-                ],
-                "Writer": [
-                    {
-                        "tag": "Zach Dean"
-                    }
-                ],
-                "Role": [
-                    {
-                        "tag": "Miles Teller"
-                    },
-                    {
-                        "tag": "Anya Taylor-Joy"
-                    },
-                    {
-                        "tag": "Sigourney Weaver"
-                    }
-                ]
-            },
-            {
-                "ratingKey": "80",
-                "slug": "the-last-showgirl-2024",
-                "studio": "Utopia",
-                "type": "movie",
-                "title": "The Last Showgirl",
-                "titleSort": "Last Showgirl",
-                "contentRating": "au/M",
-                "summary": "When the glittering Las Vegas revue she has headlined for decades announces it will soon close, a glamorous showgirl must reconcile with the decisions she\u2019s made and the community she has built as she plans her next act.",
-                "audienceRating": 6.7,
-                "year": 2024,
-                "thumb": "/library/metadata/80/thumb/1740247224",
-                "art": "/library/metadata/80/art/1740247224",
-                "duration": 5331117,
-                "originallyAvailableAt": "2024-12-13",
-                "addedAt": 1740058867,
-                "updatedAt": 1740247224,
-                "audienceRatingImage": "imdb://image.rating",
-                "chapterSource": "media",
-                "hasPremiumPrimaryExtra": "1",
-                "Media": [
-                    {
-                        "id": 162,
-                        "duration": 5331117,
-                        "bitrate": 2574,
-                        "width": 1920,
-                        "height": 800,
-                        "aspectRatio": 2.35,
-                        "audioChannels": 6,
-                        "audioCodec": "aac",
-                        "videoCodec": "hevc",
-                        "videoResolution": "1080",
-                        "container": "mkv",
-                        "videoFrameRate": "24p",
-                        "audioProfile": "he-aac",
-                        "videoProfile": "main 10",
-                        "Part": [
-                            {
-                                "id": 162,
-                                "key": "/library/parts/162/1740058867/file.mkv",
-                                "duration": 5331117,
-                                "audioProfile": "he-aac",
-                                "container": "mkv",
-                                "videoProfile": "main 10"
-                            }
-                        ]
-                    }
-                ],
-                "Image": [
-                    {
-                        "alt": "The Last Showgirl",
-                        "type": "coverPoster",
-                        "url": "/library/metadata/80/thumb/1740247224"
-                    },
-                    {
-                        "alt": "The Last Showgirl",
-                        "type": "background",
-                        "url": "/library/metadata/80/art/1740247224"
-                    },
-                    {
-                        "alt": "The Last Showgirl",
-                        "type": "clearLogo",
-                        "url": "/library/metadata/80/clearLogo/1740247224"
-                    }
-                ],
-                "UltraBlurColors": {
-                    "topLeft": "03343d",
-                    "topRight": "2b686d",
-                    "bottomRight": "296481",
-                    "bottomLeft": "303434"
-                },
-                "Genre": [
-                    {
-                        "tag": "Drama"
-                    }
-                ],
-                "Country": [
-                    {
-                        "tag": "United States of America"
-                    }
-                ],
-                "Director": [
-                    {
-                        "tag": "Gia Coppola"
-                    }
-                ],
-                "Writer": [
-                    {
-                        "tag": "Kate Gersten"
-                    }
-                ],
-                "Role": [
-                    {
-                        "tag": "Pamela Anderson"
-                    },
-                    {
-                        "tag": "Jamie Lee Curtis"
-                    },
-                    {
-                        "tag": "Dave Bautista"
-                    }
-                ]
-            },
-            {
-                "ratingKey": "51",
-                "slug": "homestead-2024-1",
-                "studio": "Angel Studios",
-                "type": "movie",
-                "title": "Homestead",
-                "contentRating": "PG-13",
-                "summary": "Amid chaos, ex-Green Beret joins prepper compound; love grows, truths arise, and a community unites.",
-                "audienceRating": 5.4,
-                "year": 2024,
-                "tagline": "Survival brought them together. Will fear tear them apart?",
-                "thumb": "/library/metadata/51/thumb/1740212509",
-                "art": "/library/metadata/51/art/1740212509",
-                "duration": 6685461,
-                "originallyAvailableAt": "2024-12-20",
-                "addedAt": 1740058652,
-                "updatedAt": 1740212509,
-                "audienceRatingImage": "imdb://image.rating",
-                "Media": [
-                    {
-                        "id": 100,
-                        "duration": 6685461,
-                        "bitrate": 1281,
-                        "width": 1280,
-                        "height": 536,
-                        "aspectRatio": 2.35,
-                        "audioChannels": 2,
-                        "audioCodec": "aac",
-                        "videoCodec": "h264",
-                        "videoResolution": "720",
-                        "container": "mkv",
-                        "videoFrameRate": "24p",
-                        "audioProfile": "lc",
-                        "videoProfile": "high",
-                        "Part": [
-                            {
-                                "id": 100,
-                                "key": "/library/parts/100/1740058652/file.mkv",
-                                "duration": 6685461,
-                                "audioProfile": "lc",
-                                "container": "mkv",
-                                "videoProfile": "high"
-                            }
-                        ]
-                    }
-                ],
-                "Image": [
-                    {
-                        "alt": "Homestead",
-                        "type": "coverPoster",
-                        "url": "/library/metadata/51/thumb/1740212509"
-                    },
-                    {
-                        "alt": "Homestead",
-                        "type": "background",
-                        "url": "/library/metadata/51/art/1740212509"
-                    },
-                    {
-                        "alt": "Homestead",
-                        "type": "clearLogo",
-                        "url": "/library/metadata/51/clearLogo/1740212509"
-                    }
-                ],
-                "UltraBlurColors": {
-                    "topLeft": "4f0403",
-                    "topRight": "a23016",
-                    "bottomRight": "a23109",
-                    "bottomLeft": "1d0403"
-                },
-                "Genre": [
-                    {
-                        "tag": "Action"
-                    },
-                    {
-                        "tag": "Drama"
-                    }
-                ],
-                "Country": [
-                    {
-                        "tag": "United States of America"
-                    }
-                ],
-                "Director": [
-                    {
-                        "tag": "Ben Smallbone"
-                    }
-                ],
-                "Writer": [
-                    {
-                        "tag": "Jason Ross"
-                    }
-                ],
-                "Role": [
-                    {
-                        "tag": "Dawn Olivieri"
-                    },
-                    {
-                        "tag": "Neal McDonough"
-                    },
-                    {
-                        "tag": "Susan Misner"
-                    }
-                ]
-            },
-            {
-                "ratingKey": "44",
-                "slug": "dog-man-2025",
-                "studio": "DreamWorks Animation",
-                "type": "movie",
-                "title": "Dog Man",
-                "contentRating": "au/PG",
-                "summary": "When a faithful police dog and his human police officer owner are injured together on the job, a harebrained but life-saving surgery fuses the two of them together and Dog Man is born. Dog Man is sworn to protect and serve\u2014and fetch, sit and roll over. As Dog Man embraces his new identity and strives to impress his Chief, he must stop the pretty evil plots of feline supervillain Petey the Cat.",
-                "audienceRating": 6.3,
-                "year": 2025,
-                "tagline": "Part dog. Part man. All hero.",
-                "thumb": "/library/metadata/44/thumb/1740247224",
-                "art": "/library/metadata/44/art/1740247224",
-                "duration": 5361272,
-                "originallyAvailableAt": "2025-01-24",
-                "addedAt": 1740056667,
-                "updatedAt": 1740247224,
-                "audienceRatingImage": "imdb://image.rating",
-                "chapterSource": "media",
-                "hasPremiumPrimaryExtra": "1",
-                "Media": [
-                    {
-                        "id": 91,
-                        "duration": 5361272,
-                        "bitrate": 2093,
-                        "width": 1920,
-                        "height": 1040,
-                        "aspectRatio": 1.85,
-                        "audioChannels": 6,
-                        "audioCodec": "aac",
-                        "videoCodec": "hevc",
-                        "videoResolution": "1080",
-                        "container": "mkv",
-                        "videoFrameRate": "24p",
-                        "audioProfile": "he-aac",
-                        "videoProfile": "main 10",
-                        "Part": [
-                            {
-                                "id": 91,
-                                "key": "/library/parts/91/1740056667/file.mkv",
-                                "duration": 5361272,
-                                "audioProfile": "he-aac",
-                                "container": "mkv",
-                                "videoProfile": "main 10"
-                            }
-                        ]
-                    }
-                ],
-                "Image": [
-                    {
-                        "alt": "Dog Man",
-                        "type": "coverPoster",
-                        "url": "/library/metadata/44/thumb/1740247224"
-                    },
-                    {
-                        "alt": "Dog Man",
-                        "type": "background",
-                        "url": "/library/metadata/44/art/1740247224"
-                    },
-                    {
-                        "alt": "Dog Man",
-                        "type": "clearLogo",
-                        "url": "/library/metadata/44/clearLogo/1740247224"
-                    }
-                ],
-                "UltraBlurColors": {
-                    "topLeft": "03314d",
-                    "topRight": "053362",
-                    "bottomRight": "0c5993",
-                    "bottomLeft": "1b648e"
-                },
-                "Genre": [
-                    {
-                        "tag": "Animation"
-                    },
-                    {
-                        "tag": "Comedy"
-                    }
-                ],
-                "Country": [
-                    {
-                        "tag": "United States of America"
-                    }
-                ],
-                "Director": [
-                    {
-                        "tag": "Peter Hastings"
-                    }
-                ],
-                "Writer": [
-                    {
-                        "tag": "Peter Hastings"
-                    }
-                ],
-                "Role": [
-                    {
-                        "tag": "Peter Hastings"
-                    },
-                    {
-                        "tag": "Pete Davidson"
-                    },
-                    {
-                        "tag": "Lil Rel Howery"
-                    }
-                ]
-            },
-            {
-                "ratingKey": "28",
-                "slug": "companion-2025",
-                "studio": "BoulderLight Pictures",
-                "type": "movie",
-                "title": "Companion",
-                "contentRating": "au/MA 15+",
-                "summary": "During a weekend getaway at a secluded lakeside estate, a group of friends finds themselves entangled in a web of secrets, deception, and advanced technology. As tensions rise and loyalties are tested, they uncover unsettling truths about themselves and the world around them.",
-                "audienceRating": 7.2,
-                "year": 2025,
-                "tagline": "Find someone made just for you.",
-                "thumb": "/library/metadata/28/thumb/1740308339",
-                "art": "/library/metadata/28/art/1740308339",
-                "duration": 5824832,
-                "originallyAvailableAt": "2025-01-28",
-                "addedAt": 1740056356,
-                "updatedAt": 1740308339,
-                "audienceRatingImage": "imdb://image.rating",
-                "hasPremiumPrimaryExtra": "1",
-                "Media": [
-                    {
-                        "id": 62,
-                        "duration": 5824832,
-                        "bitrate": 6072,
-                        "width": 1920,
-                        "height": 800,
-                        "aspectRatio": 2.35,
-                        "audioChannels": 6,
-                        "audioCodec": "eac3",
-                        "videoCodec": "h264",
-                        "videoResolution": "1080",
-                        "container": "mkv",
-                        "videoFrameRate": "24p",
-                        "videoProfile": "high",
-                        "Part": [
-                            {
-                                "id": 62,
-                                "key": "/library/parts/62/1740056356/file.mkv",
-                                "duration": 5824832,
-                                "container": "mkv",
-                                "videoProfile": "high"
-                            }
-                        ]
-                    }
-                ],
-                "Image": [
-                    {
-                        "alt": "Companion",
-                        "type": "coverPoster",
-                        "url": "/library/metadata/28/thumb/1740308339"
-                    },
-                    {
-                        "alt": "Companion",
-                        "type": "background",
-                        "url": "/library/metadata/28/art/1740308339"
-                    },
-                    {
-                        "alt": "Companion",
-                        "type": "clearLogo",
-                        "url": "/library/metadata/28/clearLogo/1740308339"
-                    }
-                ],
-                "UltraBlurColors": {
-                    "topLeft": "3f280c",
-                    "topRight": "533318",
-                    "bottomRight": "2c657e",
-                    "bottomLeft": "854f19"
-                },
-                "Genre": [
-                    {
-                        "tag": "Science Fiction"
-                    },
-                    {
-                        "tag": "Thriller"
-                    }
-                ],
-                "Country": [
-                    {
-                        "tag": "United States of America"
-                    }
-                ],
-                "Director": [
-                    {
-                        "tag": "Drew Hancock"
-                    }
-                ],
-                "Writer": [
-                    {
-                        "tag": "Drew Hancock"
-                    }
-                ],
-                "Role": [
-                    {
-                        "tag": "Sophie Thatcher"
-                    },
-                    {
-                        "tag": "Jack Quaid"
-                    },
-                    {
-                        "tag": "Lukas Gage"
-                    }
-                ]
-            },
-            {
-                "ratingKey": "60",
-                "slug": "jeff-waynes-musical-version-of-the-war-of-the-worlds-alive-on-stage-the-new-generation",
-                "type": "movie",
-                "title": "Jeff Wayne's Musical Version of the War of the Worlds Alive on Stage! The New Generation",
-                "contentRating": "au/PG",
-                "summary": "Stage musical adaptation of H.G. Wells' alien invasion novel, recorded live at London's O2 arena in 2012. The reimagined story, which was first released in 1978 as a concept album by Jeff Wayne, is narrated by Liam Neeson and includes performances by Jason Donovan, Marti Pellow and Ricky Wilson.",
-                "audienceRating": 7.7,
-                "year": 2013,
-                "thumb": "/library/metadata/60/thumb/1740212511",
-                "art": "/library/metadata/60/art/1740212511",
-                "duration": 7100351,
-                "originallyAvailableAt": "2013-11-28",
-                "addedAt": 1739548943,
-                "updatedAt": 1740212511,
-                "audienceRatingImage": "imdb://image.rating",
-                "Media": [
-                    {
-                        "id": 121,
-                        "duration": 7100351,
-                        "bitrate": 2539,
-                        "width": 1904,
-                        "height": 1072,
-                        "aspectRatio": 1.78,
-                        "audioChannels": 6,
-                        "audioCodec": "aac",
-                        "videoCodec": "h264",
-                        "videoResolution": "1080",
-                        "container": "mp4",
-                        "videoFrameRate": "24p",
-                        "optimizedForStreaming": 1,
-                        "audioProfile": "lc",
-                        "has64bitOffsets": false,
-                        "videoProfile": "high",
-                        "Part": [
-                            {
-                                "id": 121,
-                                "key": "/library/parts/121/1739548943/file.mp4",
-                                "duration": 7100351,
-                                "audioProfile": "lc",
-                                "container": "mp4",
-                                "has64bitOffsets": false,
-                                "optimizedForStreaming": true,
-                                "videoProfile": "high"
-                            }
-                        ]
-                    }
-                ],
-                "Image": [
-                    {
-                        "alt": "Jeff Wayne's Musical Version of the War of the Worlds Alive on Stage! The New Generation",
-                        "type": "coverPoster",
-                        "url": "/library/metadata/60/thumb/1740212511"
-                    },
-                    {
-                        "alt": "Jeff Wayne's Musical Version of the War of the Worlds Alive on Stage! The New Generation",
-                        "type": "background",
-                        "url": "/library/metadata/60/art/1740212511"
-                    }
-                ],
-                "UltraBlurColors": {
-                    "topLeft": "0c0b0b",
-                    "topRight": "0c020e",
-                    "bottomRight": "46181e",
-                    "bottomLeft": "3b2e2f"
-                },
-                "Genre": [
-                    {
-                        "tag": "Science Fiction"
-                    },
-                    {
-                        "tag": "Musical"
-                    }
-                ],
-                "Country": [
-                    {
-                        "tag": "United Kingdom"
-                    }
-                ],
-                "Director": [
-                    {
-                        "tag": "Nick Morris"
-                    }
-                ],
-                "Role": [
-                    {
-                        "tag": "Liam Neeson"
-                    },
-                    {
-                        "tag": "Marti Pellow"
-                    },
-                    {
-                        "tag": "Jason Donovan"
-                    }
-                ]
-            },
-            {
-                "ratingKey": "92",
-                "slug": "wolf-man-2025",
-                "studio": "Universal Pictures",
-                "type": "movie",
-                "title": "Wolf Man",
-                "contentRating": "au/MA 15+",
-                "summary": "With his marriage fraying, Blake persuades his wife Charlotte to take a break from the city and visit his remote childhood home in rural Oregon. As they arrive at the farmhouse in the dead of night, they're attacked by an unseen animal and barricade themselves inside the home as the creature prowls the perimeter. But as the night stretches on, Blake begins to behave strangely, transforming into something unrecognizable.",
-                "audienceRating": 5.7,
-                "viewCount": 1,
-                "lastViewedAt": 1740053581,
-                "year": 2025,
-                "tagline": "Protect your own.",
-                "thumb": "/library/metadata/92/thumb/1740308286",
-                "art": "/library/metadata/92/art/1740308286",
-                "duration": 6170976,
-                "originallyAvailableAt": "2025-01-15",
-                "addedAt": 1738937724,
-                "updatedAt": 1740308286,
-                "audienceRatingImage": "imdb://image.rating",
-                "hasPremiumPrimaryExtra": "1",
-                "Media": [
-                    {
-                        "id": 190,
-                        "duration": 6170976,
-                        "bitrate": 2121,
-                        "width": 1920,
-                        "height": 800,
-                        "aspectRatio": 2.35,
-                        "audioChannels": 6,
-                        "audioCodec": "eac3",
-                        "videoCodec": "hevc",
-                        "videoResolution": "1080",
-                        "container": "mkv",
-                        "videoFrameRate": "24p",
-                        "videoProfile": "main 10",
-                        "Part": [
-                            {
-                                "id": 190,
-                                "key": "/library/parts/190/1738937724/file.mkv",
-                                "duration": 6170976,
-                                "container": "mkv",
-                                "videoProfile": "main 10"
-                            }
-                        ]
-                    }
-                ],
-                "Image": [
-                    {
-                        "alt": "Wolf Man",
-                        "type": "coverPoster",
-                        "url": "/library/metadata/92/thumb/1740308286"
-                    },
-                    {
-                        "alt": "Wolf Man",
-                        "type": "background",
-                        "url": "/library/metadata/92/art/1740308286"
-                    },
-                    {
-                        "alt": "Wolf Man",
-                        "type": "clearLogo",
-                        "url": "/library/metadata/92/clearLogo/1740308286"
-                    }
-                ],
-                "UltraBlurColors": {
-                    "topLeft": "220304",
-                    "topRight": "a03321",
-                    "bottomRight": "a92313",
-                    "bottomLeft": "8d2a21"
-                },
-                "Genre": [
-                    {
-                        "tag": "Horror"
-                    },
-                    {
-                        "tag": "Thriller"
-                    }
-                ],
-                "Country": [
-                    {
-                        "tag": "United States of America"
-                    }
-                ],
-                "Director": [
-                    {
-                        "tag": "Leigh Whannell"
-                    }
-                ],
-                "Writer": [
-                    {
-                        "tag": "Curt Siodmak"
-                    },
-                    {
-                        "tag": "Leigh Whannell"
-                    }
-                ],
-                "Role": [
-                    {
-                        "tag": "Christopher Abbott"
-                    },
-                    {
-                        "tag": "Julia Garner"
-                    },
-                    {
-                        "tag": "Matilda Firth"
-                    }
-                ]
-            },
-            {
-                "ratingKey": "16",
-                "slug": "challengers-2024",
-                "studio": "Pascal Pictures",
-                "type": "movie",
-                "title": "Challengers",
-                "contentRating": "au/M",
-                "summary": "Tashi, a former tennis prodigy turned coach, transformed her husband into a champion. But to overcome a recent losing streak and redeem himself, he'll need to face off against his former best friend and Tashi's ex-boyfriend.",
-                "audienceRating": 7.1,
-                "viewCount": 1,
-                "lastViewedAt": 1740053590,
-                "year": 2024,
-                "tagline": "Her game. Her rules.",
-                "thumb": "/library/metadata/16/thumb/1740247230",
-                "art": "/library/metadata/16/art/1740247230",
-                "duration": 7898353,
-                "originallyAvailableAt": "2024-04-18",
-                "addedAt": 1738412648,
-                "updatedAt": 1740247230,
-                "audienceRatingImage": "imdb://image.rating",
-                "chapterSource": "media",
-                "hasPremiumPrimaryExtra": "1",
-                "Media": [
-                    {
-                        "id": 32,
-                        "duration": 7898353,
-                        "bitrate": 1742,
-                        "width": 1920,
-                        "height": 1040,
-                        "aspectRatio": 1.85,
-                        "audioChannels": 6,
-                        "audioCodec": "ac3",
-                        "videoCodec": "h264",
-                        "videoResolution": "1080",
-                        "container": "mkv",
-                        "videoFrameRate": "24p",
-                        "videoProfile": "high",
-                        "Part": [
-                            {
-                                "id": 32,
-                                "key": "/library/parts/32/1738412648/file.mkv",
-                                "duration": 7898353,
-                                "container": "mkv",
-                                "videoProfile": "high"
-                            }
-                        ]
-                    }
-                ],
-                "Image": [
-                    {
-                        "alt": "Challengers",
-                        "type": "coverPoster",
-                        "url": "/library/metadata/16/thumb/1740247230"
-                    },
-                    {
-                        "alt": "Challengers",
-                        "type": "background",
-                        "url": "/library/metadata/16/art/1740247230"
-                    },
-                    {
-                        "alt": "Challengers",
-                        "type": "clearLogo",
-                        "url": "/library/metadata/16/clearLogo/1740247230"
-                    }
-                ],
-                "UltraBlurColors": {
-                    "topLeft": "2d2e2e",
-                    "topRight": "641c51",
-                    "bottomRight": "673c1f",
-                    "bottomLeft": "385c9b"
-                },
-                "Genre": [
-                    {
-                        "tag": "Drama"
-                    },
-                    {
-                        "tag": "Romance"
-                    }
-                ],
-                "Country": [
-                    {
-                        "tag": "Italy"
-                    },
-                    {
-                        "tag": "United States of America"
-                    }
-                ],
-                "Director": [
-                    {
-                        "tag": "Luca Guadagnino"
-                    }
-                ],
-                "Writer": [
-                    {
-                        "tag": "Justin Kuritzkes"
-                    }
-                ],
-                "Role": [
-                    {
-                        "tag": "Zendaya"
-                    },
-                    {
-                        "tag": "Mike Faist"
-                    },
-                    {
-                        "tag": "Josh O'Connor"
-                    }
-                ]
-            },
-            {
-                "ratingKey": "59",
-                "slug": "indiana-jones-and-the-dial-of-destiny",
-                "studio": "Lucasfilm Ltd.",
-                "type": "movie",
-                "title": "Indiana Jones and the Dial of Destiny",
-                "contentRating": "au/M",
-                "summary": "Finding himself in a new era, and approaching retirement, Indy wrestles with fitting into a world that seems to have outgrown him. But as the tentacles of an all-too-familiar evil return in the form of an old rival, Indy must don his hat and pick up his whip once more to make sure an ancient and powerful artifact doesn't fall into the wrong hands.",
-                "audienceRating": 6.5,
-                "year": 2023,
-                "tagline": "His final adventure will be his greatest.",
-                "thumb": "/library/metadata/59/thumb/1740247229",
-                "art": "/library/metadata/59/art/1740247229",
-                "duration": 9273952,
-                "originallyAvailableAt": "2023-06-28",
-                "addedAt": 1738138118,
-                "updatedAt": 1740247229,
-                "audienceRatingImage": "imdb://image.rating",
-                "chapterSource": "media",
-                "hasPremiumPrimaryExtra": "1",
-                "Media": [
-                    {
-                        "id": 120,
-                        "duration": 9273952,
-                        "bitrate": 25011,
-                        "width": 3840,
-                        "height": 1608,
-                        "aspectRatio": 2.35,
-                        "audioChannels": 6,
-                        "audioCodec": "eac3",
-                        "videoCodec": "hevc",
-                        "videoResolution": "4k",
-                        "container": "mkv",
-                        "videoFrameRate": "24p",
-                        "videoProfile": "main 10",
-                        "Part": [
-                            {
-                                "id": 120,
-                                "key": "/library/parts/120/1738138118/file.mkv",
-                                "duration": 9273952,
-                                "container": "mkv",
-                                "videoProfile": "main 10"
-                            }
-                        ]
-                    }
-                ],
-                "Image": [
-                    {
-                        "alt": "Indiana Jones and the Dial of Destiny",
-                        "type": "coverPoster",
-                        "url": "/library/metadata/59/thumb/1740247229"
-                    },
-                    {
-                        "alt": "Indiana Jones and the Dial of Destiny",
-                        "type": "background",
-                        "url": "/library/metadata/59/art/1740247229"
-                    },
-                    {
-                        "alt": "Indiana Jones and the Dial of Destiny",
-                        "type": "clearLogo",
-                        "url": "/library/metadata/59/clearLogo/1740247229"
-                    }
-                ],
-                "UltraBlurColors": {
-                    "topLeft": "492108",
-                    "topRight": "622504",
-                    "bottomRight": "913f09",
-                    "bottomLeft": "632b11"
-                },
-                "Genre": [
-                    {
-                        "tag": "Action"
-                    },
-                    {
-                        "tag": "Adventure"
-                    }
-                ],
-                "Country": [
-                    {
-                        "tag": "United States of America"
-                    }
-                ],
-                "Director": [
-                    {
-                        "tag": "James Mangold"
-                    }
-                ],
-                "Writer": [
-                    {
-                        "tag": "James Mangold"
-                    },
-                    {
-                        "tag": "David Koepp"
-                    }
-                ],
-                "Role": [
-                    {
-                        "tag": "Harrison Ford"
-                    },
-                    {
-                        "tag": "Phoebe Waller-Bridge"
-                    },
-                    {
-                        "tag": "Mads Mikkelsen"
-                    }
-                ]
-            },
-            {
-                "ratingKey": "74",
-                "slug": "the-mummy-returns",
-                "studio": "Universal Pictures",
-                "type": "movie",
-                "title": "The Mummy Returns",
-                "titleSort": "Mummy Returns",
-                "contentRating": "au/M",
-                "summary": "Rick and Evelyn O\u2019Connell, along with their 8-year-old son Alex, discover the key to the legendary Scorpion King\u2019s might: the fabled Bracelet of Anubis. Unfortunately, a newly resurrected Imhotep has designs on the bracelet as well, and isn\u2019t above kidnapping its new bearer, Alex, to gain control of Anubis\u2019s otherworldly army.",
-                "audienceRating": 6.4,
-                "year": 2001,
-                "tagline": "The most powerful force on earth is about to be unleashed by the two people who should know better.",
-                "thumb": "/library/metadata/74/thumb/1740212512",
-                "art": "/library/metadata/74/art/1740212512",
-                "duration": 7771889,
-                "originallyAvailableAt": "2001-05-04",
-                "addedAt": 1737805596,
-                "updatedAt": 1740212512,
-                "audienceRatingImage": "imdb://image.rating",
-                "hasPremiumPrimaryExtra": "1",
-                "Media": [
-                    {
-                        "id": 151,
-                        "duration": 7771889,
-                        "bitrate": 2097,
-                        "width": 1920,
-                        "height": 816,
-                        "aspectRatio": 2.35,
-                        "audioChannels": 2,
-                        "audioCodec": "aac",
-                        "videoCodec": "h264",
-                        "videoResolution": "1080",
-                        "container": "mp4",
-                        "videoFrameRate": "24p",
-                        "optimizedForStreaming": 1,
-                        "audioProfile": "lc",
-                        "has64bitOffsets": false,
-                        "videoProfile": "high",
-                        "Part": [
-                            {
-                                "id": 151,
-                                "key": "/library/parts/151/1737805596/file.mp4",
-                                "duration": 7771889,
-                                "audioProfile": "lc",
-                                "container": "mp4",
-                                "has64bitOffsets": false,
-                                "optimizedForStreaming": true,
-                                "videoProfile": "high"
-                            }
-                        ]
-                    }
-                ],
-                "Image": [
-                    {
-                        "alt": "The Mummy Returns",
-                        "type": "coverPoster",
-                        "url": "/library/metadata/74/thumb/1740212512"
-                    },
-                    {
-                        "alt": "The Mummy Returns",
-                        "type": "background",
-                        "url": "/library/metadata/74/art/1740212512"
-                    },
-                    {
-                        "alt": "The Mummy Returns",
-                        "type": "clearLogo",
-                        "url": "/library/metadata/74/clearLogo/1740212512"
-                    }
-                ],
-                "UltraBlurColors": {
-                    "topLeft": "2b0e03",
-                    "topRight": "150403",
-                    "bottomRight": "2e1104",
-                    "bottomLeft": "150403"
-                },
-                "Genre": [
-                    {
-                        "tag": "Action"
-                    },
-                    {
-                        "tag": "Adventure"
-                    }
-                ],
-                "Country": [
-                    {
-                        "tag": "United States of America"
-                    }
-                ],
-                "Director": [
-                    {
-                        "tag": "Stephen Sommers"
-                    }
-                ],
-                "Writer": [
-                    {
-                        "tag": "Stephen Sommers"
-                    },
-                    {
-                        "tag": "John L. Balderston"
-                    }
-                ],
-                "Role": [
-                    {
-                        "tag": "Brendan Fraser"
-                    },
-                    {
-                        "tag": "Rachel Weisz"
-                    },
-                    {
-                        "tag": "John Hannah"
-                    }
-                ]
-            },
-            {
-                "ratingKey": "48",
-                "slug": "ex-machina",
-                "studio": "DNA Films",
-                "type": "movie",
-                "title": "Ex Machina",
-                "contentRating": "au/MA15+",
-                "summary": "Caleb, a 26 year old programmer at the world's largest internet company, wins a competition to spend a week at a private mountain retreat belonging to Nathan, the reclusive CEO of the company. But when Caleb arrives at the remote location he finds that he will have to participate in a strange and fascinating experiment in which he must interact with the world's first true artificial intelligence, housed in the body of a beautiful robot girl.",
-                "audienceRating": 7.7,
-                "year": 2014,
-                "tagline": "There is nothing more human than the will to survive",
-                "thumb": "/library/metadata/48/thumb/1740212509",
-                "art": "/library/metadata/48/art/1740212509",
-                "duration": 6480960,
-                "originallyAvailableAt": "2014-12-16",
-                "addedAt": 1687341782,
-                "updatedAt": 1740212509,
-                "audienceRatingImage": "imdb://image.rating",
-                "hasPremiumPrimaryExtra": "1",
-                "Media": [
-                    {
-                        "id": 97,
-                        "duration": 6480960,
-                        "bitrate": 2157,
-                        "width": 1920,
-                        "height": 808,
-                        "aspectRatio": 2.35,
-                        "audioChannels": 2,
-                        "audioCodec": "aac",
-                        "videoCodec": "h264",
-                        "videoResolution": "1080",
-                        "container": "mp4",
-                        "videoFrameRate": "24p",
-                        "optimizedForStreaming": 1,
-                        "audioProfile": "lc",
-                        "has64bitOffsets": false,
-                        "videoProfile": "high",
-                        "Part": [
-                            {
-                                "id": 97,
-                                "key": "/library/parts/97/1687341782/file.mp4",
-                                "duration": 6480960,
-                                "audioProfile": "lc",
-                                "container": "mp4",
-                                "has64bitOffsets": false,
-                                "optimizedForStreaming": true,
-                                "videoProfile": "high"
-                            }
-                        ]
-                    }
-                ],
-                "Image": [
-                    {
-                        "alt": "Ex Machina",
-                        "type": "coverPoster",
-                        "url": "/library/metadata/48/thumb/1740212509"
-                    },
-                    {
-                        "alt": "Ex Machina",
-                        "type": "background",
-                        "url": "/library/metadata/48/art/1740212509"
-                    },
-                    {
-                        "alt": "Ex Machina",
-                        "type": "clearLogo",
-                        "url": "/library/metadata/48/clearLogo/1740212509"
-                    }
-                ],
-                "UltraBlurColors": {
-                    "topLeft": "291f1d",
-                    "topRight": "3e4245",
-                    "bottomRight": "403f3c",
-                    "bottomLeft": "342927"
-                },
-                "Genre": [
-                    {
-                        "tag": "Science Fiction"
-                    },
-                    {
-                        "tag": "Drama"
-                    }
-                ],
-                "Country": [
-                    {
-                        "tag": "United Kingdom"
-                    },
-                    {
-                        "tag": "United States of America"
-                    }
-                ],
-                "Director": [
-                    {
-                        "tag": "Alex Garland"
-                    }
-                ],
-                "Writer": [
-                    {
-                        "tag": "Alex Garland"
-                    }
-                ],
-                "Role": [
-                    {
-                        "tag": "Domhnall Gleeson"
-                    },
-                    {
-                        "tag": "Alicia Vikander"
-                    },
-                    {
-                        "tag": "Oscar Isaac"
                     }
                 ]
             }
