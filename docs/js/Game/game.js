@@ -33,10 +33,11 @@ export class Game {
             '#D4D0C8'  // Windows 98 dialog background
         ];
         this.controls = new Controls();
+        this.interval = 0;
     }
 
     startGame() {
-        setInterval(() => this.setupGame(), 10);
+        this.interval = setInterval(() => this.setupGame(), 10);
     }
 
     setupGame() {
@@ -50,6 +51,31 @@ export class Game {
 
     draw() {
         this.ctx.clearRect(0, 0, this.canvas.width, this.canvas.height);
+
+        // Horizontal collision detection (walls)
+        if (this.x + this.dx > this.canvas.width - this.ballRadius || this.x + this.dx < this.ballRadius) {
+            this.ballColour = this.randomColour();
+            this.dx = -this.dx;
+        }
+
+        // Vertical collision detection with paddle and ceiling
+        if (this.y + this.dy < this.ballRadius) {
+            // Top collision (ceiling)
+            this.ballColour = this.randomColour();
+            this.dy = -this.dy;
+        }else if (this.y + this.dy > this.canvas.height - this.ballRadius) {
+            // Bottom collision (paddle or game over)
+            if (this.x > this.paddleX && this.x < this.paddleX + this.paddleWidth) {
+                // Hit the paddle - bounce back
+                this.ballColour = this.randomColour();
+                this.dy = -this.dy;
+            } else {
+                // Missed the paddle - game over
+                alert("GAME OVER");
+                document.location.reload();
+                clearInterval(this.interval);
+            }
+        }
 
         // Makes the ball go bounce
         if (this.x + this.dx > this.canvas.width - this.ballRadius || this.x + this.dx < this.ballRadius) {
