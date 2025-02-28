@@ -1,5 +1,5 @@
 import { Plex } from './Plex/plex.js';
-import { Game } from './Game/game.js';
+import { GameEngine } from './Game/game-engine.js';
 
 // Initialise when the page loads
 document.addEventListener('DOMContentLoaded', () => {
@@ -7,11 +7,8 @@ document.addEventListener('DOMContentLoaded', () => {
     const plex = new Plex();
     plex.loadData();
 
-	// Handle Game
-
-
 	document.getElementById("runButton").addEventListener("click", function() {
-        const game = new Game();
+        const game = new GameEngine();
         game.startGame();
         this.disabled = true;
     });
