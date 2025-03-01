@@ -2454,12 +2454,12 @@
                 "skipCount": 1,
                 "year": 2024,
                 "tagline": "Hope has yet to abandon these lands.",
-                "thumb": "/library/metadata/4/thumb/1740212503",
-                "art": "/library/metadata/4/art/1740212503",
+                "thumb": "/library/metadata/4/thumb/1740854625",
+                "art": "/library/metadata/4/art/1740854625",
                 "duration": 8054432,
                 "originallyAvailableAt": "2024-12-04",
                 "addedAt": 1740127972,
-                "updatedAt": 1740212503,
+                "updatedAt": 1740854625,
                 "audienceRatingImage": "imdb://image.rating",
                 "chapterSource": "media",
                 "hasPremiumPrimaryExtra": "1",
@@ -2493,17 +2493,17 @@
                     {
                         "alt": "The Lord of the Rings: The War of the Rohirrim",
                         "type": "coverPoster",
-                        "url": "/library/metadata/4/thumb/1740212503"
+                        "url": "/library/metadata/4/thumb/1740854625"
                     },
                     {
                         "alt": "The Lord of the Rings: The War of the Rohirrim",
                         "type": "background",
-                        "url": "/library/metadata/4/art/1740212503"
+                        "url": "/library/metadata/4/art/1740854625"
                     },
                     {
                         "alt": "The Lord of the Rings: The War of the Rohirrim",
                         "type": "clearLogo",
-                        "url": "/library/metadata/4/clearLogo/1740212503"
+                        "url": "/library/metadata/4/clearLogo/1740854625"
                     }
                 ],
                 "UltraBlurColors": {
@@ -2535,10 +2535,10 @@
                 ],
                 "Writer": [
                     {
-                        "tag": "Phoebe Gittins"
+                        "tag": "Arty Papageorgiou"
                     },
                     {
-                        "tag": "Arty Papageorgiou"
+                        "tag": "Phoebe Gittins"
                     }
                 ],
                 "Role": [
@@ -3859,12 +3859,12 @@
                 "lastViewedAt": 1740312545,
                 "year": 2024,
                 "tagline": "Fame makes monkeys of us all.",
-                "thumb": "/library/metadata/13/thumb/1740247227",
-                "art": "/library/metadata/13/art/1740247227",
+                "thumb": "/library/metadata/13/thumb/1740854625",
+                "art": "/library/metadata/13/art/1740854625",
                 "duration": 8140417,
                 "originallyAvailableAt": "2024-12-25",
                 "addedAt": 1740066544,
-                "updatedAt": 1740247227,
+                "updatedAt": 1740854625,
                 "audienceRatingImage": "imdb://image.rating",
                 "chapterSource": "media",
                 "hasPremiumPrimaryExtra": "1",
@@ -3904,17 +3904,17 @@
                     {
                         "alt": "Better Man",
                         "type": "coverPoster",
-                        "url": "/library/metadata/13/thumb/1740247227"
+                        "url": "/library/metadata/13/thumb/1740854625"
                     },
                     {
                         "alt": "Better Man",
                         "type": "background",
-                        "url": "/library/metadata/13/art/1740247227"
+                        "url": "/library/metadata/13/art/1740854625"
                     },
                     {
                         "alt": "Better Man",
                         "type": "clearLogo",
-                        "url": "/library/metadata/13/clearLogo/1740247227"
+                        "url": "/library/metadata/13/clearLogo/1740854625"
                     }
                 ],
                 "UltraBlurColors": {
@@ -4082,12 +4082,12 @@
                 "audienceRating": 6.7,
                 "year": 2024,
                 "tagline": "The story of an orphan who would be king.",
-                "thumb": "/library/metadata/2/thumb/1740212502",
-                "art": "/library/metadata/2/art/1740212502",
+                "thumb": "/library/metadata/2/thumb/1740854624",
+                "art": "/library/metadata/2/art/1740854624",
                 "duration": 7077994,
                 "originallyAvailableAt": "2024-12-18",
                 "addedAt": 1740065946,
-                "updatedAt": 1740212502,
+                "updatedAt": 1740854624,
                 "audienceRatingImage": "imdb://image.rating",
                 "hasPremiumPrimaryExtra": "1",
                 "Media": [
@@ -4122,17 +4122,17 @@
                     {
                         "alt": "Mufasa: The Lion King",
                         "type": "coverPoster",
-                        "url": "/library/metadata/2/thumb/1740212502"
+                        "url": "/library/metadata/2/thumb/1740854624"
                     },
                     {
                         "alt": "Mufasa: The Lion King",
                         "type": "background",
-                        "url": "/library/metadata/2/art/1740212502"
+                        "url": "/library/metadata/2/art/1740854624"
                     },
                     {
                         "alt": "Mufasa: The Lion King",
                         "type": "clearLogo",
-                        "url": "/library/metadata/2/clearLogo/1740212502"
+                        "url": "/library/metadata/2/clearLogo/1740854624"
                     }
                 ],
                 "UltraBlurColors": {
@@ -4695,15 +4695,15 @@
                 "titleSort": "Brutalist",
                 "contentRating": "au/MA 15+",
                 "summary": "Escaping post-war Europe, a visionary architect (Adrien Brody) arrives in America to rebuild his life. On his own in a strange new country, a wealthy industrialist recognizes his talent. But power and legacy come at a heavy cost...",
-                "audienceRating": 7.8,
+                "audienceRating": 7.7,
                 "year": 2024,
                 "tagline": "Welcome to America.",
-                "thumb": "/library/metadata/71/thumb/1740247225",
-                "art": "/library/metadata/71/art/1740247225",
+                "thumb": "/library/metadata/71/thumb/1740854628",
+                "art": "/library/metadata/71/art/1740854628",
                 "duration": 12063658,
                 "originallyAvailableAt": "2024-12-20",
                 "addedAt": 1740060462,
-                "updatedAt": 1740247225,
+                "updatedAt": 1740854628,
                 "audienceRatingImage": "imdb://image.rating",
                 "chapterSource": "media",
                 "hasPremiumPrimaryExtra": "1",
@@ -4743,17 +4743,17 @@
                     {
                         "alt": "The Brutalist",
                         "type": "coverPoster",
-                        "url": "/library/metadata/71/thumb/1740247225"
+                        "url": "/library/metadata/71/thumb/1740854628"
                     },
                     {
                         "alt": "The Brutalist",
                         "type": "background",
-                        "url": "/library/metadata/71/art/1740247225"
+                        "url": "/library/metadata/71/art/1740854628"
                     },
                     {
                         "alt": "The Brutalist",
                         "type": "clearLogo",
-                        "url": "/library/metadata/71/clearLogo/1740247225"
+                        "url": "/library/metadata/71/clearLogo/1740854628"
                     }
                 ],
                 "UltraBlurColors": {
