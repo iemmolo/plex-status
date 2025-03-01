@@ -4522,6 +4522,8 @@
                 "contentRating": "au/PG",
                 "summary": "The untold origin story of Optimus Prime and Megatron, better known as sworn enemies, but who once were friends bonded like brothers who changed the fate of Cybertron forever.",
                 "audienceRating": 7.6,
+                "viewOffset": 110044,
+                "lastViewedAt": 1740841548,
                 "year": 2024,
                 "tagline": "Witness the origin.",
                 "thumb": "/library/metadata/84/thumb/1740247230",
@@ -4625,6 +4627,8 @@
                 "type": "movie",
                 "title": "IMAX a Beautiful Planet NASA Documentary",
                 "summary": "",
+                "viewOffset": 770316,
+                "lastViewedAt": 1740841408,
                 "year": 2016,
                 "thumb": "/library/metadata/56/thumb/1740212510",
                 "art": "/library/metadata/56/art/1740212510",
@@ -4683,111 +4687,119 @@
                 }
             },
             {
-                "ratingKey": "50",
-                "slug": "flight-risk-2025",
-                "studio": "Davis Entertainment",
+                "ratingKey": "71",
+                "slug": "the-brutalist",
+                "studio": "Brookstreet Pictures",
                 "type": "movie",
-                "title": "Flight Risk",
-                "contentRating": "au/M",
-                "summary": "In this high-stakes suspense thriller, Academy Award\u00ae nominee Mark Wahlberg plays a pilot transporting an Air Marshal (Michelle Dockery) accompanying a fugitive (Topher Grace) to trial. As they cross the Alaskan wilderness, tensions soar and trust is tested, as not everyone on board is who they seem.",
-                "audienceRating": 5.3,
-                "year": 2025,
-                "tagline": "Y'all need a pilot?",
-                "thumb": "/library/metadata/50/thumb/1740212509",
-                "art": "/library/metadata/50/art/1740212509",
-                "duration": 5120768,
-                "originallyAvailableAt": "2025-01-22",
-                "addedAt": 1740061307,
-                "updatedAt": 1740212509,
+                "title": "The Brutalist",
+                "titleSort": "Brutalist",
+                "contentRating": "au/MA 15+",
+                "summary": "Escaping post-war Europe, a visionary architect (Adrien Brody) arrives in America to rebuild his life. On his own in a strange new country, a wealthy industrialist recognizes his talent. But power and legacy come at a heavy cost...",
+                "audienceRating": 7.8,
+                "year": 2024,
+                "tagline": "Welcome to America.",
+                "thumb": "/library/metadata/71/thumb/1740247225",
+                "art": "/library/metadata/71/art/1740247225",
+                "duration": 12063658,
+                "originallyAvailableAt": "2024-12-20",
+                "addedAt": 1740060462,
+                "updatedAt": 1740247225,
                 "audienceRatingImage": "imdb://image.rating",
+                "chapterSource": "media",
                 "hasPremiumPrimaryExtra": "1",
                 "Media": [
                     {
-                        "id": 99,
-                        "duration": 5120768,
-                        "bitrate": 4269,
-                        "width": 1920,
-                        "height": 1080,
-                        "aspectRatio": 1.78,
-                        "audioChannels": 2,
+                        "id": 144,
+                        "duration": 12063658,
+                        "bitrate": 2633,
+                        "width": 1792,
+                        "height": 1078,
+                        "aspectRatio": 1.66,
+                        "audioChannels": 6,
                         "audioCodec": "aac",
                         "videoCodec": "h264",
                         "videoResolution": "1080",
                         "container": "mp4",
                         "videoFrameRate": "24p",
-                        "optimizedForStreaming": 0,
+                        "optimizedForStreaming": 1,
                         "audioProfile": "lc",
                         "has64bitOffsets": false,
-                        "videoProfile": "main",
+                        "videoProfile": "high",
                         "Part": [
                             {
-                                "id": 99,
-                                "key": "/library/parts/99/1740061307/file.mp4",
-                                "duration": 5120768,
+                                "id": 144,
+                                "key": "/library/parts/144/1740060462/file.mp4",
+                                "duration": 12063658,
                                 "audioProfile": "lc",
                                 "container": "mp4",
                                 "has64bitOffsets": false,
-                                "optimizedForStreaming": false,
-                                "videoProfile": "main"
+                                "optimizedForStreaming": true,
+                                "videoProfile": "high"
                             }
                         ]
                     }
                 ],
                 "Image": [
                     {
-                        "alt": "Flight Risk",
+                        "alt": "The Brutalist",
                         "type": "coverPoster",
-                        "url": "/library/metadata/50/thumb/1740212509"
+                        "url": "/library/metadata/71/thumb/1740247225"
                     },
                     {
-                        "alt": "Flight Risk",
+                        "alt": "The Brutalist",
                         "type": "background",
-                        "url": "/library/metadata/50/art/1740212509"
+                        "url": "/library/metadata/71/art/1740247225"
                     },
                     {
-                        "alt": "Flight Risk",
+                        "alt": "The Brutalist",
                         "type": "clearLogo",
-                        "url": "/library/metadata/50/clearLogo/1740212509"
+                        "url": "/library/metadata/71/clearLogo/1740247225"
                     }
                 ],
                 "UltraBlurColors": {
-                    "topLeft": "11333c",
-                    "topRight": "256584",
-                    "bottomRight": "112e43",
-                    "bottomLeft": "30618e"
+                    "topLeft": "11333d",
+                    "topRight": "874325",
+                    "bottomRight": "763816",
+                    "bottomLeft": "4c1204"
                 },
                 "Genre": [
                     {
-                        "tag": "Thriller"
+                        "tag": "Drama"
                     },
                     {
-                        "tag": "Drama"
+                        "tag": "History"
                     }
                 ],
                 "Country": [
+                    {
+                        "tag": "United Kingdom"
+                    },
                     {
                         "tag": "United States of America"
                     }
                 ],
                 "Director": [
                     {
-                        "tag": "Mel Gibson"
+                        "tag": "Brady Corbet"
                     }
                 ],
                 "Writer": [
                     {
-                        "tag": "Jared Rosenberg"
+                        "tag": "Brady Corbet"
+                    },
+                    {
+                        "tag": "Mona Fastvold"
                     }
                 ],
                 "Role": [
                     {
-                        "tag": "Michelle Dockery"
+                        "tag": "Adrien Brody"
                     },
                     {
-                        "tag": "Mark Wahlberg"
+                        "tag": "Felicity Jones"
                     },
                     {
-                        "tag": "Topher Grace"
+                        "tag": "Guy Pearce"
                     }
                 ]
             }
