@@ -1584,7 +1584,7 @@
                 "parentThumb": "/library/metadata/284/thumb/1740353859",
                 "parentTheme": "/library/metadata/284/theme/1740353859",
                 "leafCount": 13,
-                "viewedLeafCount": 8,
+                "viewedLeafCount": 9,
                 "addedAt": 1740353858,
                 "updatedAt": 1740353861,
                 "Image": [
@@ -2414,7 +2414,7 @@
                 "parentThumb": "/library/metadata/143/thumb/1740601142",
                 "parentTheme": "/library/metadata/143/theme/1740601142",
                 "leafCount": 5,
-                "viewedLeafCount": 0,
+                "viewedLeafCount": 1,
                 "addedAt": 1740129078,
                 "updatedAt": 1740212539,
                 "Image": [
@@ -2454,12 +2454,12 @@
                 "skipCount": 1,
                 "year": 2024,
                 "tagline": "Hope has yet to abandon these lands.",
-                "thumb": "/library/metadata/4/thumb/1740212503",
-                "art": "/library/metadata/4/art/1740212503",
+                "thumb": "/library/metadata/4/thumb/1740854625",
+                "art": "/library/metadata/4/art/1740854625",
                 "duration": 8054432,
                 "originallyAvailableAt": "2024-12-04",
                 "addedAt": 1740127972,
-                "updatedAt": 1740212503,
+                "updatedAt": 1740854625,
                 "audienceRatingImage": "imdb://image.rating",
                 "chapterSource": "media",
                 "hasPremiumPrimaryExtra": "1",
@@ -2493,17 +2493,17 @@
                     {
                         "alt": "The Lord of the Rings: The War of the Rohirrim",
                         "type": "coverPoster",
-                        "url": "/library/metadata/4/thumb/1740212503"
+                        "url": "/library/metadata/4/thumb/1740854625"
                     },
                     {
                         "alt": "The Lord of the Rings: The War of the Rohirrim",
                         "type": "background",
-                        "url": "/library/metadata/4/art/1740212503"
+                        "url": "/library/metadata/4/art/1740854625"
                     },
                     {
                         "alt": "The Lord of the Rings: The War of the Rohirrim",
                         "type": "clearLogo",
-                        "url": "/library/metadata/4/clearLogo/1740212503"
+                        "url": "/library/metadata/4/clearLogo/1740854625"
                     }
                 ],
                 "UltraBlurColors": {
@@ -2535,10 +2535,10 @@
                 ],
                 "Writer": [
                     {
-                        "tag": "Phoebe Gittins"
+                        "tag": "Arty Papageorgiou"
                     },
                     {
-                        "tag": "Arty Papageorgiou"
+                        "tag": "Phoebe Gittins"
                     }
                 ],
                 "Role": [
@@ -3859,12 +3859,12 @@
                 "lastViewedAt": 1740312545,
                 "year": 2024,
                 "tagline": "Fame makes monkeys of us all.",
-                "thumb": "/library/metadata/13/thumb/1740247227",
-                "art": "/library/metadata/13/art/1740247227",
+                "thumb": "/library/metadata/13/thumb/1740854625",
+                "art": "/library/metadata/13/art/1740854625",
                 "duration": 8140417,
                 "originallyAvailableAt": "2024-12-25",
                 "addedAt": 1740066544,
-                "updatedAt": 1740247227,
+                "updatedAt": 1740854625,
                 "audienceRatingImage": "imdb://image.rating",
                 "chapterSource": "media",
                 "hasPremiumPrimaryExtra": "1",
@@ -3904,17 +3904,17 @@
                     {
                         "alt": "Better Man",
                         "type": "coverPoster",
-                        "url": "/library/metadata/13/thumb/1740247227"
+                        "url": "/library/metadata/13/thumb/1740854625"
                     },
                     {
                         "alt": "Better Man",
                         "type": "background",
-                        "url": "/library/metadata/13/art/1740247227"
+                        "url": "/library/metadata/13/art/1740854625"
                     },
                     {
                         "alt": "Better Man",
                         "type": "clearLogo",
-                        "url": "/library/metadata/13/clearLogo/1740247227"
+                        "url": "/library/metadata/13/clearLogo/1740854625"
                     }
                 ],
                 "UltraBlurColors": {
@@ -4082,12 +4082,12 @@
                 "audienceRating": 6.7,
                 "year": 2024,
                 "tagline": "The story of an orphan who would be king.",
-                "thumb": "/library/metadata/2/thumb/1740212502",
-                "art": "/library/metadata/2/art/1740212502",
+                "thumb": "/library/metadata/2/thumb/1740854624",
+                "art": "/library/metadata/2/art/1740854624",
                 "duration": 7077994,
                 "originallyAvailableAt": "2024-12-18",
                 "addedAt": 1740065946,
-                "updatedAt": 1740212502,
+                "updatedAt": 1740854624,
                 "audienceRatingImage": "imdb://image.rating",
                 "hasPremiumPrimaryExtra": "1",
                 "Media": [
@@ -4122,17 +4122,17 @@
                     {
                         "alt": "Mufasa: The Lion King",
                         "type": "coverPoster",
-                        "url": "/library/metadata/2/thumb/1740212502"
+                        "url": "/library/metadata/2/thumb/1740854624"
                     },
                     {
                         "alt": "Mufasa: The Lion King",
                         "type": "background",
-                        "url": "/library/metadata/2/art/1740212502"
+                        "url": "/library/metadata/2/art/1740854624"
                     },
                     {
                         "alt": "Mufasa: The Lion King",
                         "type": "clearLogo",
-                        "url": "/library/metadata/2/clearLogo/1740212502"
+                        "url": "/library/metadata/2/clearLogo/1740854624"
                     }
                 ],
                 "UltraBlurColors": {
@@ -4522,6 +4522,8 @@
                 "contentRating": "au/PG",
                 "summary": "The untold origin story of Optimus Prime and Megatron, better known as sworn enemies, but who once were friends bonded like brothers who changed the fate of Cybertron forever.",
                 "audienceRating": 7.6,
+                "viewCount": 1,
+                "lastViewedAt": 1740847254,
                 "year": 2024,
                 "tagline": "Witness the origin.",
                 "thumb": "/library/metadata/84/thumb/1740247230",
@@ -4625,6 +4627,8 @@
                 "type": "movie",
                 "title": "IMAX a Beautiful Planet NASA Documentary",
                 "summary": "",
+                "viewOffset": 770316,
+                "lastViewedAt": 1740841408,
                 "year": 2016,
                 "thumb": "/library/metadata/56/thumb/1740212510",
                 "art": "/library/metadata/56/art/1740212510",
@@ -4683,111 +4687,119 @@
                 }
             },
             {
-                "ratingKey": "50",
-                "slug": "flight-risk-2025",
-                "studio": "Davis Entertainment",
+                "ratingKey": "71",
+                "slug": "the-brutalist",
+                "studio": "Brookstreet Pictures",
                 "type": "movie",
-                "title": "Flight Risk",
-                "contentRating": "au/M",
-                "summary": "In this high-stakes suspense thriller, Academy Award\u00ae nominee Mark Wahlberg plays a pilot transporting an Air Marshal (Michelle Dockery) accompanying a fugitive (Topher Grace) to trial. As they cross the Alaskan wilderness, tensions soar and trust is tested, as not everyone on board is who they seem.",
-                "audienceRating": 5.3,
-                "year": 2025,
-                "tagline": "Y'all need a pilot?",
-                "thumb": "/library/metadata/50/thumb/1740212509",
-                "art": "/library/metadata/50/art/1740212509",
-                "duration": 5120768,
-                "originallyAvailableAt": "2025-01-22",
-                "addedAt": 1740061307,
-                "updatedAt": 1740212509,
+                "title": "The Brutalist",
+                "titleSort": "Brutalist",
+                "contentRating": "au/MA 15+",
+                "summary": "Escaping post-war Europe, a visionary architect (Adrien Brody) arrives in America to rebuild his life. On his own in a strange new country, a wealthy industrialist recognizes his talent. But power and legacy come at a heavy cost...",
+                "audienceRating": 7.7,
+                "year": 2024,
+                "tagline": "Welcome to America.",
+                "thumb": "/library/metadata/71/thumb/1740854628",
+                "art": "/library/metadata/71/art/1740854628",
+                "duration": 12063658,
+                "originallyAvailableAt": "2024-12-20",
+                "addedAt": 1740060462,
+                "updatedAt": 1740854628,
                 "audienceRatingImage": "imdb://image.rating",
+                "chapterSource": "media",
                 "hasPremiumPrimaryExtra": "1",
                 "Media": [
                     {
-                        "id": 99,
-                        "duration": 5120768,
-                        "bitrate": 4269,
-                        "width": 1920,
-                        "height": 1080,
-                        "aspectRatio": 1.78,
-                        "audioChannels": 2,
+                        "id": 144,
+                        "duration": 12063658,
+                        "bitrate": 2633,
+                        "width": 1792,
+                        "height": 1078,
+                        "aspectRatio": 1.66,
+                        "audioChannels": 6,
                         "audioCodec": "aac",
                         "videoCodec": "h264",
                         "videoResolution": "1080",
                         "container": "mp4",
                         "videoFrameRate": "24p",
-                        "optimizedForStreaming": 0,
+                        "optimizedForStreaming": 1,
                         "audioProfile": "lc",
                         "has64bitOffsets": false,
-                        "videoProfile": "main",
+                        "videoProfile": "high",
                         "Part": [
                             {
-                                "id": 99,
-                                "key": "/library/parts/99/1740061307/file.mp4",
-                                "duration": 5120768,
+                                "id": 144,
+                                "key": "/library/parts/144/1740060462/file.mp4",
+                                "duration": 12063658,
                                 "audioProfile": "lc",
                                 "container": "mp4",
                                 "has64bitOffsets": false,
-                                "optimizedForStreaming": false,
-                                "videoProfile": "main"
+                                "optimizedForStreaming": true,
+                                "videoProfile": "high"
                             }
                         ]
                     }
                 ],
                 "Image": [
                     {
-                        "alt": "Flight Risk",
+                        "alt": "The Brutalist",
                         "type": "coverPoster",
-                        "url": "/library/metadata/50/thumb/1740212509"
+                        "url": "/library/metadata/71/thumb/1740854628"
                     },
                     {
-                        "alt": "Flight Risk",
+                        "alt": "The Brutalist",
                         "type": "background",
-                        "url": "/library/metadata/50/art/1740212509"
+                        "url": "/library/metadata/71/art/1740854628"
                     },
                     {
-                        "alt": "Flight Risk",
+                        "alt": "The Brutalist",
                         "type": "clearLogo",
-                        "url": "/library/metadata/50/clearLogo/1740212509"
+                        "url": "/library/metadata/71/clearLogo/1740854628"
                     }
                 ],
                 "UltraBlurColors": {
-                    "topLeft": "11333c",
-                    "topRight": "256584",
-                    "bottomRight": "112e43",
-                    "bottomLeft": "30618e"
+                    "topLeft": "11333d",
+                    "topRight": "874325",
+                    "bottomRight": "763816",
+                    "bottomLeft": "4c1204"
                 },
                 "Genre": [
                     {
-                        "tag": "Thriller"
+                        "tag": "Drama"
                     },
                     {
-                        "tag": "Drama"
+                        "tag": "History"
                     }
                 ],
                 "Country": [
+                    {
+                        "tag": "United Kingdom"
+                    },
                     {
                         "tag": "United States of America"
                     }
                 ],
                 "Director": [
                     {
-                        "tag": "Mel Gibson"
+                        "tag": "Brady Corbet"
                     }
                 ],
                 "Writer": [
                     {
-                        "tag": "Jared Rosenberg"
+                        "tag": "Brady Corbet"
+                    },
+                    {
+                        "tag": "Mona Fastvold"
                     }
                 ],
                 "Role": [
                     {
-                        "tag": "Michelle Dockery"
+                        "tag": "Adrien Brody"
                     },
                     {
-                        "tag": "Mark Wahlberg"
+                        "tag": "Felicity Jones"
                     },
                     {
-                        "tag": "Topher Grace"
+                        "tag": "Guy Pearce"
                     }
                 ]
             }

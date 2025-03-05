@@ -1,4 +1,4 @@
-<?php 
+<?php
 namespace PlexStatus;
 
 class DataSanitizer {
@@ -14,7 +14,7 @@ class DataSanitizer {
 
     private function filterByConfig(array $data, array $rules): array {
         $filtered = [];
-        
+
         foreach ($data as $key => $value) {
             if (isset($rules[$key]) && $rules[$key] === false) {
                 continue;
@@ -31,7 +31,7 @@ class DataSanitizer {
                         $filtered[$key] = $this->filterByConfig($value, $rules[$key]);
                     }
                 } else {
-                    $filtered[$key] = array_key_exists(0, $value) 
+                    $filtered[$key] = array_key_exists(0, $value)
                         ? array_map(fn($item) => is_array($item) ? $this->filterByConfig($item, $rules) : $item, $value)
                         : $this->filterByConfig($value, $rules);
                 }
@@ -39,7 +39,7 @@ class DataSanitizer {
                 $filtered[$key] = $value;
             }
         }
-        
+
         return $filtered;
     }
 }
