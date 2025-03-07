@@ -18,7 +18,12 @@ export class Ball {
         this.ctx.arc(this.x, this.y, this.radius, 0, Math.PI * 2);
         this.ctx.fillStyle = this.colour;
         this.ctx.fill();
-        this.ctx.closePath();
+
+        this.ctx.beginPath();
+        this.ctx.arc(this.x, this.y, this.radius - 2, 0, Math.PI * 2);
+        this.ctx.strokeStyle = "#FFFFFF";
+        this.ctx.lineWidth = 1;
+        this.ctx.stroke();
     }
 
     move() {

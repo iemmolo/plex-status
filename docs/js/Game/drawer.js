@@ -40,6 +40,23 @@ export class Drawer {
     }
 
     draw() {
+        // Draw bedroom wall background
+        this.ctx.fillStyle = "#E6D7B9"; // Warm beige wall color
+        this.ctx.fillRect(0, 0, this.canvas.width, this.canvas.height);
+
+        // Add a simple wallpaper pattern (optional)
+        this.ctx.strokeStyle = "#D6C7A9"; // Slightly darker than the wall
+        this.ctx.lineWidth = 1;
+
+        // Draw horizontal stripes for wallpaper pattern
+        for (let i = 0; i < this.canvas.height; i += 20) {
+            this.ctx.beginPath();
+            this.ctx.moveTo(0, i);
+            this.ctx.lineTo(this.canvas.width, i);
+            this.ctx.stroke();
+        }
+
+
         this.ctx.clearRect(0, 0, this.canvas.width, this.canvas.height);
 
         // Ball collision with walls (horizontal)
